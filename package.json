@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "tn:dev": "         vitepress dev",
+    "tn:dev": "         vitepress dev --host",
     "tn:build": "       vitepress build",
     "tn:preview": "     vitepress preview",
     "tn:distribute": "  node ./.tnotes/core --distribute",

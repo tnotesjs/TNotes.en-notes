@@ -5,10 +5,11 @@
 import DefaultTheme from 'vitepress/theme'
 import type { Theme } from 'vitepress'
 import './custom.css'
-import Layout from '../components/Layout/Layout.vue'
-import Footprints from '../components/Footprints/Footprints.vue'
-import Discussions from '../components/Discussions/Discussions.vue'
 import BilibiliOutsidePlayer from '../components/BilibiliOutsidePlayer/BilibiliOutsidePlayer.vue'
+import Discussions from '../components/Discussions/Discussions.vue'
+import EnWordList from '../components/EnWordList/EnWordList.vue'
+import Footprints from '../components/Footprints/Footprints.vue'
+import Layout from '../components/Layout/Layout.vue'
 import Settings from '../components/Settings/Settings.vue'
 
 export default {
@@ -21,9 +22,10 @@ export default {
   // doc: https://vitepress.dev/zh/guide/extending-default-theme#registering-global-components
   enhanceApp({ app }) {
     // 注册自定义全局组件
-    app.component('Footprints', Footprints)
-    app.component('Discussions', Discussions)
     app.component('BilibiliOutsidePlayer', BilibiliOutsidePlayer)
+    app.component('Discussions', Discussions)
+    app.component('EnWordList', EnWordList)
+    app.component('Footprints', Footprints)
     app.component('Settings', Settings)
   },
 } satisfies Theme
