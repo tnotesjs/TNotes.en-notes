@@ -1,7 +1,7 @@
-# [0004. 批量上传单词到 yuque 知识库中](https://github.com/Tdahuyou/en-notes/tree/main/0004.%20%E6%89%B9%E9%87%8F%E4%B8%8A%E4%BC%A0%E5%8D%95%E8%AF%8D%E5%88%B0%20yuque%20%E7%9F%A5%E8%AF%86%E5%BA%93%E4%B8%AD)
+# [0004. 批量上传单词到 yuque 知识库中](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0004.%20%E6%89%B9%E9%87%8F%E4%B8%8A%E4%BC%A0%E5%8D%95%E8%AF%8D%E5%88%B0%20yuque%20%E7%9F%A5%E8%AF%86%E5%BA%93%E4%B8%AD)
 
 <!-- region:toc -->
-- [1. 📝 简介](#1--summary)
+- [1. 📝 简介](#1--简介)
 - [2. 📒 notes](#2--notes)
 <!-- endregion:toc -->
 ## 1. 📝 简介

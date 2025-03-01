@@ -1,7 +1,7 @@
-# [0002. qwerty-learner 英语词典数据解析脚本](https://github.com/Tdahuyou/en-notes/tree/main/0002.%20qwerty-learner%20%E8%8B%B1%E8%AF%AD%E8%AF%8D%E5%85%B8%E6%95%B0%E6%8D%AE%E8%A7%A3%E6%9E%90%E8%84%9A%E6%9C%AC)
+# [0002. qwerty-learner 英语词典数据解析脚本](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0002.%20qwerty-learner%20%E8%8B%B1%E8%AF%AD%E8%AF%8D%E5%85%B8%E6%95%B0%E6%8D%AE%E8%A7%A3%E6%9E%90%E8%84%9A%E6%9C%AC)
 
 <!-- region:toc -->
-- [1. 📝 简介](#1--summary)
+- [1. 📝 简介](#1--简介)
 - [2. 🔗 links](#2--links)
 - [3. 📒 notes - qwerty-learner 脚本](#3--notes---qwerty-learner-脚本)
   - [3.1. qwerty learner 词典目录](#31-qwerty-learner-词典目录)

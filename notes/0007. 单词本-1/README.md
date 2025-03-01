@@ -1,4 +1,4 @@
-# [0007. 单词本-1](https://github.com/Tdahuyou/en-notes/tree/main/0007.%20%E5%8D%95%E8%AF%8D%E6%9C%AC-1)
+# [0007. 单词本-1](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0007.%20%E5%8D%95%E8%AF%8D%E6%9C%AC-1)
 
 <!-- region:toc -->
 - [1. ⚙️ EnWordList](#1-️-enwordlist)

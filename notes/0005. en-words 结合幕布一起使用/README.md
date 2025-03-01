@@ -1,4 +1,4 @@
-# [0005. en-words 结合幕布一起使用](https://github.com/Tdahuyou/en-notes/tree/main/0005.%20en-words%20%E7%BB%93%E5%90%88%E5%B9%95%E5%B8%83%E4%B8%80%E8%B5%B7%E4%BD%BF%E7%94%A8)
+# [0005. en-words 结合幕布一起使用](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0005.%20en-words%20%E7%BB%93%E5%90%88%E5%B9%95%E5%B8%83%E4%B8%80%E8%B5%B7%E4%BD%BF%E7%94%A8)
 
 <!-- region:toc -->
 - [1. 📒 基本使用流程](#1--基本使用流程)
