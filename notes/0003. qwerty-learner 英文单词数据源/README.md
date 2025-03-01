@@ -2,12 +2,15 @@
 
 <!-- region:toc -->
 - [1. 📝 简介](#1--简介)
-- [2. 🔗 links](#2--links)
+- [2. 🔗 github dict](#2--github-dict)
+- [3. 📒 TNotes.en-words 数据来源说明](#3--tnotesen-words-数据来源说明)
 <!-- endregion:toc -->
+
 ## 1. 📝 简介
+
 - 记录了【qwerty-learner 英文单词数据源】的完整 JSON 数据的获取方式。
 
-## 2. 🔗 links
+## 2. 🔗 github dict
 
 - https://github.com/kajweb/dict
   - github dict
@@ -99,3 +102,47 @@
 ├── WaiYanSheChuZhong_5.json
 └── WaiYanSheChuZhong_6.json
 ```
+
+## 3. 📒 TNotes.en-words 数据来源说明
+
+- [TNotes.en-words](https://github.com/Tdahuyou/TNotes.en-words) 中的单词数据也是基于 [dict](https://github.com/kajweb/dict) 来初始化的。
+- 后续若有新增的词汇，再利用 AI 来生成同样结构的单词树数据，然后丢到 [TNotes.en-words](https://github.com/Tdahuyou/TNotes.en-words) 中即可。
+
+```bash
+git clone https://github.com/kajweb/dict
+# 拉取 + 解析：
+# 1. 把这个单词仓库数据全部 clone 下来
+# 2. 自行编写一个简单的解析脚本提取单词卡片数据【解析脚本在当前笔记仓库中有记录】
+
+# 示例 TNotes.en-words 中的词汇：
+# - abandon
+#   - 发音
+#     - 英 /ə'bændən/
+#     - 美 /ə'bændən/
+#   - 词义
+#     - vt. 离弃，放弃
+#       - to leave someone, especially someone you are responsible for
+#     - n. 放纵，放任
+#       - if someone does something with abandon, they behave in a careless or uncontrolled way, without thinking or caring about what they are doing
+#   - 记忆
+#     - a + band(乐队) + on → 乐队解散， 放弃演出 → 放弃
+#   - 同根词
+#     - adj. abandoned 被抛弃的；无约束的；恣意放荡的；寡廉鲜耻的
+#     - n. abandonment 抛弃；放纵
+#     - v. abandoned 抛弃（abandon的过去式和过去分词）
+#   - 近义词
+#     - n. 狂热；放任
+#       - loose
+#       - mania
+#     - vt. 遗弃；放弃
+#       - desert
+#       - yield
+#       - quit
+#   - 短语
+#     - with abandon 恣意地，放纵地
+#     - abandon ship 弃船
+#   - 例句
+#     - How could she abandon her own child? 她怎么能抛弃自己的孩子呢？
+#   - 补充
+```
+

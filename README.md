@@ -43,7 +43,7 @@
 ## 3. 记单词的流程
 
 - [x] [0005. en-words 结合幕布将单词转为思维导图的形式来呈现](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0005.%20en-words%20%E7%BB%93%E5%90%88%E5%B9%95%E5%B8%83%E5%B0%86%E5%8D%95%E8%AF%8D%E8%BD%AC%E4%B8%BA%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%E7%9A%84%E5%BD%A2%E5%BC%8F%E6%9D%A5%E5%91%88%E7%8E%B0/README.md) <!-- [locale](./notes/0005.%20en-words%20%E7%BB%93%E5%90%88%E5%B9%95%E5%B8%83%E5%B0%86%E5%8D%95%E8%AF%8D%E8%BD%AC%E4%B8%BA%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%E7%9A%84%E5%BD%A2%E5%BC%8F%E6%9D%A5%E5%91%88%E7%8E%B0/README.md) -->  
-  - [1. 📒 基本使用流程](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0005.%20en-words%20%E7%BB%93%E5%90%88%E5%B9%95%E5%B8%83%E5%B0%86%E5%8D%95%E8%AF%8D%E8%BD%AC%E4%B8%BA%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%E7%9A%84%E5%BD%A2%E5%BC%8F%E6%9D%A5%E5%91%88%E7%8E%B0/README.md#1--基本使用流程)
+  - [1. 📒 基本使用流程说明](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0005.%20en-words%20%E7%BB%93%E5%90%88%E5%B9%95%E5%B8%83%E5%B0%86%E5%8D%95%E8%AF%8D%E8%BD%AC%E4%B8%BA%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%E7%9A%84%E5%BD%A2%E5%BC%8F%E6%9D%A5%E5%91%88%E7%8E%B0/README.md#1--基本使用流程说明)
   
 
 ## 4. qwerty-learner 英文单词
@@ -59,9 +59,11 @@ TODO：
 - 英语、日语支持友好一些
 :::
 
-- [ ] [0003. qwerty-learner 英文单词数据源](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0003.%20qwerty-learner%20%E8%8B%B1%E6%96%87%E5%8D%95%E8%AF%8D%E6%95%B0%E6%8D%AE%E6%BA%90/README.md) <!-- [locale](./notes/0003.%20qwerty-learner%20%E8%8B%B1%E6%96%87%E5%8D%95%E8%AF%8D%E6%95%B0%E6%8D%AE%E6%BA%90/README.md) -->  
+- [x] [0003. qwerty-learner 英文单词数据源](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0003.%20qwerty-learner%20%E8%8B%B1%E6%96%87%E5%8D%95%E8%AF%8D%E6%95%B0%E6%8D%AE%E6%BA%90/README.md) <!-- [locale](./notes/0003.%20qwerty-learner%20%E8%8B%B1%E6%96%87%E5%8D%95%E8%AF%8D%E6%95%B0%E6%8D%AE%E6%BA%90/README.md) -->  
   - [1. 📝 简介](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0003.%20qwerty-learner%20%E8%8B%B1%E6%96%87%E5%8D%95%E8%AF%8D%E6%95%B0%E6%8D%AE%E6%BA%90/README.md#1--简介)
-  - [2. 🔗 links](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0003.%20qwerty-learner%20%E8%8B%B1%E6%96%87%E5%8D%95%E8%AF%8D%E6%95%B0%E6%8D%AE%E6%BA%90/README.md#2--links)
+  - [2. 🔗 github dict](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0003.%20qwerty-learner%20%E8%8B%B1%E6%96%87%E5%8D%95%E8%AF%8D%E6%95%B0%E6%8D%AE%E6%BA%90/README.md#2--github-dict)
+  - [3. 📒 TNotes.en-words 数据来源说明](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0003.%20qwerty-learner%20%E8%8B%B1%E6%96%87%E5%8D%95%E8%AF%8D%E6%95%B0%E6%8D%AE%E6%BA%90/README.md#3--tnotesen-words-数据来源说明)
+  
 
 - [ ] [0002. qwerty-learner 英语词典数据解析脚本](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0002.%20qwerty-learner%20%E8%8B%B1%E8%AF%AD%E8%AF%8D%E5%85%B8%E6%95%B0%E6%8D%AE%E8%A7%A3%E6%9E%90%E8%84%9A%E6%9C%AC/README.md) <!-- [locale](./notes/0002.%20qwerty-learner%20%E8%8B%B1%E8%AF%AD%E8%AF%8D%E5%85%B8%E6%95%B0%E6%8D%AE%E8%A7%A3%E6%9E%90%E8%84%9A%E6%9C%AC/README.md) -->  
   - [1. 📝 简介](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0002.%20qwerty-learner%20%E8%8B%B1%E8%AF%AD%E8%AF%8D%E5%85%B8%E6%95%B0%E6%8D%AE%E8%A7%A3%E6%9E%90%E8%84%9A%E6%9C%AC/README.md#1--简介)
