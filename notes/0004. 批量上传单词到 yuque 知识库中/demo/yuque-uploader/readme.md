@@ -1,0 +1,3 @@
+- 读取 files 中的 .md 文件，将其插入到对应的 namespace 中。
+- title 文档标题
+- slug 文档的路径
