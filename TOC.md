@@ -53,9 +53,8 @@ TODO：
 :::
 
 - [x] [0003. qwerty-learner 英文单词数据源](https://tdahuyou.github.io/TNotes.en-notes/notes/0003.%20qwerty-learner%20%E8%8B%B1%E6%96%87%E5%8D%95%E8%AF%8D%E6%95%B0%E6%8D%AE%E6%BA%90/README) <!-- [locale](./notes/0003.%20qwerty-learner%20%E8%8B%B1%E6%96%87%E5%8D%95%E8%AF%8D%E6%95%B0%E6%8D%AE%E6%BA%90/README) -->  
-  - [1. 📝 简介](https://tdahuyou.github.io/TNotes.en-notes/notes/0003.%20qwerty-learner%20%E8%8B%B1%E6%96%87%E5%8D%95%E8%AF%8D%E6%95%B0%E6%8D%AE%E6%BA%90/README#1--简介)
-  - [2. 🔗 github dict](https://tdahuyou.github.io/TNotes.en-notes/notes/0003.%20qwerty-learner%20%E8%8B%B1%E6%96%87%E5%8D%95%E8%AF%8D%E6%95%B0%E6%8D%AE%E6%BA%90/README#2--github-dict)
-  - [3. 📒 TNotes.en-words 数据来源说明](https://tdahuyou.github.io/TNotes.en-notes/notes/0003.%20qwerty-learner%20%E8%8B%B1%E6%96%87%E5%8D%95%E8%AF%8D%E6%95%B0%E6%8D%AE%E6%BA%90/README#3--tnotesen-words-数据来源说明)
+  - [1. 🔗 github dict](https://tdahuyou.github.io/TNotes.en-notes/notes/0003.%20qwerty-learner%20%E8%8B%B1%E6%96%87%E5%8D%95%E8%AF%8D%E6%95%B0%E6%8D%AE%E6%BA%90/README#1--github-dict)
+  - [2. 📒 TNotes.en-words 数据来源说明](https://tdahuyou.github.io/TNotes.en-notes/notes/0003.%20qwerty-learner%20%E8%8B%B1%E6%96%87%E5%8D%95%E8%AF%8D%E6%95%B0%E6%8D%AE%E6%BA%90/README#2--tnotesen-words-数据来源说明)
   
 
 - [ ] [0002. qwerty-learner 英语词典数据解析脚本](https://tdahuyou.github.io/TNotes.en-notes/notes/0002.%20qwerty-learner%20%E8%8B%B1%E8%AF%AD%E8%AF%8D%E5%85%B8%E6%95%B0%E6%8D%AE%E8%A7%A3%E6%9E%90%E8%84%9A%E6%9C%AC/README) <!-- [locale](./notes/0002.%20qwerty-learner%20%E8%8B%B1%E8%AF%AD%E8%AF%8D%E5%85%B8%E6%95%B0%E6%8D%AE%E8%A7%A3%E6%9E%90%E8%84%9A%E6%9C%AC/README) -->  

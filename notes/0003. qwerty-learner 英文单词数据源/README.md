@@ -1,16 +1,11 @@
 # [0003. qwerty-learner 英文单词数据源](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0003.%20qwerty-learner%20%E8%8B%B1%E6%96%87%E5%8D%95%E8%AF%8D%E6%95%B0%E6%8D%AE%E6%BA%90)
 
 <!-- region:toc -->
-- [1. 📝 简介](#1--简介)
-- [2. 🔗 github dict](#2--github-dict)
-- [3. 📒 TNotes.en-words 数据来源说明](#3--tnotesen-words-数据来源说明)
+- [1. 🔗 github dict](#1--github-dict)
+- [2. 📒 TNotes.en-words 数据来源说明](#2--tnotesen-words-数据来源说明)
 <!-- endregion:toc -->
 
-## 1. 📝 简介
-
-- 记录了【qwerty-learner 英文单词数据源】的完整 JSON 数据的获取方式。
-
-## 2. 🔗 github dict
+## 1. 🔗 github dict
 
 - https://github.com/kajweb/dict
   - github dict
@@ -103,7 +98,7 @@
 └── WaiYanSheChuZhong_6.json
 ```
 
-## 3. 📒 TNotes.en-words 数据来源说明
+## 2. 📒 TNotes.en-words 数据来源说明
 
 - [TNotes.en-words](https://github.com/Tdahuyou/TNotes.en-words) 中的单词数据也是基于 [dict](https://github.com/kajweb/dict) 来初始化的。
 - 后续若有新增的词汇，再利用 AI 来生成同样结构的单词树数据，然后丢到 [TNotes.en-words](https://github.com/Tdahuyou/TNotes.en-words) 中即可。
