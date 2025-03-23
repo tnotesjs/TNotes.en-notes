@@ -2,6 +2,7 @@
 
 <!-- region:toc -->
 - [1. ⚙️ EnWordList](#1-️-enwordlist)
+- [2. ⏰ TODO - 新增逻辑 - 不存在词典中的内容，自动跳转到词库的新建界面。](#2--todo---新增逻辑---不存在词典中的内容自动跳转到词库的新建界面)
 <!-- endregion:toc -->
 
 ## 1. ⚙️ EnWordList
@@ -41,4 +42,17 @@
 'dimension',
 'accord',
 'orientation',
+'authentication',
+'Cascade',
+'course',
+'enrollment',
+'foreign',
+'manipulation',
+'runoob',
 ]"></EnWordList>
+
+## 2. ⏰ TODO - 优化新增单词逻辑
+
+- 检测单词是否存在于词库 `TNotes.en-words` 中
+- 如果单词不存在于词库中，则自动跳转到词库的新建界面：
+  - https://github.com/Tdahuyou/TNotes.en-words/new/main

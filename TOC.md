@@ -20,6 +20,7 @@
 
 - [x] [0008. 单词本-2](https://tdahuyou.github.io/TNotes.en-notes/notes/0008.%20%E5%8D%95%E8%AF%8D%E6%9C%AC-2/README) <!-- [locale](./notes/0008.%20%E5%8D%95%E8%AF%8D%E6%9C%AC-2/README) -->  
   - [1. ⚙️ EnWordList](https://tdahuyou.github.io/TNotes.en-notes/notes/0008.%20%E5%8D%95%E8%AF%8D%E6%9C%AC-2/README#1-️-enwordlist)
+  - [2. ⏰ TODO - 新增逻辑 - 不存在词典中的内容，自动跳转到词库的新建界面。](https://tdahuyou.github.io/TNotes.en-notes/notes/0008.%20%E5%8D%95%E8%AF%8D%E6%9C%AC-2/README#2--todo---新增逻辑---不存在词典中的内容自动跳转到词库的新建界面)
   
 
 ## 2. 我的词库
