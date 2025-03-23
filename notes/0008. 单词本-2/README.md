@@ -2,7 +2,7 @@
 
 <!-- region:toc -->
 - [1. ⚙️ EnWordList](#1-️-enwordlist)
-- [2. ⏰ TODO - 新增逻辑 - 不存在词典中的内容，自动跳转到词库的新建界面。](#2--todo---新增逻辑---不存在词典中的内容自动跳转到词库的新建界面)
+- [2. ⏰ TODO - 优化新增单词逻辑](#2--todo---优化新增单词逻辑)
 <!-- endregion:toc -->
 
 ## 1. ⚙️ EnWordList
@@ -49,6 +49,8 @@
 'foreign',
 'manipulation',
 'runoob',
+'sophisticated',
+'prose'
 ]"></EnWordList>
 
 ## 2. ⏰ TODO - 优化新增单词逻辑

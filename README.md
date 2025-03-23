@@ -27,7 +27,12 @@
 
 - [x] [0008. 单词本-2](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0008.%20%E5%8D%95%E8%AF%8D%E6%9C%AC-2/README.md) <!-- [locale](./notes/0008.%20%E5%8D%95%E8%AF%8D%E6%9C%AC-2/README.md) -->  
   - [1. ⚙️ EnWordList](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0008.%20%E5%8D%95%E8%AF%8D%E6%9C%AC-2/README.md#1-️-enwordlist)
-  - [2. ⏰ TODO - 新增逻辑 - 不存在词典中的内容，自动跳转到词库的新建界面。](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0008.%20%E5%8D%95%E8%AF%8D%E6%9C%AC-2/README.md#2--todo---新增逻辑---不存在词典中的内容自动跳转到词库的新建界面)
+  - [2. ⏰ TODO - 优化新增单词逻辑](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0008.%20%E5%8D%95%E8%AF%8D%E6%9C%AC-2/README.md#2--todo---优化新增单词逻辑)
+  
+
+- [ ] [0009. IT 术语](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0009.%20IT%20%E6%9C%AF%E8%AF%AD/README.md) <!-- [locale](./notes/0009.%20IT%20%E6%9C%AF%E8%AF%AD/README.md) -->  
+  - [1. 📒 Introduction](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0009.%20IT%20%E6%9C%AF%E8%AF%AD/README.md#1--introduction)
+  - [2. 🎯 SMS](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0009.%20IT%20%E6%9C%AF%E8%AF%AD/README.md#2--sms)
   
 
 ## 2. 我的词库
