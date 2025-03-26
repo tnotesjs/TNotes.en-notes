@@ -3,6 +3,7 @@
 <!-- region:toc -->
 - [1. 📒 Introduction](#1--introduction)
 - [2. 🎯 SMS](#2--sms)
+- [3. 🎯 COS](#3--cos)
 <!-- endregion:toc -->
 
 ## 1. 📒 Introduction
@@ -13,3 +14,7 @@
 
 - `SMS` 是 `Short Message Service` 的缩写，中文通常称为“短信服务”。它是一种通过移动通信网络发送和接收短消息的服务。
 - 用途: 主要用于发送和接收简短的文本消息，通常不超过 160 个字符（在某些情况下可以扩展到更长）。
+
+## 3. 🎯 COS
+
+对象存储（Cloud Object Storage，COS）。

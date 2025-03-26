@@ -26,6 +26,7 @@
 - [ ] [0009. IT 术语](https://tdahuyou.github.io/TNotes.en-notes/notes/0009.%20IT%20%E6%9C%AF%E8%AF%AD/README) <!-- [locale](./notes/0009.%20IT%20%E6%9C%AF%E8%AF%AD/README) -->  
   - [1. 📒 Introduction](https://tdahuyou.github.io/TNotes.en-notes/notes/0009.%20IT%20%E6%9C%AF%E8%AF%AD/README#1--introduction)
   - [2. 🎯 SMS](https://tdahuyou.github.io/TNotes.en-notes/notes/0009.%20IT%20%E6%9C%AF%E8%AF%AD/README#2--sms)
+  - [3. 🎯 COS](https://tdahuyou.github.io/TNotes.en-notes/notes/0009.%20IT%20%E6%9C%AF%E8%AF%AD/README#3--cos)
   
 
 ## 2. 我的词库
