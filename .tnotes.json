@@ -2,6 +2,7 @@
   "author": "Tdahuyou",
   "repoName": "TNotes.en-notes",
   "keywords": ["TNotes.en-notes", "TNotes en-notes", "Tdahuyou en-notes notes"],
+  "sidebar_isCollapsed": true,
   "ignore_dirs": [
     ".vscode",
     "0000",
