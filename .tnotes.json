@@ -1,11 +1,7 @@
 {
   "author": "Tdahuyou",
   "repoName": "TNotes.en-notes",
-  "keywords": [
-    "TNotes.en-notes",
-    "TNotes en-notes",
-    "Tdahuyou en-notes notes"
-  ],
+  "keywords": ["TNotes.en-notes", "TNotes en-notes", "Tdahuyou en-notes notes"],
   "sidebar_isCollapsed": true,
   "ignore_dirs": [
     ".vscode",
@@ -16,6 +12,7 @@
     "demos",
     "assets"
   ],
+  "rootDocsSrcDir": "../_/docs/src",
   "port": 9379,
   "menuItems": [
     {
