@@ -55,4 +55,5 @@
 'unoccupied',
 'vector',
 'vertical',
+'consecutive'
 ]"></EnWordList>
