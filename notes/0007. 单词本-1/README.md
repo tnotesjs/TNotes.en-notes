@@ -6,13 +6,12 @@
 
 <!-- endregion:toc -->
 
-## 1. ⚙️ EnWordList
+## 📝 概述
 
-::: tip 提示
+- 第一个单词本。
+- 创建时间：`25.03.02`。
 
-右键菜单展示更多功能。
-
-:::
+## 1. 📒 词汇列表
 
 <EnWordList :words="[
 'abandon',

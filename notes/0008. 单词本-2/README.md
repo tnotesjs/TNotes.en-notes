@@ -6,10 +6,16 @@
 
 <!-- endregion:toc -->
 
-## 1. ⚙️ EnWordList
+## 📝 概述
+
+- 第二个单词本。
+- 创建时间：`25.03.02`。
+
+## 1. 📒 词汇列表
 
 <EnWordList :words="[
 'accord',
+'analytical',
 'archive',
 'authentication',
 'badge',
@@ -18,17 +24,21 @@
 'cabbage',
 'Cascade',
 'cave',
+'clash',
 'compose',
+'consecutive',
 'course',
 'cubic',
 'curve',
 'darkgreen',
 'decompose',
 'dimension',
+'dual',
 'elliptical',
 'enrollment',
 'foreign',
 'garlic',
+'grant',
 'graphics',
 'horizontal',
 'lineto',
@@ -37,10 +47,14 @@
 'miter',
 'moveto',
 'mutator',
+'OLAP',
+'OLTP',
+'online',
 'orientation',
 'patrol',
 'police',
 'populate',
+'processing',
 'prose',
 'purify',
 'quadratic',
@@ -51,13 +65,11 @@
 'saturation',
 'scalable',
 'serial',
+'SMS',
 'sophisticated',
+'transaction',
+'transactional',
 'unoccupied',
 'vector',
 'vertical',
-'consecutive',
-'dual',
-'clash',
-'grant',
-'SMS',
 ]"></EnWordList>
