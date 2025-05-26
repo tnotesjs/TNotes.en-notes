@@ -73,4 +73,5 @@
 'unoccupied',
 'vector',
 'vertical',
+'WHATWG',
 ]"></EnWordList>
