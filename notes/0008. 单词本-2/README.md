@@ -25,6 +25,7 @@
 'Cascade',
 'cave',
 'clash',
+'cleaner',
 'compose',
 'consecutive',
 'course',
