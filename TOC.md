@@ -7,9 +7,11 @@
   - [1. 📝 概述](https://tdahuyou.github.io/TNotes.en-notes/notes/0009.%20%E5%8D%95%E8%AF%8D%E6%9C%AC%E6%A6%82%E8%BF%B0/README#1--概述)
   - [2. 📒 单词本组件 `EnWordList.vue` 功能介绍](https://tdahuyou.github.io/TNotes.en-notes/notes/0009.%20%E5%8D%95%E8%AF%8D%E6%9C%AC%E6%A6%82%E8%BF%B0/README#2--单词本组件-enwordlistvue-功能介绍)
 - [x] [0007. 单词本-1](https://tdahuyou.github.io/TNotes.en-notes/notes/0007.%20%E5%8D%95%E8%AF%8D%E6%9C%AC-1/README)
-  - [1. ⚙️ EnWordList](https://tdahuyou.github.io/TNotes.en-notes/notes/0007.%20%E5%8D%95%E8%AF%8D%E6%9C%AC-1/README#1-️-enwordlist)
+  - [1. 📝 概述](https://tdahuyou.github.io/TNotes.en-notes/notes/0007.%20%E5%8D%95%E8%AF%8D%E6%9C%AC-1/README#1--概述)
+  - [2. 📒 词汇列表](https://tdahuyou.github.io/TNotes.en-notes/notes/0007.%20%E5%8D%95%E8%AF%8D%E6%9C%AC-1/README#2--词汇列表)
 - [x] [0008. 单词本-2](https://tdahuyou.github.io/TNotes.en-notes/notes/0008.%20%E5%8D%95%E8%AF%8D%E6%9C%AC-2/README)
-  - [1. ⚙️ EnWordList](https://tdahuyou.github.io/TNotes.en-notes/notes/0008.%20%E5%8D%95%E8%AF%8D%E6%9C%AC-2/README#1-️-enwordlist)
+  - [1. 📝 概述](https://tdahuyou.github.io/TNotes.en-notes/notes/0008.%20%E5%8D%95%E8%AF%8D%E6%9C%AC-2/README#1--概述)
+  - [2. 📒 词汇列表](https://tdahuyou.github.io/TNotes.en-notes/notes/0008.%20%E5%8D%95%E8%AF%8D%E6%9C%AC-2/README#2--词汇列表)
 
 ## 2. 我的词库
 
