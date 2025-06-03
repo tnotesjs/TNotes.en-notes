@@ -63,13 +63,13 @@ import {
 
 const path = ref('')
 const showCategory = ref(false)
-const isAutoShowCard = ref(true)
+const isAutoShowCard = ref(false)
 
 if (typeof window !== 'undefined') {
   path.value = localStorage.getItem(NOTES_DIR_KEY)
   showCategory.value =
     localStorage.getItem(HOME_SIDEBAR_CARD_SHOW_CATEGORY_KEY) === 'true'
-  isAutoShowCard.value = ['true', null].includes(
+  isAutoShowCard.value = ['true' /* , null */].includes(
     localStorage.getItem(EN_WORD_LIST_COMP_IS_AUTO_SHOW_CARD)
   )
 }
