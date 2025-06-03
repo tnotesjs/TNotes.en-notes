@@ -4,6 +4,8 @@
 ## 1. 打字单词
 
 - [ ] [0010. cet-4](https://tdahuyou.github.io/TNotes.en-notes/notes/0010.%20cet-4/README)
+  - [📂 TNotes.yuque](https://www.yuque.com/tdahuyou/tnotes.yuque/)
+    - [TNotes.yuque.en-notes.0010](https://www.yuque.com/tdahuyou/tnotes.yuque/en-notes.0010)
   - [1. 🔗 qwerty learner 在线练习链接](https://tdahuyou.github.io/TNotes.en-notes/notes/0010.%20cet-4/README#1--qwerty-learner-在线练习链接)
   - [2. 🎯 Chapter 1](https://tdahuyou.github.io/TNotes.en-notes/notes/0010.%20cet-4/README#2--chapter-1)
   - [3. 🎯 Chapter 2](https://tdahuyou.github.io/TNotes.en-notes/notes/0010.%20cet-4/README#3--chapter-2)

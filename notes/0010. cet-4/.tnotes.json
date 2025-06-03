@@ -1,6 +1,8 @@
 {
   "bilibili": [],
-  "yuque": [],
+  "yuque": [
+    "en-notes.0010"
+  ],
   "done": false,
   "enableDiscussions": false,
   "id": "10b5ef3d-dc1d-4fbd-946e-ea3c01c56839"
