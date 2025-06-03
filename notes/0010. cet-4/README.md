@@ -145,8 +145,6 @@
 
 ## 2. 🎯 Chapter 1
 
-<audio controls src="./audio/cet-4.1.mp3"></audio>
-
 <EnWordList :words="[
 'cancel',
 'explosive',
