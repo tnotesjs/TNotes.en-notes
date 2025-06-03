@@ -62,3 +62,5 @@ TODO：
   - [2. 🔗 tts 在线转换工具 - tts maker](https://tdahuyou.github.io/TNotes.en-notes/notes/0006.%20%E3%80%8A%E8%80%81%E4%BA%BA%E4%B8%8E%E6%B5%B7%E3%80%8B%E7%AC%94%E8%AE%B0/README#2--tts-在线转换工具---tts-maker)
   - [3. 📂 《老人与海》原文 txt 版](https://tdahuyou.github.io/TNotes.en-notes/notes/0006.%20%E3%80%8A%E8%80%81%E4%BA%BA%E4%B8%8E%E6%B5%B7%E3%80%8B%E7%AC%94%E8%AE%B0/README#3--老人与海原文-txt-版)
   - [4. 📒 TTS 在线转换](https://tdahuyou.github.io/TNotes.en-notes/notes/0006.%20%E3%80%8A%E8%80%81%E4%BA%BA%E4%B8%8E%E6%B5%B7%E3%80%8B%E7%AC%94%E8%AE%B0/README#4--tts-在线转换)
+- [ ] [0010. cet-4 词汇列表（qwerty-learner）](https://tdahuyou.github.io/TNotes.en-notes/notes/0010.%20cet-4%20%E8%AF%8D%E6%B1%87%E5%88%97%E8%A1%A8%EF%BC%88qwerty-learner%EF%BC%89/README)
+  - [1. 🎯 Chapter 129](https://tdahuyou.github.io/TNotes.en-notes/notes/0010.%20cet-4%20%E8%AF%8D%E6%B1%87%E5%88%97%E8%A1%A8%EF%BC%88qwerty-learner%EF%BC%89/README#1--chapter-129)

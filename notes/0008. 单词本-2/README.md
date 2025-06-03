@@ -14,7 +14,7 @@
 
 ## 2. 📒 词汇列表
 
-<EnWordList :words="[
+<EnWordList needSort :words="[
 'accord',
 'analytical',
 'archive',
