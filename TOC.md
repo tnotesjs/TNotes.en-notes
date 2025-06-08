@@ -451,7 +451,15 @@
   - [2. 💻 免费方案 - fish-speech tts 体验](https://tdahuyou.github.io/TNotes.en-notes/notes/0013.%20fish-speech%20tts%20%E4%BD%93%E9%AA%8C/README#2--免费方案---fish-speech-tts-体验)
   - [3. 📒 收费方案评价](https://tdahuyou.github.io/TNotes.en-notes/notes/0013.%20fish-speech%20tts%20%E4%BD%93%E9%AA%8C/README#3--收费方案评价)
 
-## 6. qwerty-learner 数据源
+## 6. 经典名著
+
+- [ ] [0006. 《老人与海》](https://tdahuyou.github.io/TNotes.en-notes/notes/0006.%20%E3%80%8A%E8%80%81%E4%BA%BA%E4%B8%8E%E6%B5%B7%E3%80%8B/README)
+  - [1. 📝 概述](https://tdahuyou.github.io/TNotes.en-notes/notes/0006.%20%E3%80%8A%E8%80%81%E4%BA%BA%E4%B8%8E%E6%B5%B7%E3%80%8B/README#1--概述)
+  - [2. 🔗 tts 在线转换工具 - tts maker](https://tdahuyou.github.io/TNotes.en-notes/notes/0006.%20%E3%80%8A%E8%80%81%E4%BA%BA%E4%B8%8E%E6%B5%B7%E3%80%8B/README#2--tts-在线转换工具---tts-maker)
+  - [3. 📂 《老人与海》原文 txt 版](https://tdahuyou.github.io/TNotes.en-notes/notes/0006.%20%E3%80%8A%E8%80%81%E4%BA%BA%E4%B8%8E%E6%B5%B7%E3%80%8B/README#3--老人与海原文-txt-版)
+  - [4. 📒 TTS 在线转换](https://tdahuyou.github.io/TNotes.en-notes/notes/0006.%20%E3%80%8A%E8%80%81%E4%BA%BA%E4%B8%8E%E6%B5%B7%E3%80%8B/README#4--tts-在线转换)
+
+## 7. qwerty-learner 数据源
 
 ::: danger
 
@@ -479,8 +487,3 @@ TODO：
     - [3.3. 词典目录](https://tdahuyou.github.io/TNotes.en-notes/notes/0002.%20qwerty-learner%20%E8%8B%B1%E8%AF%AD%E8%AF%8D%E5%85%B8%E6%95%B0%E6%8D%AE%E8%A7%A3%E6%9E%90%E8%84%9A%E6%9C%AC/README#33-词典目录)
 - [ ] [0004. 批量上传单词到 yuque 知识库中](https://tdahuyou.github.io/TNotes.en-notes/notes/0004.%20%E6%89%B9%E9%87%8F%E4%B8%8A%E4%BC%A0%E5%8D%95%E8%AF%8D%E5%88%B0%20yuque%20%E7%9F%A5%E8%AF%86%E5%BA%93%E4%B8%AD/README)
   - [1. 📝 概述](https://tdahuyou.github.io/TNotes.en-notes/notes/0004.%20%E6%89%B9%E9%87%8F%E4%B8%8A%E4%BC%A0%E5%8D%95%E8%AF%8D%E5%88%B0%20yuque%20%E7%9F%A5%E8%AF%86%E5%BA%93%E4%B8%AD/README#1--概述)
-- [ ] [0006. 《老人与海》笔记](https://tdahuyou.github.io/TNotes.en-notes/notes/0006.%20%E3%80%8A%E8%80%81%E4%BA%BA%E4%B8%8E%E6%B5%B7%E3%80%8B%E7%AC%94%E8%AE%B0/README)
-  - [1. 📝 概述](https://tdahuyou.github.io/TNotes.en-notes/notes/0006.%20%E3%80%8A%E8%80%81%E4%BA%BA%E4%B8%8E%E6%B5%B7%E3%80%8B%E7%AC%94%E8%AE%B0/README#1--概述)
-  - [2. 🔗 tts 在线转换工具 - tts maker](https://tdahuyou.github.io/TNotes.en-notes/notes/0006.%20%E3%80%8A%E8%80%81%E4%BA%BA%E4%B8%8E%E6%B5%B7%E3%80%8B%E7%AC%94%E8%AE%B0/README#2--tts-在线转换工具---tts-maker)
-  - [3. 📂 《老人与海》原文 txt 版](https://tdahuyou.github.io/TNotes.en-notes/notes/0006.%20%E3%80%8A%E8%80%81%E4%BA%BA%E4%B8%8E%E6%B5%B7%E3%80%8B%E7%AC%94%E8%AE%B0/README#3--老人与海原文-txt-版)
-  - [4. 📒 TTS 在线转换](https://tdahuyou.github.io/TNotes.en-notes/notes/0006.%20%E3%80%8A%E8%80%81%E4%BA%BA%E4%B8%8E%E6%B5%B7%E3%80%8B%E7%AC%94%E8%AE%B0/README#4--tts-在线转换)
