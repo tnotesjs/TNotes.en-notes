@@ -4,13 +4,14 @@
 
 - [en-notes](#en-notes)
   - [1. QWERTY-LEARNER 大学英语 CET-4](#1-qwerty-learner-大学英语-cet-4)
-  - [2. 单词本](#2-单词本)
-  - [3. 我的词库](#3-我的词库)
-  - [4. 记单词的流程](#4-记单词的流程)
+  - [2. Word Books](#2-word-books)
+  - [3. 词库](#3-词库)
+  - [4. 自定义组件](#4-自定义组件)
   - [5. tts](#5-tts)
   - [6. 经典名著](#6-经典名著)
   - [7. 语雀 SDK](#7-语雀-sdk)
   - [8. QWERTY-LEARNER 数据源](#8-qwerty-learner-数据源)
+  - [9. 幕布](#9-幕布)
 
 <!-- endregion:toc -->
 
@@ -427,19 +428,18 @@
     - [3.130. 🎯 Chapter 130](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0012.%20cet-4%20tts-2/README.md#3130--chapter-130)
     - [3.131. 🎯 Chapter 131](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0012.%20cet-4%20tts-2/README.md#3131--chapter-131)
 
-## 2. 单词本
+## 2. Word Books
 
 - [ ] [0009. 单词本概述](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0009.%20%E5%8D%95%E8%AF%8D%E6%9C%AC%E6%A6%82%E8%BF%B0/README.md)
   - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0009.%20%E5%8D%95%E8%AF%8D%E6%9C%AC%E6%A6%82%E8%BF%B0/README.md#1--概述)
-  - [2. 📒 单词本组件 `EnWordList.vue` 功能介绍](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0009.%20%E5%8D%95%E8%AF%8D%E6%9C%AC%E6%A6%82%E8%BF%B0/README.md#2--单词本组件-enwordlistvue-功能介绍)
-- [x] [0007. 单词本-1](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0007.%20%E5%8D%95%E8%AF%8D%E6%9C%AC-1/README.md)
-  - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0007.%20%E5%8D%95%E8%AF%8D%E6%9C%AC-1/README.md#1--概述)
-  - [2. 📒 词汇列表](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0007.%20%E5%8D%95%E8%AF%8D%E6%9C%AC-1/README.md#2--词汇列表)
-- [x] [0008. 单词本-2](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0008.%20%E5%8D%95%E8%AF%8D%E6%9C%AC-2/README.md)
-  - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0008.%20%E5%8D%95%E8%AF%8D%E6%9C%AC-2/README.md#1--概述)
-  - [2. 📒 词汇列表](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0008.%20%E5%8D%95%E8%AF%8D%E6%9C%AC-2/README.md#2--词汇列表)
+- [x] [0007. wordbook-1](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0007.%20wordbook-1/README.md)
+  - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0007.%20wordbook-1/README.md#1--概述)
+  - [2. 📒 词汇列表](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0007.%20wordbook-1/README.md#2--词汇列表)
+- [x] [0008. wordbook-2](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0008.%20wordbook-2/README.md)
+  - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0008.%20wordbook-2/README.md#1--概述)
+  - [2. 📒 词汇列表](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0008.%20wordbook-2/README.md#2--词汇列表)
 
-## 3. 我的词库
+## 3. 词库
 
 - [x] [0001. en-words 仓库简介](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0001.%20en-words%20%E4%BB%93%E5%BA%93%E7%AE%80%E4%BB%8B/README.md)
   - [1. 🔗 github 开源仓库 - 英语字典 - kajweb/dict](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0001.%20en-words%20%E4%BB%93%E5%BA%93%E7%AE%80%E4%BB%8B/README.md#1--github-开源仓库---英语字典---kajwebdict)
@@ -449,11 +449,11 @@
   - [5. 🤔 如何往 en-words 中新增词汇？](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0001.%20en-words%20%E4%BB%93%E5%BA%93%E7%AE%80%E4%BB%8B/README.md#5--如何往-en-words-中新增词汇)
   - [6. 💻 demos.1 - 提取所有词汇的脚本](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0001.%20en-words%20%E4%BB%93%E5%BA%93%E7%AE%80%E4%BB%8B/README.md#6--demos1---提取所有词汇的脚本)
 
-## 4. 记单词的流程
+## 4. 自定义组件
 
-- [x] [0005. 结合幕布将单词转为思维导图的形式来呈现](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0005.%20%E7%BB%93%E5%90%88%E5%B9%95%E5%B8%83%E5%B0%86%E5%8D%95%E8%AF%8D%E8%BD%AC%E4%B8%BA%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%E7%9A%84%E5%BD%A2%E5%BC%8F%E6%9D%A5%E5%91%88%E7%8E%B0/README.md)
-  - [1. ❌ Deprecated](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0005.%20%E7%BB%93%E5%90%88%E5%B9%95%E5%B8%83%E5%B0%86%E5%8D%95%E8%AF%8D%E8%BD%AC%E4%B8%BA%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%E7%9A%84%E5%BD%A2%E5%BC%8F%E6%9D%A5%E5%91%88%E7%8E%B0/README.md#1--deprecated)
-  - [2. 📒 基本使用流程说明](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0005.%20%E7%BB%93%E5%90%88%E5%B9%95%E5%B8%83%E5%B0%86%E5%8D%95%E8%AF%8D%E8%BD%AC%E4%B8%BA%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%E7%9A%84%E5%BD%A2%E5%BC%8F%E6%9D%A5%E5%91%88%E7%8E%B0/README.md#2--基本使用流程说明)
+- [x] [0014. EnWordList 基本功能介绍](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0014.%20EnWordList%20%E5%9F%BA%E6%9C%AC%E5%8A%9F%E8%83%BD%E4%BB%8B%E7%BB%8D/README.md)
+  - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0014.%20EnWordList%20%E5%9F%BA%E6%9C%AC%E5%8A%9F%E8%83%BD%E4%BB%8B%E7%BB%8D/README.md#1--概述)
+  - [2. 📒 单词本组件 `EnWordList.vue` 功能介绍](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0014.%20EnWordList%20%E5%9F%BA%E6%9C%AC%E5%8A%9F%E8%83%BD%E4%BB%8B%E7%BB%8D/README.md#2--单词本组件-enwordlistvue-功能介绍)
 
 ## 5. tts
 
@@ -503,3 +503,9 @@ TODO：
     - [3.1. qwerty learner 词典目录](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0002.%20qwerty-learner%20%E8%8B%B1%E8%AF%AD%E8%AF%8D%E5%85%B8%E6%95%B0%E6%8D%AE%E8%A7%A3%E6%9E%90%E8%84%9A%E6%9C%AC/README.md#31-qwerty-learner-词典目录)
     - [3.2. 脚本使用说明](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0002.%20qwerty-learner%20%E8%8B%B1%E8%AF%AD%E8%AF%8D%E5%85%B8%E6%95%B0%E6%8D%AE%E8%A7%A3%E6%9E%90%E8%84%9A%E6%9C%AC/README.md#32-脚本使用说明)
     - [3.3. 词典目录](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0002.%20qwerty-learner%20%E8%8B%B1%E8%AF%AD%E8%AF%8D%E5%85%B8%E6%95%B0%E6%8D%AE%E8%A7%A3%E6%9E%90%E8%84%9A%E6%9C%AC/README.md#33-词典目录)
+
+## 9. 幕布
+
+- [x] [0005. 结合幕布将单词转为思维导图的形式来呈现](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0005.%20%E7%BB%93%E5%90%88%E5%B9%95%E5%B8%83%E5%B0%86%E5%8D%95%E8%AF%8D%E8%BD%AC%E4%B8%BA%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%E7%9A%84%E5%BD%A2%E5%BC%8F%E6%9D%A5%E5%91%88%E7%8E%B0/README.md)
+  - [1. ❌ Deprecated](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0005.%20%E7%BB%93%E5%90%88%E5%B9%95%E5%B8%83%E5%B0%86%E5%8D%95%E8%AF%8D%E8%BD%AC%E4%B8%BA%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%E7%9A%84%E5%BD%A2%E5%BC%8F%E6%9D%A5%E5%91%88%E7%8E%B0/README.md#1--deprecated)
+  - [2. 📒 基本使用流程说明](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0005.%20%E7%BB%93%E5%90%88%E5%B9%95%E5%B8%83%E5%B0%86%E5%8D%95%E8%AF%8D%E8%BD%AC%E4%B8%BA%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%E7%9A%84%E5%BD%A2%E5%BC%8F%E6%9D%A5%E5%91%88%E7%8E%B0/README.md#2--基本使用流程说明)

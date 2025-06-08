@@ -1,4 +1,4 @@
-# [0008. 单词本-2](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0008.%20%E5%8D%95%E8%AF%8D%E6%9C%AC-2)
+# [0008. wordbook-2](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0008.%20wordbook-2)
 
 <!-- region:toc -->
 
@@ -38,6 +38,8 @@
 'dual',
 'elliptical',
 'enrollment',
+'erase',
+'eraser',
 'foreign',
 'garlic',
 'grant',
@@ -46,6 +48,7 @@
 'lineto',
 'magenta',
 'manipulation',
+'Manipulation',
 'miter',
 'moveto',
 'mutator',

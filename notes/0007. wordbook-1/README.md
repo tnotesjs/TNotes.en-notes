@@ -1,4 +1,4 @@
-# [0007. 单词本-1](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0007.%20%E5%8D%95%E8%AF%8D%E6%9C%AC-1)
+# [0007. wordbook-1](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0007.%20wordbook-1)
 
 <!-- region:toc -->
 
