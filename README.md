@@ -9,7 +9,8 @@
   - [4. 记单词的流程](#4-记单词的流程)
   - [5. tts](#5-tts)
   - [6. 经典名著](#6-经典名著)
-  - [7. qwerty-learner 数据源](#7-qwerty-learner-数据源)
+  - [7. 语雀 SDK](#7-语雀-sdk)
+  - [8. QWERTY-LEARNER 数据源](#8-qwerty-learner-数据源)
 
 <!-- endregion:toc -->
 
@@ -471,7 +472,12 @@
   - [3. 📂 《老人与海》原文 txt 版](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0006.%20%E3%80%8A%E8%80%81%E4%BA%BA%E4%B8%8E%E6%B5%B7%E3%80%8B/README.md#3--老人与海原文-txt-版)
   - [4. 📒 TTS 在线转换](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0006.%20%E3%80%8A%E8%80%81%E4%BA%BA%E4%B8%8E%E6%B5%B7%E3%80%8B/README.md#4--tts-在线转换)
 
-## 7. qwerty-learner 数据源
+## 7. 语雀 SDK
+
+- [ ] [0004. 批量上传单词到 yuque 知识库中](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0004.%20%E6%89%B9%E9%87%8F%E4%B8%8A%E4%BC%A0%E5%8D%95%E8%AF%8D%E5%88%B0%20yuque%20%E7%9F%A5%E8%AF%86%E5%BA%93%E4%B8%AD/README.md)
+  - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0004.%20%E6%89%B9%E9%87%8F%E4%B8%8A%E4%BC%A0%E5%8D%95%E8%AF%8D%E5%88%B0%20yuque%20%E7%9F%A5%E8%AF%86%E5%BA%93%E4%B8%AD/README.md#1--概述)
+
+## 8. QWERTY-LEARNER 数据源
 
 ::: danger
 
@@ -497,5 +503,3 @@ TODO：
     - [3.1. qwerty learner 词典目录](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0002.%20qwerty-learner%20%E8%8B%B1%E8%AF%AD%E8%AF%8D%E5%85%B8%E6%95%B0%E6%8D%AE%E8%A7%A3%E6%9E%90%E8%84%9A%E6%9C%AC/README.md#31-qwerty-learner-词典目录)
     - [3.2. 脚本使用说明](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0002.%20qwerty-learner%20%E8%8B%B1%E8%AF%AD%E8%AF%8D%E5%85%B8%E6%95%B0%E6%8D%AE%E8%A7%A3%E6%9E%90%E8%84%9A%E6%9C%AC/README.md#32-脚本使用说明)
     - [3.3. 词典目录](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0002.%20qwerty-learner%20%E8%8B%B1%E8%AF%AD%E8%AF%8D%E5%85%B8%E6%95%B0%E6%8D%AE%E8%A7%A3%E6%9E%90%E8%84%9A%E6%9C%AC/README.md#33-词典目录)
-- [ ] [0004. 批量上传单词到 yuque 知识库中](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0004.%20%E6%89%B9%E9%87%8F%E4%B8%8A%E4%BC%A0%E5%8D%95%E8%AF%8D%E5%88%B0%20yuque%20%E7%9F%A5%E8%AF%86%E5%BA%93%E4%B8%AD/README.md)
-  - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0004.%20%E6%89%B9%E9%87%8F%E4%B8%8A%E4%BC%A0%E5%8D%95%E8%AF%8D%E5%88%B0%20yuque%20%E7%9F%A5%E8%AF%86%E5%BA%93%E4%B8%AD/README.md#1--概述)
