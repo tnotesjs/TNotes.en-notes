@@ -1,149 +1,169 @@
-# [0010. cet-4](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0010.%20cet-4)
+# [0010. cet-4 checklist](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0010.%20cet-4%20checklist)
 
 <!-- region:toc -->
 
 - [📂 TNotes.yuque](https://www.yuque.com/tdahuyou/tnotes.yuque/)
   - [TNotes.yuque.en-notes.0010](https://www.yuque.com/tdahuyou/tnotes.yuque/en-notes.0010)
-- [1. 🔗 qwerty learner 在线练习链接](#1--qwerty-learner-在线练习链接)
-- [2. 🎯 Chapter 1](#2--chapter-1)
-- [3. 🎯 Chapter 2](#3--chapter-2)
-- [4. 🎯 Chapter 3](#4--chapter-3)
-- [5. 🎯 Chapter 4](#5--chapter-4)
-- [6. 🎯 Chapter 5](#6--chapter-5)
-- [7. 🎯 Chapter 6](#7--chapter-6)
-- [8. 🎯 Chapter 7](#8--chapter-7)
-- [9. 🎯 Chapter 8](#9--chapter-8)
-- [10. 🎯 Chapter 9](#10--chapter-9)
-- [11. 🎯 Chapter 10](#11--chapter-10)
-- [12. 🎯 Chapter 11](#12--chapter-11)
-- [13. 🎯 Chapter 12](#13--chapter-12)
-- [14. 🎯 Chapter 13](#14--chapter-13)
-- [15. 🎯 Chapter 14](#15--chapter-14)
-- [16. 🎯 Chapter 15](#16--chapter-15)
-- [17. 🎯 Chapter 16](#17--chapter-16)
-- [18. 🎯 Chapter 17](#18--chapter-17)
-- [19. 🎯 Chapter 18](#19--chapter-18)
-- [20. 🎯 Chapter 19](#20--chapter-19)
-- [21. 🎯 Chapter 20](#21--chapter-20)
-- [22. 🎯 Chapter 21](#22--chapter-21)
-- [23. 🎯 Chapter 22](#23--chapter-22)
-- [24. 🎯 Chapter 23](#24--chapter-23)
-- [25. 🎯 Chapter 24](#25--chapter-24)
-- [26. 🎯 Chapter 25](#26--chapter-25)
-- [27. 🎯 Chapter 26](#27--chapter-26)
-- [28. 🎯 Chapter 27](#28--chapter-27)
-- [29. 🎯 Chapter 28](#29--chapter-28)
-- [30. 🎯 Chapter 29](#30--chapter-29)
-- [31. 🎯 Chapter 30](#31--chapter-30)
-- [32. 🎯 Chapter 31](#32--chapter-31)
-- [33. 🎯 Chapter 32](#33--chapter-32)
-- [34. 🎯 Chapter 33](#34--chapter-33)
-- [35. 🎯 Chapter 34](#35--chapter-34)
-- [36. 🎯 Chapter 35](#36--chapter-35)
-- [37. 🎯 Chapter 36](#37--chapter-36)
-- [38. 🎯 Chapter 37](#38--chapter-37)
-- [39. 🎯 Chapter 38](#39--chapter-38)
-- [40. 🎯 Chapter 39](#40--chapter-39)
-- [41. 🎯 Chapter 40](#41--chapter-40)
-- [42. 🎯 Chapter 41](#42--chapter-41)
-- [43. 🎯 Chapter 42](#43--chapter-42)
-- [44. 🎯 Chapter 43](#44--chapter-43)
-- [45. 🎯 Chapter 44](#45--chapter-44)
-- [46. 🎯 Chapter 45](#46--chapter-45)
-- [47. 🎯 Chapter 46](#47--chapter-46)
-- [48. 🎯 Chapter 47](#48--chapter-47)
-- [49. 🎯 Chapter 48](#49--chapter-48)
-- [50. 🎯 Chapter 49](#50--chapter-49)
-- [51. 🎯 Chapter 50](#51--chapter-50)
-- [52. 🎯 Chapter 51](#52--chapter-51)
-- [53. 🎯 Chapter 52](#53--chapter-52)
-- [54. 🎯 Chapter 53](#54--chapter-53)
-- [55. 🎯 Chapter 54](#55--chapter-54)
-- [56. 🎯 Chapter 55](#56--chapter-55)
-- [57. 🎯 Chapter 56](#57--chapter-56)
-- [58. 🎯 Chapter 57](#58--chapter-57)
-- [59. 🎯 Chapter 58](#59--chapter-58)
-- [60. 🎯 Chapter 59](#60--chapter-59)
-- [61. 🎯 Chapter 60](#61--chapter-60)
-- [62. 🎯 Chapter 61](#62--chapter-61)
-- [63. 🎯 Chapter 62](#63--chapter-62)
-- [64. 🎯 Chapter 63](#64--chapter-63)
-- [65. 🎯 Chapter 64](#65--chapter-64)
-- [66. 🎯 Chapter 65](#66--chapter-65)
-- [67. 🎯 Chapter 66](#67--chapter-66)
-- [68. 🎯 Chapter 67](#68--chapter-67)
-- [69. 🎯 Chapter 68](#69--chapter-68)
-- [70. 🎯 Chapter 69](#70--chapter-69)
-- [71. 🎯 Chapter 70](#71--chapter-70)
-- [72. 🎯 Chapter 71](#72--chapter-71)
-- [73. 🎯 Chapter 72](#73--chapter-72)
-- [74. 🎯 Chapter 73](#74--chapter-73)
-- [75. 🎯 Chapter 74](#75--chapter-74)
-- [76. 🎯 Chapter 75](#76--chapter-75)
-- [77. 🎯 Chapter 76](#77--chapter-76)
-- [78. 🎯 Chapter 77](#78--chapter-77)
-- [79. 🎯 Chapter 78](#79--chapter-78)
-- [80. 🎯 Chapter 79](#80--chapter-79)
-- [81. 🎯 Chapter 80](#81--chapter-80)
-- [82. 🎯 Chapter 81](#82--chapter-81)
-- [83. 🎯 Chapter 82](#83--chapter-82)
-- [84. 🎯 Chapter 83](#84--chapter-83)
-- [85. 🎯 Chapter 84](#85--chapter-84)
-- [86. 🎯 Chapter 85](#86--chapter-85)
-- [87. 🎯 Chapter 86](#87--chapter-86)
-- [88. 🎯 Chapter 87](#88--chapter-87)
-- [89. 🎯 Chapter 88](#89--chapter-88)
-- [90. 🎯 Chapter 89](#90--chapter-89)
-- [91. 🎯 Chapter 90](#91--chapter-90)
-- [92. 🎯 Chapter 91](#92--chapter-91)
-- [93. 🎯 Chapter 92](#93--chapter-92)
-- [94. 🎯 Chapter 93](#94--chapter-93)
-- [95. 🎯 Chapter 94](#95--chapter-94)
-- [96. 🎯 Chapter 95](#96--chapter-95)
-- [97. 🎯 Chapter 96](#97--chapter-96)
-- [98. 🎯 Chapter 97](#98--chapter-97)
-- [99. 🎯 Chapter 98](#99--chapter-98)
-- [100. 🎯 Chapter 99](#100--chapter-99)
-- [101. 🎯 Chapter 100](#101--chapter-100)
-- [102. 🎯 Chapter 101](#102--chapter-101)
-- [103. 🎯 Chapter 102](#103--chapter-102)
-- [104. 🎯 Chapter 103](#104--chapter-103)
-- [105. 🎯 Chapter 104](#105--chapter-104)
-- [106. 🎯 Chapter 105](#106--chapter-105)
-- [107. 🎯 Chapter 106](#107--chapter-106)
-- [108. 🎯 Chapter 107](#108--chapter-107)
-- [109. 🎯 Chapter 108](#109--chapter-108)
-- [110. 🎯 Chapter 109](#110--chapter-109)
-- [111. 🎯 Chapter 110](#111--chapter-110)
-- [112. 🎯 Chapter 111](#112--chapter-111)
-- [113. 🎯 Chapter 112](#113--chapter-112)
-- [114. 🎯 Chapter 113](#114--chapter-113)
-- [115. 🎯 Chapter 114](#115--chapter-114)
-- [116. 🎯 Chapter 115](#116--chapter-115)
-- [117. 🎯 Chapter 116](#117--chapter-116)
-- [118. 🎯 Chapter 117](#118--chapter-117)
-- [119. 🎯 Chapter 118](#119--chapter-118)
-- [120. 🎯 Chapter 119](#120--chapter-119)
-- [121. 🎯 Chapter 120](#121--chapter-120)
-- [122. 🎯 Chapter 121](#122--chapter-121)
-- [123. 🎯 Chapter 122](#123--chapter-122)
-- [124. 🎯 Chapter 123](#124--chapter-123)
-- [125. 🎯 Chapter 124](#125--chapter-124)
-- [126. 🎯 Chapter 125](#126--chapter-125)
-- [127. 🎯 Chapter 126](#127--chapter-126)
-- [128. 🎯 Chapter 127](#128--chapter-127)
-- [129. 🎯 Chapter 128](#129--chapter-128)
-- [130. 🎯 Chapter 129](#130--chapter-129)
-- [131. 🎯 Chapter 130](#131--chapter-130)
-- [132. 🎯 Chapter 131](#132--chapter-131)
+- [1. 📝 概述](#1--概述)
+- [2. 🎯 词汇列表](#2--词汇列表)
+  - [2.1. 🎯 Chapter 1](#21--chapter-1)
+  - [2.2. 🎯 Chapter 2](#22--chapter-2)
+  - [2.3. 🎯 Chapter 3](#23--chapter-3)
+  - [2.4. 🎯 Chapter 4](#24--chapter-4)
+  - [2.5. 🎯 Chapter 5](#25--chapter-5)
+  - [2.6. 🎯 Chapter 6](#26--chapter-6)
+  - [2.7. 🎯 Chapter 7](#27--chapter-7)
+  - [2.8. 🎯 Chapter 8](#28--chapter-8)
+  - [2.9. 🎯 Chapter 9](#29--chapter-9)
+  - [2.10. 🎯 Chapter 10](#210--chapter-10)
+  - [2.11. 🎯 Chapter 11](#211--chapter-11)
+  - [2.12. 🎯 Chapter 12](#212--chapter-12)
+  - [2.13. 🎯 Chapter 13](#213--chapter-13)
+  - [2.14. 🎯 Chapter 14](#214--chapter-14)
+  - [2.15. 🎯 Chapter 15](#215--chapter-15)
+  - [2.16. 🎯 Chapter 16](#216--chapter-16)
+  - [2.17. 🎯 Chapter 17](#217--chapter-17)
+  - [2.18. 🎯 Chapter 18](#218--chapter-18)
+  - [2.19. 🎯 Chapter 19](#219--chapter-19)
+  - [2.20. 🎯 Chapter 20](#220--chapter-20)
+  - [2.21. 🎯 Chapter 21](#221--chapter-21)
+  - [2.22. 🎯 Chapter 22](#222--chapter-22)
+  - [2.23. 🎯 Chapter 23](#223--chapter-23)
+  - [2.24. 🎯 Chapter 24](#224--chapter-24)
+  - [2.25. 🎯 Chapter 25](#225--chapter-25)
+  - [2.26. 🎯 Chapter 26](#226--chapter-26)
+  - [2.27. 🎯 Chapter 27](#227--chapter-27)
+  - [2.28. 🎯 Chapter 28](#228--chapter-28)
+  - [2.29. 🎯 Chapter 29](#229--chapter-29)
+  - [2.30. 🎯 Chapter 30](#230--chapter-30)
+  - [2.31. 🎯 Chapter 31](#231--chapter-31)
+  - [2.32. 🎯 Chapter 32](#232--chapter-32)
+  - [2.33. 🎯 Chapter 33](#233--chapter-33)
+  - [2.34. 🎯 Chapter 34](#234--chapter-34)
+  - [2.35. 🎯 Chapter 35](#235--chapter-35)
+  - [2.36. 🎯 Chapter 36](#236--chapter-36)
+  - [2.37. 🎯 Chapter 37](#237--chapter-37)
+  - [2.38. 🎯 Chapter 38](#238--chapter-38)
+  - [2.39. 🎯 Chapter 39](#239--chapter-39)
+  - [2.40. 🎯 Chapter 40](#240--chapter-40)
+  - [2.41. 🎯 Chapter 41](#241--chapter-41)
+  - [2.42. 🎯 Chapter 42](#242--chapter-42)
+  - [2.43. 🎯 Chapter 43](#243--chapter-43)
+  - [2.44. 🎯 Chapter 44](#244--chapter-44)
+  - [2.45. 🎯 Chapter 45](#245--chapter-45)
+  - [2.46. 🎯 Chapter 46](#246--chapter-46)
+  - [2.47. 🎯 Chapter 47](#247--chapter-47)
+  - [2.48. 🎯 Chapter 48](#248--chapter-48)
+  - [2.49. 🎯 Chapter 49](#249--chapter-49)
+  - [2.50. 🎯 Chapter 50](#250--chapter-50)
+  - [2.51. 🎯 Chapter 51](#251--chapter-51)
+  - [2.52. 🎯 Chapter 52](#252--chapter-52)
+  - [2.53. 🎯 Chapter 53](#253--chapter-53)
+  - [2.54. 🎯 Chapter 54](#254--chapter-54)
+  - [2.55. 🎯 Chapter 55](#255--chapter-55)
+  - [2.56. 🎯 Chapter 56](#256--chapter-56)
+  - [2.57. 🎯 Chapter 57](#257--chapter-57)
+  - [2.58. 🎯 Chapter 58](#258--chapter-58)
+  - [2.59. 🎯 Chapter 59](#259--chapter-59)
+  - [2.60. 🎯 Chapter 60](#260--chapter-60)
+  - [2.61. 🎯 Chapter 61](#261--chapter-61)
+  - [2.62. 🎯 Chapter 62](#262--chapter-62)
+  - [2.63. 🎯 Chapter 63](#263--chapter-63)
+  - [2.64. 🎯 Chapter 64](#264--chapter-64)
+  - [2.65. 🎯 Chapter 65](#265--chapter-65)
+  - [2.66. 🎯 Chapter 66](#266--chapter-66)
+  - [2.67. 🎯 Chapter 67](#267--chapter-67)
+  - [2.68. 🎯 Chapter 68](#268--chapter-68)
+  - [2.69. 🎯 Chapter 69](#269--chapter-69)
+  - [2.70. 🎯 Chapter 70](#270--chapter-70)
+  - [2.71. 🎯 Chapter 71](#271--chapter-71)
+  - [2.72. 🎯 Chapter 72](#272--chapter-72)
+  - [2.73. 🎯 Chapter 73](#273--chapter-73)
+  - [2.74. 🎯 Chapter 74](#274--chapter-74)
+  - [2.75. 🎯 Chapter 75](#275--chapter-75)
+  - [2.76. 🎯 Chapter 76](#276--chapter-76)
+  - [2.77. 🎯 Chapter 77](#277--chapter-77)
+  - [2.78. 🎯 Chapter 78](#278--chapter-78)
+  - [2.79. 🎯 Chapter 79](#279--chapter-79)
+  - [2.80. 🎯 Chapter 80](#280--chapter-80)
+  - [2.81. 🎯 Chapter 81](#281--chapter-81)
+  - [2.82. 🎯 Chapter 82](#282--chapter-82)
+  - [2.83. 🎯 Chapter 83](#283--chapter-83)
+  - [2.84. 🎯 Chapter 84](#284--chapter-84)
+  - [2.85. 🎯 Chapter 85](#285--chapter-85)
+  - [2.86. 🎯 Chapter 86](#286--chapter-86)
+  - [2.87. 🎯 Chapter 87](#287--chapter-87)
+  - [2.88. 🎯 Chapter 88](#288--chapter-88)
+  - [2.89. 🎯 Chapter 89](#289--chapter-89)
+  - [2.90. 🎯 Chapter 90](#290--chapter-90)
+  - [2.91. 🎯 Chapter 91](#291--chapter-91)
+  - [2.92. 🎯 Chapter 92](#292--chapter-92)
+  - [2.93. 🎯 Chapter 93](#293--chapter-93)
+  - [2.94. 🎯 Chapter 94](#294--chapter-94)
+  - [2.95. 🎯 Chapter 95](#295--chapter-95)
+  - [2.96. 🎯 Chapter 96](#296--chapter-96)
+  - [2.97. 🎯 Chapter 97](#297--chapter-97)
+  - [2.98. 🎯 Chapter 98](#298--chapter-98)
+  - [2.99. 🎯 Chapter 99](#299--chapter-99)
+  - [2.100. 🎯 Chapter 100](#2100--chapter-100)
+  - [2.101. 🎯 Chapter 101](#2101--chapter-101)
+  - [2.102. 🎯 Chapter 102](#2102--chapter-102)
+  - [2.103. 🎯 Chapter 103](#2103--chapter-103)
+  - [2.104. 🎯 Chapter 104](#2104--chapter-104)
+  - [2.105. 🎯 Chapter 105](#2105--chapter-105)
+  - [2.106. 🎯 Chapter 106](#2106--chapter-106)
+  - [2.107. 🎯 Chapter 107](#2107--chapter-107)
+  - [2.108. 🎯 Chapter 108](#2108--chapter-108)
+  - [2.109. 🎯 Chapter 109](#2109--chapter-109)
+  - [2.110. 🎯 Chapter 110](#2110--chapter-110)
+  - [2.111. 🎯 Chapter 111](#2111--chapter-111)
+  - [2.112. 🎯 Chapter 112](#2112--chapter-112)
+  - [2.113. 🎯 Chapter 113](#2113--chapter-113)
+  - [2.114. 🎯 Chapter 114](#2114--chapter-114)
+  - [2.115. 🎯 Chapter 115](#2115--chapter-115)
+  - [2.116. 🎯 Chapter 116](#2116--chapter-116)
+  - [2.117. 🎯 Chapter 117](#2117--chapter-117)
+  - [2.118. 🎯 Chapter 118](#2118--chapter-118)
+  - [2.119. 🎯 Chapter 119](#2119--chapter-119)
+  - [2.120. 🎯 Chapter 120](#2120--chapter-120)
+  - [2.121. 🎯 Chapter 121](#2121--chapter-121)
+  - [2.122. 🎯 Chapter 122](#2122--chapter-122)
+  - [2.123. 🎯 Chapter 123](#2123--chapter-123)
+  - [2.124. 🎯 Chapter 124](#2124--chapter-124)
+  - [2.125. 🎯 Chapter 125](#2125--chapter-125)
+  - [2.126. 🎯 Chapter 126](#2126--chapter-126)
+  - [2.127. 🎯 Chapter 127](#2127--chapter-127)
+  - [2.128. 🎯 Chapter 128](#2128--chapter-128)
+  - [2.129. 🎯 Chapter 129](#2129--chapter-129)
+  - [2.130. 🎯 Chapter 130](#2130--chapter-130)
+  - [2.131. 🎯 Chapter 131](#2131--chapter-131)
 
 <!-- endregion:toc -->
 
-## 1. 🔗 qwerty learner 在线练习链接
+## 1. 📝 概述
 
-- https://qwerty.kaiyi.cool/
+- 记录了 https://qwerty.kaiyi.cool/ 中的 CET-4 词汇列表，共计 2607 个词汇。
+  - ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-07-10-43-53.png)
+- 在通过打字记单词的过程中，可以结合着笔记来辅助学习。
+  - 每一个 Chapter 的内容都由自定义的 `EnWordList` 组件包裹，该组件扩展了词汇列表的右键菜单的功能。
+  - ![图 1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-07-10-48-40.png)
+    - 对于已掌握的词汇可以打勾 ✅。
+    - 如果想要查看词汇的详情：
+      - 1️⃣ 可以将单词 `pin` 钉到页面上
+      - 2️⃣ 可以打开 `auto show card` 模式，这会自动展示单词卡片数据
+      - 3️⃣ 可以通过词汇链接直接跳转到 `TNotes.en-words` 词汇库查看
+    - 朗读单词支持朗读单个词汇，和批量朗读两种模式。
+    - 发音支持英式发音和美式发音两种。
 
-## 2. 🎯 Chapter 1
+## 2. 🎯 词汇列表
+
+::: tip
+
+- 右键词汇，将显示自定义的词汇功能菜单，查看更多功能。
+
+:::
+
+### 2.1. 🎯 Chapter 1
 
 <EnWordList :words="[
 'cancel',
@@ -167,7 +187,7 @@
 'audience',
 'meanwhile',]" />
 
-## 3. 🎯 Chapter 2
+### 2.2. 🎯 Chapter 2
 
 <EnWordList :words="[
 'possess',
@@ -191,7 +211,7 @@
 'multicultural',
 'object',]" />
 
-## 4. 🎯 Chapter 3
+### 2.3. 🎯 Chapter 3
 
 <EnWordList :words="[
 'humble',
@@ -215,7 +235,7 @@
 'policy',
 'editorial',]" />
 
-## 5. 🎯 Chapter 4
+### 2.4. 🎯 Chapter 4
 
 <EnWordList :words="[
 'resume',
@@ -239,7 +259,7 @@
 'harmony',
 'resolve',]" />
 
-## 6. 🎯 Chapter 5
+### 2.5. 🎯 Chapter 5
 
 <EnWordList :words="[
 'chill',
@@ -263,7 +283,7 @@
 'murder',
 'pat',]" />
 
-## 7. 🎯 Chapter 6
+### 2.6. 🎯 Chapter 6
 
 <EnWordList :words="[
 'fantasy',
@@ -287,7 +307,7 @@
 'provided',
 'instrument',]" />
 
-## 8. 🎯 Chapter 7
+### 2.7. 🎯 Chapter 7
 
 <EnWordList :words="[
 'gasoline',
@@ -311,7 +331,7 @@
 'perform',
 'multiple',]" />
 
-## 9. 🎯 Chapter 8
+### 2.8. 🎯 Chapter 8
 
 <EnWordList :words="[
 'peak',
@@ -335,7 +355,7 @@
 'breadth',
 'catalog',]" />
 
-## 10. 🎯 Chapter 9
+### 2.9. 🎯 Chapter 9
 
 <EnWordList :words="[
 'channel',
@@ -359,7 +379,7 @@
 'corporation',
 'loyalty',]" />
 
-## 11. 🎯 Chapter 10
+### 2.10. 🎯 Chapter 10
 
 <EnWordList :words="[
 'bulb',
@@ -383,7 +403,7 @@
 'guy',
 'respectively',]" />
 
-## 12. 🎯 Chapter 11
+### 2.11. 🎯 Chapter 11
 
 <EnWordList :words="[
 'protection',
@@ -407,7 +427,7 @@
 'vinegar',
 'intellectual',]" />
 
-## 13. 🎯 Chapter 12
+### 2.12. 🎯 Chapter 12
 
 <EnWordList :words="[
 'cheat',
@@ -431,7 +451,7 @@
 'crawl',
 'identical',]" />
 
-## 14. 🎯 Chapter 13
+### 2.13. 🎯 Chapter 13
 
 <EnWordList :words="[
 'lag',
@@ -455,7 +475,7 @@
 'lest',
 'heroic',]" />
 
-## 15. 🎯 Chapter 14
+### 2.14. 🎯 Chapter 14
 
 <EnWordList :words="[
 'sway',
@@ -479,7 +499,7 @@
 'lavatory',
 'exterior',]" />
 
-## 16. 🎯 Chapter 15
+### 2.15. 🎯 Chapter 15
 
 <EnWordList :words="[
 'technique',
@@ -503,7 +523,7 @@
 'accord',
 'aircraft',]" />
 
-## 17. 🎯 Chapter 16
+### 2.16. 🎯 Chapter 16
 
 <EnWordList :words="[
 'automatic',
@@ -527,7 +547,7 @@
 'decay',
 'absorb',]" />
 
-## 18. 🎯 Chapter 17
+### 2.17. 🎯 Chapter 17
 
 <EnWordList :words="[
 'supply',
@@ -551,7 +571,7 @@
 'pack',
 'restraint',]" />
 
-## 19. 🎯 Chapter 18
+### 2.18. 🎯 Chapter 18
 
 <EnWordList :words="[
 'input',
@@ -575,7 +595,7 @@
 'accident',
 'marine',]" />
 
-## 20. 🎯 Chapter 19
+### 2.19. 🎯 Chapter 19
 
 <EnWordList :words="[
 'clay',
@@ -599,7 +619,7 @@
 'surplus',
 'correspondence',]" />
 
-## 21. 🎯 Chapter 20
+### 2.20. 🎯 Chapter 20
 
 <EnWordList :words="[
 'refresh',
@@ -623,7 +643,7 @@
 'polish',
 'cabinet',]" />
 
-## 22. 🎯 Chapter 21
+### 2.21. 🎯 Chapter 21
 
 <EnWordList :words="[
 'chart',
@@ -647,7 +667,7 @@
 'hay',
 'chest',]" />
 
-## 23. 🎯 Chapter 22
+### 2.22. 🎯 Chapter 22
 
 <EnWordList :words="[
 'tension',
@@ -671,7 +691,7 @@
 'concept',
 'resistant',]" />
 
-## 24. 🎯 Chapter 23
+### 2.23. 🎯 Chapter 23
 
 <EnWordList :words="[
 'effort',
@@ -695,7 +715,7 @@
 'technician',
 'generic',]" />
 
-## 25. 🎯 Chapter 24
+### 2.24. 🎯 Chapter 24
 
 <EnWordList :words="[
 'genius',
@@ -719,7 +739,7 @@
 'unload',
 'payment',]" />
 
-## 26. 🎯 Chapter 25
+### 2.25. 🎯 Chapter 25
 
 <EnWordList :words="[
 'specifically',
@@ -743,7 +763,7 @@
 'standpoint',
 'worship',]" />
 
-## 27. 🎯 Chapter 26
+### 2.26. 🎯 Chapter 26
 
 <EnWordList :words="[
 'lawn',
@@ -767,7 +787,7 @@
 'barrel',
 'means',]" />
 
-## 28. 🎯 Chapter 27
+### 2.27. 🎯 Chapter 27
 
 <EnWordList :words="[
 'desire',
@@ -791,7 +811,7 @@
 'possession',
 'replace',]" />
 
-## 29. 🎯 Chapter 28
+### 2.28. 🎯 Chapter 28
 
 <EnWordList :words="[
 'appointment',
@@ -815,7 +835,7 @@
 'turbine',
 'repeatedly',]" />
 
-## 30. 🎯 Chapter 29
+### 2.29. 🎯 Chapter 29
 
 <EnWordList :words="[
 'curiosity',
@@ -839,7 +859,7 @@
 'entertain',
 'altitude',]" />
 
-## 31. 🎯 Chapter 30
+### 2.30. 🎯 Chapter 30
 
 <EnWordList :words="[
 'classify',
@@ -863,7 +883,7 @@
 'restore',
 'therapy',]" />
 
-## 32. 🎯 Chapter 31
+### 2.31. 🎯 Chapter 31
 
 <EnWordList :words="[
 'alternative',
@@ -887,7 +907,7 @@
 'innocent',
 'compassion',]" />
 
-## 33. 🎯 Chapter 32
+### 2.32. 🎯 Chapter 32
 
 <EnWordList :words="[
 'alphabet',
@@ -911,7 +931,7 @@
 'loyal',
 'preference',]" />
 
-## 34. 🎯 Chapter 33
+### 2.33. 🎯 Chapter 33
 
 <EnWordList :words="[
 'impact',
@@ -935,7 +955,7 @@
 'average',
 'treatment',]" />
 
-## 35. 🎯 Chapter 34
+### 2.34. 🎯 Chapter 34
 
 <EnWordList :words="[
 'compare',
@@ -959,7 +979,7 @@
 'acquisition',
 'volcano',]" />
 
-## 36. 🎯 Chapter 35
+### 2.35. 🎯 Chapter 35
 
 <EnWordList :words="[
 'rigid',
@@ -983,7 +1003,7 @@
 'purse',
 'represent',]" />
 
-## 37. 🎯 Chapter 36
+### 2.36. 🎯 Chapter 36
 
 <EnWordList :words="[
 'compete',
@@ -1007,7 +1027,7 @@
 'signal',
 'sightseeing',]" />
 
-## 38. 🎯 Chapter 37
+### 2.37. 🎯 Chapter 37
 
 <EnWordList :words="[
 'parcel',
@@ -1031,7 +1051,7 @@
 'relativity',
 'beneficial',]" />
 
-## 39. 🎯 Chapter 38
+### 2.38. 🎯 Chapter 38
 
 <EnWordList :words="[
 'tackle',
@@ -1055,7 +1075,7 @@
 'plantation',
 'ignore',]" />
 
-## 40. 🎯 Chapter 39
+### 2.39. 🎯 Chapter 39
 
 <EnWordList :words="[
 'loaf',
@@ -1079,7 +1099,7 @@
 'postage',
 'tame',]" />
 
-## 41. 🎯 Chapter 40
+### 2.40. 🎯 Chapter 40
 
 <EnWordList :words="[
 'material',
@@ -1103,7 +1123,7 @@
 'division',
 'executive',]" />
 
-## 42. 🎯 Chapter 41
+### 2.41. 🎯 Chapter 41
 
 <EnWordList :words="[
 'navigation',
@@ -1127,7 +1147,7 @@
 'classification',
 'vacant',]" />
 
-## 43. 🎯 Chapter 42
+### 2.42. 🎯 Chapter 42
 
 <EnWordList :words="[
 'physicist',
@@ -1151,7 +1171,7 @@
 'mention',
 'stream',]" />
 
-## 44. 🎯 Chapter 43
+### 2.43. 🎯 Chapter 43
 
 <EnWordList :words="[
 'laundry',
@@ -1175,7 +1195,7 @@
 'specialize',
 'rotate',]" />
 
-## 45. 🎯 Chapter 44
+### 2.44. 🎯 Chapter 44
 
 <EnWordList :words="[
 'instance',
@@ -1199,7 +1219,7 @@
 'maid',
 'residence',]" />
 
-## 46. 🎯 Chapter 45
+### 2.45. 🎯 Chapter 45
 
 <EnWordList :words="[
 'credit',
@@ -1223,7 +1243,7 @@
 'horn',
 'specialist',]" />
 
-## 47. 🎯 Chapter 46
+### 2.46. 🎯 Chapter 46
 
 <EnWordList :words="[
 'infer',
@@ -1247,7 +1267,7 @@
 'genuine',
 'X-ray',]" />
 
-## 48. 🎯 Chapter 47
+### 2.47. 🎯 Chapter 47
 
 <EnWordList :words="[
 'physical',
@@ -1271,7 +1291,7 @@
 'circulation',
 'bake',]" />
 
-## 49. 🎯 Chapter 48
+### 2.48. 🎯 Chapter 48
 
 <EnWordList :words="[
 'mere',
@@ -1295,7 +1315,7 @@
 'sorrow',
 'crash',]" />
 
-## 50. 🎯 Chapter 49
+### 2.49. 🎯 Chapter 49
 
 <EnWordList :words="[
 'patch',
@@ -1319,7 +1339,7 @@
 'distinguish',
 'receiver',]" />
 
-## 51. 🎯 Chapter 50
+### 2.50. 🎯 Chapter 50
 
 <EnWordList :words="[
 'outer',
@@ -1343,7 +1363,7 @@
 'sincere',
 'male',]" />
 
-## 52. 🎯 Chapter 51
+### 2.51. 🎯 Chapter 51
 
 <EnWordList :words="[
 'ministry',
@@ -1367,7 +1387,7 @@
 'glance',
 'perspective',]" />
 
-## 53. 🎯 Chapter 52
+### 2.52. 🎯 Chapter 52
 
 <EnWordList :words="[
 'relationship',
@@ -1391,7 +1411,7 @@
 'congratulation',
 'abandon',]" />
 
-## 54. 🎯 Chapter 53
+### 2.53. 🎯 Chapter 53
 
 <EnWordList :words="[
 'definitely',
@@ -1415,7 +1435,7 @@
 'coordination',
 'presentation',]" />
 
-## 55. 🎯 Chapter 54
+### 2.54. 🎯 Chapter 54
 
 <EnWordList :words="[
 'diameter',
@@ -1439,7 +1459,7 @@
 'dense',
 'fortnight',]" />
 
-## 56. 🎯 Chapter 55
+### 2.55. 🎯 Chapter 55
 
 <EnWordList :words="[
 'laboratory',
@@ -1463,7 +1483,7 @@
 'gesture',
 'admit',]" />
 
-## 57. 🎯 Chapter 56
+### 2.56. 🎯 Chapter 56
 
 <EnWordList :words="[
 'poem',
@@ -1487,7 +1507,7 @@
 'guitar',
 'layout',]" />
 
-## 58. 🎯 Chapter 57
+### 2.57. 🎯 Chapter 57
 
 <EnWordList :words="[
 'artificial',
@@ -1511,7 +1531,7 @@
 'critic',
 'elevator',]" />
 
-## 59. 🎯 Chapter 58
+### 2.58. 🎯 Chapter 58
 
 <EnWordList :words="[
 'grammar',
@@ -1535,7 +1555,7 @@
 'underneath',
 'nursery',]" />
 
-## 60. 🎯 Chapter 59
+### 2.59. 🎯 Chapter 59
 
 <EnWordList :words="[
 'mate',
@@ -1559,7 +1579,7 @@
 'foundation',
 'substitute',]" />
 
-## 61. 🎯 Chapter 60
+### 2.60. 🎯 Chapter 60
 
 <EnWordList :words="[
 'punch',
@@ -1583,7 +1603,7 @@
 'reward',
 'include',]" />
 
-## 62. 🎯 Chapter 61
+### 2.61. 🎯 Chapter 61
 
 <EnWordList :words="[
 'sympathize',
@@ -1607,7 +1627,7 @@
 'stir',
 'fisherman',]" />
 
-## 63. 🎯 Chapter 62
+### 2.62. 🎯 Chapter 62
 
 <EnWordList :words="[
 'span',
@@ -1631,7 +1651,7 @@
 'nephew',
 'publicity',]" />
 
-## 64. 🎯 Chapter 63
+### 2.63. 🎯 Chapter 63
 
 <EnWordList :words="[
 'depart',
@@ -1655,7 +1675,7 @@
 'arrival',
 'scientific',]" />
 
-## 65. 🎯 Chapter 64
+### 2.64. 🎯 Chapter 64
 
 <EnWordList :words="[
 'frequent',
@@ -1679,7 +1699,7 @@
 'instead',
 'controversy',]" />
 
-## 66. 🎯 Chapter 65
+### 2.65. 🎯 Chapter 65
 
 <EnWordList :words="[
 'command',
@@ -1703,7 +1723,7 @@
 'desperate',
 'leading',]" />
 
-## 67. 🎯 Chapter 66
+### 2.66. 🎯 Chapter 66
 
 <EnWordList :words="[
 'awful',
@@ -1727,7 +1747,7 @@
 'fairy',
 'ashamed',]" />
 
-## 68. 🎯 Chapter 67
+### 2.67. 🎯 Chapter 67
 
 <EnWordList :words="[
 'instruct',
@@ -1751,7 +1771,7 @@
 'aboard',
 'endure',]" />
 
-## 69. 🎯 Chapter 68
+### 2.68. 🎯 Chapter 68
 
 <EnWordList :words="[
 'detail',
@@ -1775,7 +1795,7 @@
 'musician',
 'minimize',]" />
 
-## 70. 🎯 Chapter 69
+### 2.69. 🎯 Chapter 69
 
 <EnWordList :words="[
 'descend',
@@ -1799,7 +1819,7 @@
 'spit',
 'scout',]" />
 
-## 71. 🎯 Chapter 70
+### 2.70. 🎯 Chapter 70
 
 <EnWordList :words="[
 'anniversary',
@@ -1823,7 +1843,7 @@
 'microphone',
 'swift',]" />
 
-## 72. 🎯 Chapter 71
+### 2.71. 🎯 Chapter 71
 
 <EnWordList :words="[
 'surrender',
@@ -1847,7 +1867,7 @@
 'loose',
 'therefore',]" />
 
-## 73. 🎯 Chapter 72
+### 2.72. 🎯 Chapter 72
 
 <EnWordList :words="[
 'exchange',
@@ -1871,7 +1891,7 @@
 'responsible',
 'scope',]" />
 
-## 74. 🎯 Chapter 73
+### 2.73. 🎯 Chapter 73
 
 <EnWordList :words="[
 'democratic',
@@ -1895,7 +1915,7 @@
 'pledge',
 'progressive',]" />
 
-## 75. 🎯 Chapter 74
+### 2.74. 🎯 Chapter 74
 
 <EnWordList :words="[
 'reservoir',
@@ -1919,7 +1939,7 @@
 'variation',
 'moral',]" />
 
-## 76. 🎯 Chapter 75
+### 2.75. 🎯 Chapter 75
 
 <EnWordList :words="[
 'defect',
@@ -1943,7 +1963,7 @@
 'submerge',
 'system',]" />
 
-## 77. 🎯 Chapter 76
+### 2.76. 🎯 Chapter 76
 
 <EnWordList :words="[
 'compose',
@@ -1967,7 +1987,7 @@
 'vacuum',
 'encourage',]" />
 
-## 78. 🎯 Chapter 77
+### 2.77. 🎯 Chapter 77
 
 <EnWordList :words="[
 'bubble',
@@ -1991,7 +2011,7 @@
 'royal',
 'internship',]" />
 
-## 79. 🎯 Chapter 78
+### 2.78. 🎯 Chapter 78
 
 <EnWordList :words="[
 'shed',
@@ -2015,7 +2035,7 @@
 'intense',
 'pregnant',]" />
 
-## 80. 🎯 Chapter 79
+### 2.79. 🎯 Chapter 79
 
 <EnWordList :words="[
 'border',
@@ -2039,7 +2059,7 @@
 'pollute',
 'harden',]" />
 
-## 81. 🎯 Chapter 80
+### 2.80. 🎯 Chapter 80
 
 <EnWordList :words="[
 'eve',
@@ -2063,7 +2083,7 @@
 'specific',
 'application',]" />
 
-## 82. 🎯 Chapter 81
+### 2.81. 🎯 Chapter 81
 
 <EnWordList :words="[
 'engage',
@@ -2087,7 +2107,7 @@
 'elective',
 'accusation',]" />
 
-## 83. 🎯 Chapter 82
+### 2.82. 🎯 Chapter 82
 
 <EnWordList :words="[
 'protein',
@@ -2111,7 +2131,7 @@
 'centimetre',
 'telescope',]" />
 
-## 84. 🎯 Chapter 83
+### 2.83. 🎯 Chapter 83
 
 <EnWordList :words="[
 'rotten',
@@ -2135,7 +2155,7 @@
 'ripe',
 'attribute',]" />
 
-## 85. 🎯 Chapter 84
+### 2.84. 🎯 Chapter 84
 
 <EnWordList :words="[
 'mechanism',
@@ -2159,7 +2179,7 @@
 'absolute',
 'ash',]" />
 
-## 86. 🎯 Chapter 85
+### 2.85. 🎯 Chapter 85
 
 <EnWordList :words="[
 'describe',
@@ -2183,7 +2203,7 @@
 'jet',
 'helpful',]" />
 
-## 87. 🎯 Chapter 86
+### 2.86. 🎯 Chapter 86
 
 <EnWordList :words="[
 'statistic',
@@ -2207,7 +2227,7 @@
 'string',
 'import',]" />
 
-## 88. 🎯 Chapter 87
+### 2.87. 🎯 Chapter 87
 
 <EnWordList :words="[
 'occupy',
@@ -2231,7 +2251,7 @@
 'statement',
 'hence',]" />
 
-## 89. 🎯 Chapter 88
+### 2.88. 🎯 Chapter 88
 
 <EnWordList :words="[
 'memorial',
@@ -2255,7 +2275,7 @@
 'risk',
 'flame',]" />
 
-## 90. 🎯 Chapter 89
+### 2.89. 🎯 Chapter 89
 
 <EnWordList :words="[
 'container',
@@ -2279,7 +2299,7 @@
 'hatred',
 'crush',]" />
 
-## 91. 🎯 Chapter 90
+### 2.90. 🎯 Chapter 90
 
 <EnWordList :words="[
 'largely',
@@ -2303,7 +2323,7 @@
 'slide',
 'utilize',]" />
 
-## 92. 🎯 Chapter 91
+### 2.91. 🎯 Chapter 91
 
 <EnWordList :words="[
 'sticky',
@@ -2327,7 +2347,7 @@
 'civilize',
 'physician',]" />
 
-## 93. 🎯 Chapter 92
+### 2.92. 🎯 Chapter 92
 
 <EnWordList :words="[
 'architecture',
@@ -2351,7 +2371,7 @@
 'stuff',
 'arrest',]" />
 
-## 94. 🎯 Chapter 93
+### 2.93. 🎯 Chapter 93
 
 <EnWordList :words="[
 'widow',
@@ -2375,7 +2395,7 @@
 'remonstrate',
 'package',]" />
 
-## 95. 🎯 Chapter 94
+### 2.94. 🎯 Chapter 94
 
 <EnWordList :words="[
 'visible',
@@ -2399,7 +2419,7 @@
 'cruise',
 'elementary',]" />
 
-## 96. 🎯 Chapter 95
+### 2.95. 🎯 Chapter 95
 
 <EnWordList :words="[
 'topic',
@@ -2423,7 +2443,7 @@
 'insert',
 'remark',]" />
 
-## 97. 🎯 Chapter 96
+### 2.96. 🎯 Chapter 96
 
 <EnWordList :words="[
 'forbid',
@@ -2447,7 +2467,7 @@
 'yawn',
 'electric',]" />
 
-## 98. 🎯 Chapter 97
+### 2.97. 🎯 Chapter 97
 
 <EnWordList :words="[
 'terminal',
@@ -2471,7 +2491,7 @@
 'draft',
 'complex',]" />
 
-## 99. 🎯 Chapter 98
+### 2.98. 🎯 Chapter 98
 
 <EnWordList :words="[
 'rank',
@@ -2495,7 +2515,7 @@
 'globe',
 'chemical',]" />
 
-## 100. 🎯 Chapter 99
+### 2.99. 🎯 Chapter 99
 
 <EnWordList :words="[
 'interpretation',
@@ -2519,7 +2539,7 @@
 'isolate',
 'sailor',]" />
 
-## 101. 🎯 Chapter 100
+### 2.100. 🎯 Chapter 100
 
 <EnWordList :words="[
 'amuse',
@@ -2543,7 +2563,7 @@
 'survivor',
 'applicant',]" />
 
-## 102. 🎯 Chapter 101
+### 2.101. 🎯 Chapter 101
 
 <EnWordList :words="[
 'tropical',
@@ -2567,7 +2587,7 @@
 'bet',
 'contact',]" />
 
-## 103. 🎯 Chapter 102
+### 2.102. 🎯 Chapter 102
 
 <EnWordList :words="[
 'rare',
@@ -2591,7 +2611,7 @@
 'vigorous',
 'debt',]" />
 
-## 104. 🎯 Chapter 103
+### 2.103. 🎯 Chapter 103
 
 <EnWordList :words="[
 'refrigerator',
@@ -2615,7 +2635,7 @@
 'rate',
 'alert',]" />
 
-## 105. 🎯 Chapter 104
+### 2.104. 🎯 Chapter 104
 
 <EnWordList :words="[
 'await',
@@ -2639,7 +2659,7 @@
 'realm',
 'correspondent',]" />
 
-## 106. 🎯 Chapter 105
+### 2.105. 🎯 Chapter 105
 
 <EnWordList :words="[
 'avoid',
@@ -2663,7 +2683,7 @@
 'advanced',
 'mechanical',]" />
 
-## 107. 🎯 Chapter 106
+### 2.106. 🎯 Chapter 106
 
 <EnWordList :words="[
 'recommendation',
@@ -2687,7 +2707,7 @@
 'youngster',
 'odd',]" />
 
-## 108. 🎯 Chapter 107
+### 2.107. 🎯 Chapter 107
 
 <EnWordList :words="[
 'lung',
@@ -2711,7 +2731,7 @@
 'sphere',
 'inquiry',]" />
 
-## 109. 🎯 Chapter 108
+### 2.108. 🎯 Chapter 108
 
 <EnWordList :words="[
 'prejudice',
@@ -2735,7 +2755,7 @@
 'instruction',
 'oral',]" />
 
-## 110. 🎯 Chapter 109
+### 2.109. 🎯 Chapter 109
 
 <EnWordList :words="[
 'married',
@@ -2759,7 +2779,7 @@
 'communication',
 'directly',]" />
 
-## 111. 🎯 Chapter 110
+### 2.110. 🎯 Chapter 110
 
 <EnWordList :words="[
 'tolerance',
@@ -2783,7 +2803,7 @@
 'expand',
 'gaze',]" />
 
-## 112. 🎯 Chapter 111
+### 2.111. 🎯 Chapter 111
 
 <EnWordList :words="[
 'essay',
@@ -2807,7 +2827,7 @@
 'niece',
 'considerable',]" />
 
-## 113. 🎯 Chapter 112
+### 2.112. 🎯 Chapter 112
 
 <EnWordList :words="[
 'auxiliary',
@@ -2831,7 +2851,7 @@
 'social',
 'medication',]" />
 
-## 114. 🎯 Chapter 113
+### 2.113. 🎯 Chapter 113
 
 <EnWordList :words="[
 'drill',
@@ -2855,7 +2875,7 @@
 'vary',
 'readily',]" />
 
-## 115. 🎯 Chapter 114
+### 2.114. 🎯 Chapter 114
 
 <EnWordList :words="[
 'stoop',
@@ -2879,7 +2899,7 @@
 'horrible',
 'estimate',]" />
 
-## 116. 🎯 Chapter 115
+### 2.115. 🎯 Chapter 115
 
 <EnWordList :words="[
 'strengthen',
@@ -2903,7 +2923,7 @@
 'secondary',
 'mission',]" />
 
-## 117. 🎯 Chapter 116
+### 2.116. 🎯 Chapter 116
 
 <EnWordList :words="[
 'attorney',
@@ -2927,7 +2947,7 @@
 'cabin',
 'sum',]" />
 
-## 118. 🎯 Chapter 117
+### 2.117. 🎯 Chapter 117
 
 <EnWordList :words="[
 'current',
@@ -2951,7 +2971,7 @@
 'beloved',
 'single',]" />
 
-## 119. 🎯 Chapter 118
+### 2.118. 🎯 Chapter 118
 
 <EnWordList :words="[
 'confirm',
@@ -2975,7 +2995,7 @@
 'frequency',
 'horizontal',]" />
 
-## 120. 🎯 Chapter 119
+### 2.119. 🎯 Chapter 119
 
 <EnWordList :words="[
 'luggage',
@@ -2999,7 +3019,7 @@
 'suppose',
 'upright',]" />
 
-## 121. 🎯 Chapter 120
+### 2.120. 🎯 Chapter 120
 
 <EnWordList :words="[
 'remarkable',
@@ -3023,7 +3043,7 @@
 'kid',
 'donkey',]" />
 
-## 122. 🎯 Chapter 121
+### 2.121. 🎯 Chapter 121
 
 <EnWordList :words="[
 'destination',
@@ -3047,7 +3067,7 @@
 'slight',
 'previous',]" />
 
-## 123. 🎯 Chapter 122
+### 2.122. 🎯 Chapter 122
 
 <EnWordList :words="[
 'transmit',
@@ -3071,7 +3091,7 @@
 'comparative',
 'competition',]" />
 
-## 124. 🎯 Chapter 123
+### 2.123. 🎯 Chapter 123
 
 <EnWordList :words="[
 'fruitful',
@@ -3095,7 +3115,7 @@
 'overhead',
 'contract',]" />
 
-## 125. 🎯 Chapter 124
+### 2.124. 🎯 Chapter 124
 
 <EnWordList :words="[
 'conclude',
@@ -3119,7 +3139,7 @@
 'distribution',
 'tyre',]" />
 
-## 126. 🎯 Chapter 125
+### 2.125. 🎯 Chapter 125
 
 <EnWordList :words="[
 'derive',
@@ -3143,7 +3163,7 @@
 'dispute',
 'precious',]" />
 
-## 127. 🎯 Chapter 126
+### 2.126. 🎯 Chapter 126
 
 <EnWordList :words="[
 'observation',
@@ -3167,7 +3187,7 @@
 'mathematical',
 'apology',]" />
 
-## 128. 🎯 Chapter 127
+### 2.127. 🎯 Chapter 127
 
 <EnWordList :words="[
 'magic',
@@ -3191,7 +3211,7 @@
 'criminal',
 'tag',]" />
 
-## 129. 🎯 Chapter 128
+### 2.128. 🎯 Chapter 128
 
 <EnWordList :words="[
 'notebook',
@@ -3215,7 +3235,7 @@
 'dash',
 'concrete',]" />
 
-## 130. 🎯 Chapter 129
+### 2.129. 🎯 Chapter 129
 
 <EnWordList :words="[
 'penalty',
@@ -3239,7 +3259,7 @@
 'alarm',
 'weed',]" />
 
-## 131. 🎯 Chapter 130
+### 2.130. 🎯 Chapter 130
 
 <EnWordList :words="[
 'continual',
@@ -3263,7 +3283,7 @@
 'treaty',
 'responsive',]" />
 
-## 132. 🎯 Chapter 131
+### 2.131. 🎯 Chapter 131
 
 <EnWordList :words="[
 'ounce',
