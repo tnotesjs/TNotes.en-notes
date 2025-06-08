@@ -2,7 +2,7 @@
 
 <!-- region:toc -->
 
-- [1. 📝 简介](#1--简介)
+- [1. 📝 概述](#1--概述)
 - [2. 🔗 links](#2--links)
 - [3. 📒 notes - qwerty-learner 脚本](#3--notes---qwerty-learner-脚本)
   - [3.1. qwerty learner 词典目录](#31-qwerty-learner-词典目录)
@@ -10,13 +10,17 @@
   - [3.3. 词典目录](#33-词典目录)
 
 <!-- endregion:toc -->
-## 1. 📝 简介
+
+## 1. 📝 概述
 
 - 这是早期编写的脚本，主要作用是解析数据源中的词典数据。
 - 执行 index{1~5}.js 即可生成对应的一些解析后的数据，大致逻辑是读取【qwerty-learner 英文单词数据源】即位于 sources 目录中的数据，然后将解析后的数据输出到 results 目录中。
 - 完整的【qwerty-learner 英文单词数据源】在 0003 中，将 0003 中的 sources 数据搬运到和脚本同级的 sources 目录中，然后再执行解析脚本。
+
+<!--
 - ⏰ todos
   - 不同脚本之间有很多冗余的代码，后续如果有需求的话，可以找时间处理一下这些脚本。
+ -->
 
 ## 2. 🔗 links
 
@@ -123,9 +127,9 @@
 73. [SAT_3--新东方 SAT 词汇--4464 词](./dict/SAT_3/SAT_3.md)
 74. [TOEFL_2--TOEFL 词汇--9213 词](./dict/TOEFL_2/TOEFL_2.md)
 75. [TOEFL_3--新东方 TOEFL 词汇--4264 词](./dict/TOEFL_3/TOEFL_3.md)
-76. [WaiYanSheChuZhong_1--外研社版初中英语-七年级上册-- 629词](./dict/WaiYanSheChuZhong_1/WaiYanSheChuZhong_1.md)
-77. [WaiYanSheChuZhong_2--外研社版初中英语-七年级下册-- 438词](./dict/WaiYanSheChuZhong_2/WaiYanSheChuZhong_2.md)
-78. [WaiYanSheChuZhong_3--外研社版初中英语-八年级上册-- 320词](./dict/WaiYanSheChuZhong_3/WaiYanSheChuZhong_3.md)
-79. [WaiYanSheChuZhong_4--外研社版初中英语-八年级下册-- 266词](./dict/WaiYanSheChuZhong_4/WaiYanSheChuZhong_4.md)
-80. [WaiYanSheChuZhong_5--外研社版初中英语-九年级上册-- 381词](./dict/WaiYanSheChuZhong_5/WaiYanSheChuZhong_5.md)
-81. [WaiYanSheChuZhong_6--外研社版初中英语-九年级下册-- 128词](./dict/WaiYanSheChuZhong_6/WaiYanSheChuZhong_6.md)
+76. [WaiYanSheChuZhong_1--外研社版初中英语-七年级上册-- 629 词](./dict/WaiYanSheChuZhong_1/WaiYanSheChuZhong_1.md)
+77. [WaiYanSheChuZhong_2--外研社版初中英语-七年级下册-- 438 词](./dict/WaiYanSheChuZhong_2/WaiYanSheChuZhong_2.md)
+78. [WaiYanSheChuZhong_3--外研社版初中英语-八年级上册-- 320 词](./dict/WaiYanSheChuZhong_3/WaiYanSheChuZhong_3.md)
+79. [WaiYanSheChuZhong_4--外研社版初中英语-八年级下册-- 266 词](./dict/WaiYanSheChuZhong_4/WaiYanSheChuZhong_4.md)
+80. [WaiYanSheChuZhong_5--外研社版初中英语-九年级上册-- 381 词](./dict/WaiYanSheChuZhong_5/WaiYanSheChuZhong_5.md)
+81. [WaiYanSheChuZhong_6--外研社版初中英语-九年级下册-- 128 词](./dict/WaiYanSheChuZhong_6/WaiYanSheChuZhong_6.md)

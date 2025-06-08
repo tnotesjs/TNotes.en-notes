@@ -1,12 +1,21 @@
-# [0005. en-words 结合幕布将单词转为思维导图的形式来呈现](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0005.%20en-words%20%E7%BB%93%E5%90%88%E5%B9%95%E5%B8%83%E5%B0%86%E5%8D%95%E8%AF%8D%E8%BD%AC%E4%B8%BA%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%E7%9A%84%E5%BD%A2%E5%BC%8F%E6%9D%A5%E5%91%88%E7%8E%B0)
+# [0005. 结合幕布将单词转为思维导图的形式来呈现](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0005.%20%E7%BB%93%E5%90%88%E5%B9%95%E5%B8%83%E5%B0%86%E5%8D%95%E8%AF%8D%E8%BD%AC%E4%B8%BA%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%E7%9A%84%E5%BD%A2%E5%BC%8F%E6%9D%A5%E5%91%88%E7%8E%B0)
 
 <!-- region:toc -->
 
-- [1. 📒 基本使用流程说明](#1--基本使用流程说明)
+- [1. ❌ Deprecated](#1--deprecated)
+- [2. 📒 基本使用流程说明](#2--基本使用流程说明)
 
 <!-- endregion:toc -->
 
-## 1. 📒 基本使用流程说明
+## 1. ❌ Deprecated
+
+- **该笔记接下来将不再维护。**
+- 文中记录的将笔记转为思维导图的方式来记单词，体验下来效率并不高。
+- 有点儿中看不中用的感觉。
+- 并且现在主要记录笔记的工具是：TNotes + yuque，幕布基本不会使用，将数据分散在多个地方管理起来也很麻烦。
+- 如果你主要记录笔记的工具是幕布，那么可以尝试一下笔记中提到的做法，毕竟 TNotes.en-words 词库中的词汇都是 markdown 无序列表的形式来呈现，和幕布的节点还挺契合的。
+
+## 2. 📒 基本使用流程说明
 
 - https://mubu.com
   - 幕布
@@ -16,7 +25,7 @@
     - 1️⃣ 在幕布中新建一个节点，比如“第 43 周”；
     - 2️⃣ 在 [TNotes.en-words](https://github.com/Tdahuyou/TNotes.en-words) 中搜索单词；
     - 3️⃣ 复制单词内容，然后一键粘贴到幕布中即可；
-    - ![](assets/2024-10-26-19-27-01.png)
+    - ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-08-19-30-45.png)
   - 具体如何分类，全凭个人喜好，也可以简单粗暴一些，比如按照数量 100 个词汇一组，遇到的陌生词汇或者是感觉比较重要的词汇都丢进去，估计要达到能看懂大部分外文技术文档的水平，十来组也就差不多了。如果有个几十组的积累，应该可以做到外文文档无障碍阅读了。
 - 示例：
   - [abandon](https://github.com/Tdahuyou/TNotes.en-words/blob/main/abandon.md)
@@ -39,7 +48,7 @@
   - 同根词
     - adj. abandoned 被抛弃的；无约束的；恣意放荡的；寡廉鲜耻的
     - n. abandonment 抛弃；放纵
-    - v. abandoned 抛弃（abandon的过去式和过去分词）
+    - v. abandoned 抛弃（abandon 的过去式和过去分词）
   - 近义词
     - n. 狂热；放任
       - loose
@@ -82,15 +91,13 @@
     - The company uses analytics to improve customer experience. 公司利用数据分析来改善客户体验。
     - She specializes in web analytics. 她专注于网站分析。
   - 补充
-    - Analytics广泛应用于各行各业，尤其是在数据科学、市场研究、金融等领域。
+    - Analytics 广泛应用于各行各业，尤其是在数据科学、市场研究、金融等领域。
 ```
 
 :::
 
 - 将内容复制到幕布中后的效果如下图所示：
-  - ![](assets/2025-02-05-20-53-25.png)
+  - ![图 1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-08-19-31-02.png)
 - 思维导图：
   - 幕布上思维导图的花里胡哨的，蛮多可选的，该笔记介绍的这种做法无非就是让单词的内容换一种形式（思维导图的方式）来呈现。
   - 如果这种呈现方式对你记单词没有帮助，完全没必要刻意去做。
-
-<Discussions id="TNotes.en-notes.0005" />
