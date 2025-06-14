@@ -1,56 +1,50 @@
-# [0006. 《老人与海》](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0006.%20%E3%80%8A%E8%80%81%E4%BA%BA%E4%B8%8E%E6%B5%B7%E3%80%8B)
+# [0015. 《老人与海》（英+中）](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0015.%20%E3%80%8A%E8%80%81%E4%BA%BA%E4%B8%8E%E6%B5%B7%E3%80%8B%EF%BC%88%E8%8B%B1%2B%E4%B8%AD%EF%BC%89)
 
 <!-- region:toc -->
 
-- [📂 TNotes.yuque](https://www.yuque.com/tdahuyou/tnotes.yuque/)
-  - [TNotes.yuque.en-notes.0006](https://www.yuque.com/tdahuyou/tnotes.yuque/en-notes.0006)
 - [1. 📝 概述](#1--概述)
 - [2. 📚 《老人与海》原文](#2--老人与海原文)
-  - [2.1. Part 1](#21-part-1)
-  - [2.2. Part 2](#22-part-2)
-  - [2.3. Part 3](#23-part-3)
-  - [2.4. Part 4](#24-part-4)
-  - [2.5. Part 5](#25-part-5)
-  - [2.6. Part 6](#26-part-6)
-  - [2.7. Part 7](#27-part-7)
-  - [2.8. Part 8](#28-part-8)
-  - [2.9. Part 9](#29-part-9)
-  - [2.10. Part 10](#210-part-10)
-  - [2.11. Part 11](#211-part-11)
-  - [2.12. Part 12](#212-part-12)
-  - [2.13. Part 13](#213-part-13)
-  - [2.14. Part 14](#214-part-14)
-  - [2.15. Part 15](#215-part-15)
-  - [2.16. Part 16](#216-part-16)
-  - [2.17. Part 17](#217-part-17)
-  - [2.18. Part 18](#218-part-18)
-  - [2.19. Part 19](#219-part-19)
-  - [2.20. Part 20](#220-part-20)
-  - [2.21. Part 21](#221-part-21)
-  - [2.22. Part 22](#222-part-22)
-  - [2.23. Part 23](#223-part-23)
-  - [2.24. Part 24](#224-part-24)
-  - [2.25. Part 25](#225-part-25)
-  - [2.26. Part 26](#226-part-26)
-  - [2.27. Part 27](#227-part-27)
-  - [2.28. Part 28](#228-part-28)
-  - [2.29. Part 29](#229-part-29)
-  - [2.30. Part 30](#230-part-30)
-  - [2.31. Part 31](#231-part-31)
+  - [2.1. 🎯 Part 1](#21--part-1)
+  - [2.2. 🎯 Part 2](#22--part-2)
+  - [2.3. 🎯 Part 3](#23--part-3)
+  - [2.4. 🎯 Part 4](#24--part-4)
+  - [2.5. 🎯 Part 5](#25--part-5)
+  - [2.6. 🎯 Part 6](#26--part-6)
+  - [2.7. 🎯 Part 7](#27--part-7)
+  - [2.8. 🎯 Part 8](#28--part-8)
+  - [2.9. 🎯 Part 9](#29--part-9)
+  - [2.10. 🎯 Part 10](#210--part-10)
+  - [2.11. 🎯 Part 11](#211--part-11)
+  - [2.12. 🎯 Part 12](#212--part-12)
+  - [2.13. 🎯 Part 13](#213--part-13)
+  - [2.14. 🎯 Part 14](#214--part-14)
+  - [2.15. 🎯 Part 15](#215--part-15)
+  - [2.16. 🎯 Part 16](#216--part-16)
+  - [2.17. 🎯 Part 17](#217--part-17)
+  - [2.18. 🎯 Part 18](#218--part-18)
+  - [2.19. 🎯 Part 19](#219--part-19)
+  - [2.20. 🎯 Part 20](#220--part-20)
+  - [2.21. 🎯 Part 21](#221--part-21)
+  - [2.22. 🎯 Part 22](#222--part-22)
+  - [2.23. 🎯 Part 23](#223--part-23)
+  - [2.24. 🎯 Part 24](#224--part-24)
+  - [2.25. 🎯 Part 25](#225--part-25)
+  - [2.26. 🎯 Part 26](#226--part-26)
+  - [2.27. 🎯 Part 27](#227--part-27)
+  - [2.28. 🎯 Part 28](#228--part-28)
+  - [2.29. 🎯 Part 29](#229--part-29)
+  - [2.30. 🎯 Part 30](#230--part-30)
+  - [2.31. 🎯 Part 31](#231--part-31)
 
 <!-- endregion:toc -->
 
 ## 1. 📝 概述
 
 - 记录了《老人与海》英文版原文 + 译文。
-- tts 工具
-  - https://ttsmaker.cn/
-- 数据来源
-  - https://gutenberg.ca/ebooks/hemingwaye-oldmanandthesea/hemingwaye-oldmanandthesea-00-h.html
 
 ## 2. 📚 《老人与海》原文
 
-### 2.1. Part 1
+### 2.1. 🎯 Part 1
 
 He was an old man who fished alone in a skiff in the Gulf Stream and he had gone eighty-four days now without taking a fish. In the first forty days a boy had been with him. But after forty days without a fish the boy's parents had told him that the old man was now definitely and finally salao, which is the worst form of unlucky, and the boy had gone at their orders in another boat which caught three good fish the first week.
 
@@ -108,9 +102,7 @@ They sat on the Terrace and many of the fishermen made fun of the old man and he
 
 > 当他们在露天酒店坐下时，许多先前就待在那儿的渔夫都在嘲笑老人，而他并没有因此生气；其它一些年纪较长的渔夫只是看着他，为他难过，不过他们并没有把这份同情表露出来，只是很礼貌地谈论着今天的水流情况、鱼线所垂钓的深度、稳定的好天气，以及海上的所见所闻。
 
-<E :words="[ 'skiff', 'definitely', 'benevolent', 'erosions', 'undefeated', 'obey' ]" />
-
-### 2.2. Part 2
+### 2.2. 🎯 Part 2
 
 The successful fishermen of that day were already in and had butchered their marlin out and carried them laid full length across two planks, with two men staggering at the end of each plank, to the fish house where they waited for the ice truck to carry them to the market in Havana. Those who had caught sharks had taken them to the shark factory on the other side of the cove where they were hoisted on a block and tackle, their livers removed, their fins cut off and their hides skinned out and their flesh cut into strips for salting.
 
@@ -148,17 +140,7 @@ When the wind was in the east a smell came across the harbor from the shark fact
 
 > 「谢谢你，」老人说。他实在太单纯了，也没有想到过他何时变得如此谦虚，但他知道已经学会了谦虚，他认为谦虚并不丢脸，何况这又无损于内心那份真正的骄傲。「从这样的水流看来，明天会是好天气。」他说。「你明天到什么地方去？」小孩子问道。
 
-<E :words="[
-  'staggering',
-  'hoist',
-  'tackle',
-  'fin',
-  'salting',
-  'sardine',
-  'gamble'
-]" />
-
-### 2.3. Part 3
+### 2.3. 🎯 Part 3
 
 "Far out to come in when the wind shifts. I want to be out before it is light."
 
@@ -188,15 +170,7 @@ These were relics of his wife. Once there had been a tinted photograph of his wi
 
 > 这些都是他亡妻的遗物。墙上也曾经挂着一张他妻子的彩色照片，但每每触目，总使他感到无限凄凉，于是他便将它取下放在墙角的架子上，覆盖在一件干净的衬衫下。「你有什么东西吃呢？」男孩问。「一锅黄米饭和鱼。你要不要来一点？」「不，我要回家吃。你要不要我帮你升火？」「不用了，待会儿我自己会升。或许我就吃冷饭也行。」「我可以拿这鱼网吗？」「当然可以」
 
-<E :words="[
-  'turtle',
-  'gaff',
-  'harpoon',
-  'mast',
-  'relic'
-]" />
-
-### 2.4. Part 4
+### 2.4. 🎯 Part 4
 
 There was no cast net and the boy remembered when they had sold it. But they went through this fiction every day. There was no pot of yellow rice and fish and the boy knew this too.
 
@@ -238,7 +212,7 @@ They were strange shoulders, still powerful although very old, and the neck was 
 
 > 老人的肩膀虽然年老，但依旧健壮有力，他的脖子也还是那么坚挺，即使是睡着，头朝前垂下，颈上的皱纹仍不太明显。他的衬衫就像他的帆一样，补过好多次补钉，而随着长久以来阳光的照射，这些补钉早已褪成深浅不同的颜色。不过，老人的头部却显得相当衰老，只要他把眼睛闭上，脸上便看不出任何生命的迹象了。报纸摊在他的膝盖上，二只手臂的重量使它不被黄昏的微风吹走。老人的双脚赤裸着。
 
-### 2.5. Part 5
+### 2.5. 🎯 Part 5
 
 The boy left him there and when he came back the old man was still asleep. "Wake up old man," the boy said and put his hand on one of the old man's knees. The old man opened his eyes and for a moment he was coming back from a long way away. Then he smiled. "What have you got?" he asked. "Supper," said the boy. "We're going to have supper." "I'm not very hungry." "Come on and eat. You can't fish and not eat. "I have," the old man said getting up and taking the newspaper and folding it. Then he started to fold the blanket.
 
@@ -260,7 +234,7 @@ The boy left him there and when he came back the old man was still asleep. "Wake
 
 > 「讲讲棒球赛的事吧！」男孩央求老人。「就如我所说的，在美国职业棒球联盟里，只有洋基队够看。」老人高兴地说着。「他们今天输了，」男孩告诉老人。「那不算什么，伟大的狄玛基欧今天又恢复了昔日雄风。」「可是他们队里还有其它队员啊。」「是没错，可是有他就不同了。在另外一个棒球联盟里，在布鲁克林队和费城队间，我一定会选择布鲁克林队，不过我会想到的是狄克塞斯乐还有他在旧公园球场里所击出的那些好球。」「没有任何人能击出像他那样的球，他击出的球是我看过最远的。」
 
-### 2.6. Part 6
+### 2.6. 🎯 Part 6
 
 "Do you remember when he used to come to the Terrace? I wanted to take him fishing but I was too timid to ask him. Then I asked you to ask him and you were too timid." "I know. It was a great mistake. He might have gone with us. Then we would have that for all of our lives." "I would like to take the great DiMaggio fishing," the old man said. "They say his father was a fisherman. Maybe he was as poor as we are and would understand." "The great Sisler's father was never poor and he, the father, was playing in the Big Leagues when he was my age."
 
@@ -282,7 +256,7 @@ At least he carried lists of horses at all times in his pocket and frequently sp
 
 > 「那么晚安了。明天一早我就来叫醒你。」「你真是我的闹钟。」男孩说。「年龄是我的闹钟。」老人说：「为什么上了年纪的人总是醒得那么早呢？难道是希望这一天过得长一点吗？」「我不晓得。」男孩说：「我只知道年轻的孩子早上老是起不来，而且睡得沈。」「我记得。」老人说：「我会在时间还没太晚之前就把你叫醒的。」「我不喜欢让那人叫醒我，这样好像是我比不上他似的。」「我了解。」「老先生，好好睡吧。」
 
-### 2.7. Part 7
+### 2.7. 🎯 Part 7
 
 The boy went out. They had eaten with no light on the table and the old an took off his trousers and went to bed in the dark. He rolled his trousers up to make a pillow, putting the newspaper inside them. He rolled himself in the blanket and slept on the other old newspapers that covered the springs of the bed. He was asleep in a short time and he dreamed of Africa when he was a boy and the long golden beaches and the white beaches, so white they hurt your eyes, and the high capes and the great brown mountains.
 
@@ -304,7 +278,7 @@ The old man went out the door and the boy came after him. He was sleepy and the 
 
 > 老人走出门外后，男孩跟着出来，他还很想打瞌睡，老人把手臂搭在他的肩膀上说：「很抱歉。」「怎么会！」男孩说：「这是男子汉应该做的事。」他们沿着路往下走，来到老人的小屋。黑暗中，许多扛着船桅、赤着脚的身影晃动着。他们一来到老人的小屋，男孩便拿起篮中成卷的绳索、鱼叉和鱼钩，老人把卷着帆的桅杆扛在肩上。
 
-### 2.8. Part 8
+### 2.8. 🎯 Part 8
 
 "Do you want coffee?" the boy asked. "We'll put the gear in the boat and then get some." They had coffee from condensed milk cans at an early morning place that served fishermen. "How did you sleep old man?" the boy asked. He was waking up now although it was still hard for him to leave his sleep. "Very well, Manolin," the old man said. "I feel confident today." "So do I," the boy said. "Now I must get your sardines and mine and your fish baits. He brings our gear himself. He never wants anyone to carry anything."
 
@@ -326,7 +300,7 @@ He saw the phosphorescence of the Gulf weed in the water as he rowed over the pa
 
 > 他看见海湾里海草所发出的磷光，原来老人划到了渔夫们所称「深井」地带的海面上了。这名称的由来，是因为在那儿海底突然出现了一个约有七百啊深的「井」，而因为海潮冲击海床上的陡壁时所激起的涡，使得各种鱼类都聚集于此，包括虾子、做鱼饵用的鱼，有时候还有大匹的乌贼，都聚集在洞的深处。这些鱼在晚上会飘浮在接近海面的地方，而在那儿漫游的鱼类便以它们为食。
 
-### 2.9. Part 9
+### 2.9. 🎯 Part 9
 
 In the dark the old man could feel the morning coming and as he rowed he heard the trembling sound as flying fish left the water and the hissing that their stiff set wings made as they soared away in the darkness. He was very fond of flying fish as they were his principal friends on the ocean. He was sorry for the birds, especially the small delicate dark terns that were always flying and looking and almost never finding, and he thought, the birds have a harder life than we do except for the robber birds and the heavy strong ones.
 
@@ -348,7 +322,7 @@ One bait was down forty fathoms. The second was at seventy-five and the third an
 
 > 其中一个鱼饵垂到大约四十啊深的地方，另一个大约垂到七十五啊的地方，其它分别垂在一百啊及一百二十五啊深蓝色的海水中。每一个鱼饵的头都是朝下的，钩子上端则完全藏在鱼饵的身体里，并且被捆得紧紧的，钩子突出的弯曲部份以及顶端，都被新鲜的沙丁鱼掩藏起来。每一条沙丁鱼的双眼都被钩子穿过去，而鱼身沿着钩子突出部分弯出一个半圆形，像个花环。如此一来，大鱼接近时候会以为整个鱼钩既鲜美又可口。
 
-### 2.10. Part 10
+### 2.10. 🎯 Part 10
 
 The boy had given him two fresh small tunas, or albacores, which hung on the two deepest lines like plummets and, on the others, he had a big blue runner and a yellow jack that had been used before; but they were in good condition still and had the excellent sardines to give them scent and attractiveness.
 
@@ -390,7 +364,7 @@ The strange light the sun made in the water, now that the sun was higher, meant 
 
 > 由于太阳又升高了些，阳光照射在水中所呈现的奇异色彩和陆上云朵的形状一样都暗示着好天气。但是，现在那鸟几乎已射下已经褪色的黄色马尾藻，和一只紫色有毒的水母了。它伸张着须夷，凝胶状的气囊飘浮到船边，翻了个身，然后又复原，在水面上彷佛一个气泡一样好轻松愉快地飘浮着，身后拖着一条有毒的紫色细丝，在水里漂着有一码长的距离。
 
-### 2.11. Part 11
+### 2.11. 🎯 Part 11
 
 "Aqua mala," the man said. "You whore." From where he swung lightly against his oars he looked down into the water and saw the tiny fish that were colored like the trailing filaments and swam between them and under the small shade the bubble made as it drifted. They were immune to its poison. But men were not and when some of the filaments would catch on a line and rest there slimy and purple while the old man was working a fish, he would have welts and sores on his arms and hands of the sort that poison ivy or poison oak ran give.
 
@@ -412,7 +386,7 @@ Most fishermen hated the taste but it was no worse than getting up at the hours 
 
 > 但是大多数的渔夫都讨厌那个味道，不过再怎么说，这味道都不会比早起更难过。鲨鱼肝油可以有效御寒、抵抗感冒，对眼睛也很有益处。此刻，老人仰头，望见鸟儿又在空中盘旋。「它已经找到鱼了，」老人大声地说。没有飞鱼跳出水面，鱼饵鱼也都没有散开。但是，正当老人仔细看着水面时，一条小鲔鱼跃入空中，翻了一圈之后，头朝下栽入水中。
 
-### 2.12. Part 12
+### 2.12. 🎯 Part 12
 
 The tuna shone silver in the sun and after he had dropped back into the water another and another rose and they were jumping in all directions, churning the water and leaping in long jumps after the bait. They were circling it and driving it. If they don't travel too fast I will get into them, the old man thought, and he watched the school working the water white and the bird now dropping and dipping into the bait fish that were forced to the surface in their panic.
 
@@ -434,7 +408,7 @@ But now he said his thoughts aloud many times since there was no one that they c
 
 > 但是现在老人都时常把脑子里所想的事情很大声地说出来，反正，他再也不可能干扰到任何人了。「如果别人听见我一个人这么大声地说话，他们一定会认为我是个疯子，」老人又大声地说：「但是，就因为我不是疯子，所以我不在乎。有钱的人在船上有无线电和收音机对他们讲话，报导棒球赛的消息啊。」他想，现在没有时间去想棒球。现在只能有时间想一件事情，那就是我与生俱来的目标。他想，在那一群鱼中可能有一条大的。我只是从那一群捕食的青花鱼中，抓到一条落单的而已。
 
-### 2.13. Part 13
+### 2.13. 🎯 Part 13
 
 But they are working far out and fast. Everything that shows on the surface today travels very fast and to the northeast. Can that be the time of day? Or is it some sign of weather that I do not know? He could not see the green of the shore now but only the tops of the blue hills that showed white as though they were snowcapped and the clouds that looked like high snow mountains above them. The sea was very dark and the light made prisms in the water. The myriad flecks of the plankton were annulled now by the high sun and it was only the great deep prisms in the blue water that the old man saw now with his lines going straight down into the water that was a mile deep. The tuna, the fishermen called all the fish of that species tuna and only distinguished among them by their proper names when they came to sell them or to trade them for baits, were down again. The sun was hot now and the old man felt it on the back of his neck and felt the sweat trickle down his back as he rowed.
 
@@ -452,7 +426,7 @@ Make another turn in the dark and come back and eat them. He felt the light deli
 
 > 在黑暗中转一圈，回过头来吃它吧。他感觉鱼线被轻微地拉动了，然后又重重地拉一下，一定是有条沙丁鱼的头很难从钩子上扯下来。接下来，便毫无动静了。「来嘛，」老人大声地说。「再打一个转，来闻一闻嘛，这些沙丁鱼不是可爱极了吗？现在好好地吃，然后还有鲔鱼呢。坚实、冰凉、又鲜美。鱼儿啊！不要害羞，吃吧！」
 
-### 2.14. Part 14
+### 2.14. 🎯 Part 14
 
 He waited with the line between his thumb and his finger, watching it and the other lines at the same time for the fish might have swum up or down. Then came the same delicate pulling touch again. "He'll take it," the old man said aloud. "God help him to take it." He did not take it though. He was gone and the old man felt nothing. "He can't have gone," he said. "Christ knows he can't have gone. He's making a turn. Maybe he has been hooked before and he remembers something of it." Then he felt the gentle touch on the line and he was happy.
 
@@ -474,7 +448,7 @@ He let the line slip through his fingers while he reached down with his left han
 
 > 「就是现在！」他大声地说，两只手便开始使劲地拉，总算把鱼线拉回了一码长，然后两手交替着继续不断地拉，不但使尽了所有的手肩力量，连作为主轴的身体，也全都用上了重量。徒劳无功地。鱼只是慢慢地游走，老人连一吋都提不起来。还好他的鱼线是专为捕大鱼所设计的，十分地坚固。他把线绳横跨在背上，紧紧握住，紧得连绳子上都挤出水珠来了。线绳在水里发出了缓慢的嘶嘶声，老人让自己在小船的坐板上坐稳，双手仍紧握着鱼线，他吃力地将身体往后靠，以抵抗鱼往前拖的力量。船开始缓慢地朝向西北方移动了。
 
-### 2.15. Part 15
+### 2.15. 🎯 Part 15
 
 The fish moved steadily and they travelled slowly on the calm water. The other baits were still in the water but there was nothing to be done. "I wish I had the boy," the old man said aloud. "I'm being towed by a fish and I'm the towing bit. I could make the line fast. But then he could break it. I must hold him all I can and give him line when he must have it. Thank God he is travelling and not going down."
 
@@ -496,7 +470,7 @@ The fish never changed his course nor his direction all that night as far as the
 
 > 一整夜鱼都没改变它的航道或航向。老人从观察星象就可以知道了。太阳下山之后空气变得很凉，老人的手臂、背脊，和他那一双老腿上的汗都干了，使他更觉冰冷。白天的时候他拿出了一个用来盖鱼饵箱的袋子，把它放在太阳下晒干。太阳下山后，他便把那个袋子围在脖子上绑着，让它垂披在背上，把袋子垫在横跨肩膀的鱼线下。
 
-### 2.16. Part 16
+### 2.16. 🎯 Part 16
 
 The sack cushioned the line and he had found a way of leaning forward against the bow so that he was almost comfortable. The position actually was only somewhat less intolerable; but he thought of it as almost comfortable. I can do nothing with him and he can do nothing with me, he thought. Not as long as he keeps this up. Once he stood up and urinated over the side of the skiff and looked at the stars and checked his course. The line showed like a photographer streak in the water straight out from his shoulders.
 
@@ -518,7 +492,7 @@ He took the bait like a male and he pulls like a male and his fight has no panic
 
 > 看它吃鱼饵和拉扯鱼线的方式，都像一条公鱼，而它面对这场战斗也毫不惊慌。我怀疑它是否有了什么样的计划，或者它只是像我一样地绝望呢？他还记得他从前钓到一对马林鱼其中一只时的情形。由于公鱼总是让母鱼先捕食，因而他钩上的是条母鱼；那条母鱼惊慌疯狂又绝望地挣扎着，很快地就把体力消耗殆尽了。在整个过程中，公鱼都守在她旁边，公鱼游过鱼线，同母鱼在水面上绕转。
 
-### 2.17. Part 17
+### 2.17. 🎯 Part 17
 
 He had stayed so close that the old man was afraid he would cut the line with his tail which was sharp as a scythe and almost of that size and shape. When the old man had gaffed her and clubbed her, holding the rapier bill with its sandpaper edge and clubbing her across the top of her head until her color turned to a color almost like the backing of mirrors, and then, with the boy's aid, hoisted her aboard, the male fish had stayed by the side of the boat.
 
@@ -556,7 +530,7 @@ He adjusted the sack and carefully worked the line so that it came across a new 
 
 > 「鱼啊！」他很温柔，但是很大声地说：「我到死都会一直陪着你。」老人心想，它也会一直陪着我；他等待着黎明。天亮以前的空气凉飕飕的，他紧靠着木头取暖，心里想着，只要它能，我也能。在第一道晨光中，他看见鱼线从小船向外沿伸潜入水中。船很稳定地航行着。当太阳初露一角，阳光正好附在老人的右肩上。「它在朝北方走，」老人说。
 
-### 2.18. Part 18
+### 2.18. 🎯 Part 18
 
 The current will have set us far to the eastward, he thought. I wish he would turn with the current. That would show that he was tiring. When the sun had risen further the old man realized that the fish was not tiring. There was only one favorable sign. The slant of the line showed he was swimming at a lesser depth. That did not necessarily mean that he would jump. But he might. "God let him jump," the old man said. "I have enough line to handle him."
 
@@ -574,7 +548,7 @@ The bird made the stern of the boat and rested there. Then he flew around the ol
 
 > 鸟儿飞向船尾，在那儿歇息。然后它在老人头上盘旋，最后停在让它感到较舒服的鱼在线。「你几岁了？」老人问小鸟。「这是不是你头一次出远门？」鸟儿望着说话的老人。它已疲倦得没有精神去检查线绳，就用它那纤弱的小爪子紧紧地抓住线绳，在上面晃来晃去。「今天天气很稳定。」老人告诉它。「真得很稳定啊。经过这样一个无风的夜晚，你应该不致于这么疲倦啊，你们鸟儿都在做什么呢？」
 
-### 2.19. Part 19
+### 2.19. 🎯 Part 19
 
 The hawks, he thought, that come out to sea to meet them. But he said nothing of this to the bird who could not understand him anyway and who would learn about the hawks soon enough. "Take a good rest, small bird," he said. "Then go in and take your chance like any man or bird or fish." It encouraged him to talk because his back had stiffened in the night and it hurt truly now. "Stay at my house if you like, bird," he said. "I am sorry I cannot hoist the sail and take you in with the small breeze that is rising. But I am with a friend."
 
@@ -596,7 +570,7 @@ It was only a line burn that had cut his flesh. But it was in the working part o
 
 > 只不过是绷紧的绳索割伤到皮肉而已，但那却是工作时最需要的部位。他晓得在这一场战斗还没结束之前，他需要他的双手，所以很不喜欢在还没开始之前就把手给割伤了。手干了之后，他说：「现在呢，我必须吃那条小鲔鱼了，我可以用鱼叉钩到它，然后在这里舒舒服服地吃。」他跪下来，在船尾下找到那条鲔鱼，用鱼叉将它地朝自己拖过小心翼翼地避开旁边的一盘鱼线。
 
-### 2.20. Part 20
+### 2.20. 🎯 Part 20
 
 Holding the line with his left shoulder again, and bracing on his left hand and arm, he took the tuna off the gaff hook and put the gaff back in place. He put one knee on the fish and cut strips of dark red meat longitudinally from the back of the head to the tail. They were wedge-shaped strips and he cut them from next to the backbone down to the edge of the belly. When he had cut six strips he spread them out on the wood of the bow, wiped his knife on his trousers, and lifted the carcass of the bonito by the tail and dropped it overboard.
 
@@ -626,7 +600,7 @@ Maybe it will open when the strong raw tuna is digested. If I have to have it, I
 
 > 也许，当那些生鲔鱼消化以后，它就有力量张开了。只要我执意要，不管付出什么代价，我一定会让它打开的。可是我现在不愿意硬把它扳开，我要让它自己张开，要它自然而然地恢复到原来的样子，毕竟我在昨晚为了解开一根根的线绳，而过度使用它了。他放眼向海面望去，发现此刻自己是多么地孤独。但是他可以看见深暗的海水中阳光逝射如棱镜一般，以及鱼线往前深入水中，还有平静的水面上那奇异的起浮波动。
 
-### 2.21. Part 21
+### 2.21. 🎯 Part 21
 
 The clouds were building up now for the trade wind and he looked ahead and saw a flight of wild ducks etching themselves against the sky over the water, then blurring, then etching again and he knew no man was ever alone on the sea. He thought of how some men feared being out of sight of land in a small boat and knew they were right in the months of sudden bad weather. But now they were in hurricane months and, when there are no hurricanes, the weather of hurricane months is the best of all the year.
 
@@ -656,7 +630,7 @@ Now alone, and out of sight of land, he was fast to the biggest fish that he had
 
 > 而现在，他孤零零地一个人，远在陆地之外，他的命运与一条过去所见所闻中的从未碰过的大鱼，紧密地结合在一起；他的左手依然像老鹰的爪子一样僵硬。抽筋总会好的，他想。它当然要松开来，帮助我的右手。我有三个兄弟：鱼和我的双手。它必须复元，手若抽筋就一点用也没有啦。那鱼又慢了下来，恢复它往常的速度前进。「我真不知道它为什么要跳上来，」老人想。它跳上来就像是要我看看它有多么大。
 
-### 2.22. Part 22
+### 2.22. 🎯 Part 22
 
 I know now, anyway, he thought. I wish I could show him what sort of man I am. But then he would see the cramped hand. Let him think I am more man than I am and I will be so. I wish I were the fish, he thought, with everything he has against only my will and my intelligence. He settled comfortably against the wood and took his suffering as it came and the fist swam steadily and the boat moved slowly through the dark water. There was a small sea rising with the wind coming up from the east and at noon the old man's left hand was uncramped.
 
@@ -714,7 +688,7 @@ And at daylight when the bettors were asking that it be called a draw and the re
 
 > 破晓了，下注的人都说，就算平手结束比赛吧，裁判也直摇头，老人于是使出他所有的力量，将黑奴的手一点一点地往下压，直到把他的手压倒在木桌上，比赛从星期天早晨开始，一直到星期一早晨才结束。之前很多下注的人都要求算平手，因为他们得回到码头装运砂糖，另外有些人则是替哈瓦那煤矿公司工作。要不是这样，每一个人都会希望这场比赛比出胜负为止。不过，他总算在大家得赶回去工作之前把比赛给结束了。
 
-### 2.23. Part 23
+### 2.23. 🎯 Part 23
 
 For a long time after that everyone had called him the Champion and there had been a return match in the spring. But not much money was bet and he had won it quite easily since he had broken the confidence of the negro from Cienfuegos in the first match. After that he had a few matches and then no more. He decided that he could beat anyone if he wanted to badly enough and he decided that it was bad for his right hand for fishing. He had tried a few practice matches with his left hand. But his left hand had always been a traitor and would not do what he called on it to do and he did not trust it.
 
@@ -800,7 +774,7 @@ After that he settled the line across his shoulders in a new place and held it a
 
 > 而后他将肩膀上的绳索挪动一个新的位置，然后用靠在放桨的木栓上的左手握住它。他靠在船边，在水中清洗飞鱼，一面注意着水从他手中流过的速度。他的手因为在去鱼皮时沾了鱼鳞而发出了鳞光，但他仍注视着从手中流过的水，水流已经减弱了。当他在船边的木板上磨擦手时，他看见一片片的鱼鳞缓缓向船尾漂去。
 
-### 2.24. Part 24
+### 2.24. 🎯 Part 24
 
 "He is tiring or he is resting," the old man said. "Now let me get through the eating of this dolphin and get some rest and a little sleep." Under the stars and with the night colder all the time he ate half of one of the dolphin fillets and one of the flying fish, gutted and with its head cut off. "What an excellent fish dolphin is to eat cooked," he said. "And what a miserable fish raw. I will never go in a boat again without salt or limes." If I had brains I would have splashed water on the bow all day and drying, it would have made salt, he thought.
 
@@ -846,7 +820,7 @@ Yes, he thought. And now he has jumped more than a dozen times and filled the sa
 
 > 「你自己最好勇敢起来，对自己要有信心啊，老头子。」他对自己说。「你现在只是又握稳了绳子，可是你还不能收回绳子。不过，他很快就会开始打圈圈了。」现在老人用左手和肩膀来撑住绳子，弯着身子用右手掬水，把脸上海豚的肉渣子洗掉。他害怕那些东西会让他反胃呕吐，因为吐了之后就没有体力了。把脸洗干净后，他又在船边把右手洗了洗，然后把手泡在盐水中，并注视着太阳升起前的第一道曙光。
 
-### 2.25. Part 25
+### 2.25. 🎯 Part 25
 
 He's headed almost east, he thought. That means he is tired and going with the current. Soon he will have to circle. Then our true work begins. After he judged that his right hand had been in the water long enough he took it out and looked at it. "It is not bad," he said. "And pain does not matter to a man." He took hold of the line carefully so that it did not fit into any of the fresh line cuts and shifted his weight so that he could put his left hand into the sea on the other side of the skiff.
 
@@ -896,7 +870,7 @@ You work now, fish, he thought. I'll take you at the turn. The sea had risen con
 
 > 鱼啊！你尽量挣扎吧，他想。等你转弯时，我再把你弄过来。海水已经升得相当高。这正是微风吹拂的好天气，他还得靠这阵风才能回家。「我只管往西南方航驶就是了，」他说。「真正的男人在海上是从来都不会迷失的，何况，那可是个狭长的岛。」当鱼转了第三圈时，他头一次看到了这条鱼。起先他看见这条鱼的黑影游过船底，花了很长的时间才完过通过，他几乎不能相信它有这么的长。「不，」他说。「它不可能那么大。」
 
-### 2.26. Part 26
+### 2.26. 🎯 Part 26
 
 But he was that big and at the end of this circle he came to the surface only thirty yards away and the man saw his tail out of water. It was higher than a big scythe blade and a very pale lavender above the dark blue water. It raked back and as the fish swam just below the surface the old man could see his huge bulk and the purple stripes that banded him. His dorsal fin was down and his huge pectorals were spread wide. On this circle the old man could see the fish's eye and the two gray sucking fish that swam around him. Sometimes they attached themselves to him. Sometimes they darted off. Sometimes they would swim easily in his shadow.
 
@@ -946,7 +920,7 @@ I must prepare everything, then bring him in and lash him well and step the mast
 
 > 我必须将一切准备就绪，然后把它拖过来栓好，升起桅杆，扬起帆回航。他开始把鱼往船边拖过来，以便从它的鳃穿进绳子，再从口中抽出来，这样就能让它的头紧紧靠住船头。他想我要看看它、碰碰它、摸摸它。它就是我的财富，他想。但这并不是我要摸它的原因。我想刚才已经摸到它的心了，他想，就在那第二次把鱼叉柄推入它身体的时候。
 
-### 2.27. Part 27
+### 2.27. 🎯 Part 27
 
 Bring him in now and make him fast and get the noose around his tail and another around his middle to bind him to the skiff. "Get to work, old man," he said. He took a very small drink of the water. "There is very much slave work to be done now that the fight is over." He looked up at the sky and then out to his fish. He looked at the sun carefully. It is not much more than noon, he thought. And the trade wind is rising. The lines all mean nothing now. The boy and I will splice them when we are home.
 
@@ -1020,7 +994,7 @@ It was too good to last, he thought. I wish it had been a dream now and that I h
 
 > 他想，美好的事物总是那么短暂。现在，真希望一切都是梦，希望我没有钓到这条鱼，希望我独自一个人躺在铺着报纸的床上。「但人并不是为失败而生的，」他说。「一个人可以被毁灭，但是永远不能够被打败。」杀了这条大鱼，我感到很难过，他想。现在恶劣的时刻即将来临，而我却连鱼叉都没了。那恶魔如此残酷、神勇、又聪明。但是，我比它更聪明，也许我没有，他想。也许，只不过是我的武装比它要好。
 
-### 2.28. Part 28
+### 2.28. 🎯 Part 28
 
 "Don't think, old man," he said aloud. "Sail on this course and take it when it comes." But I must think, he thought. Because it is all I have left. That and baseball. I wonder how the great DiMaggio would have like the way I hit him in the brain? It was no great thing, he thought. Any man could do it. But do you think my hands were as great a handicap as the bone spurs? I cannot know. I never had anything wrong with my heel except the time the sting ray stung it when I stepped on him when swimming and paralyzed the lower leg and made the unbearable pain.
 
@@ -1074,7 +1048,7 @@ But the shark came up fast with his head out and the old man hit him squarely in
 
 > 但是这条鲨鱼很快地把头露出水面，当它鼻子刚露出水面靠向大鱼的时候，老人很准确地击中它扁平头部的中央。老人把刀子抽出来，然后又在同样的位置刺了一下，但是它仍然用它宽阔的嘴巴，咬住大鱼不放，老人往它左眼刺下去，鲨鱼仍然没有松开口。「你还不走？」老人说，并把刀刃刺向它的背脊骨与大脑之间。这次很容易就刺进去了，他感觉到鲨鱼的软骨被切断了。
 
-### 2.29. Part 29
+### 2.29. 🎯 Part 29
 
 The old man reversed the oar and put the blade between the shark's jaws to open them. He twisted the blade and as the shark slid loose he said, "Go on, galano. Slide down a mile deep. Go see your friend, or maybe it's your mother." The old man wiped the blade of his knife and laid down the oar. Then he found the sheet and the sail filled and he brought the skiff onto her course. "They must have taken a quarter of him and of the best meat," he said aloud. "I wish it were a dream and that I had never hooked him. I'm sorry about it, fish. It makes everything wrong."
 
@@ -1140,7 +1114,7 @@ He lay in the stern and steered and watched for the glow to come in the sky. I h
 
 > 他站在船尾，把着舵，望着天空，等待亮光出现。我只有半条鱼了，他心想。也许我还有把这半条鱼顺利带回去的运气吧。我应该有点运气了。不，他说。你出海这么远，就已经在与你的运气作对了。「不要傻了，」他大声说。「保持清醒，好好把舵，你也许还有很多好运气在后头呢。」「如果有什么地方是卖运气的，我倒想买一点。」他说。我到底用什么买呀！他问自己。我可以拿一只失去的鱼叉、一把已断的小刀和两只受伤的手去买吗？「或许可以，」他说。
 
-### 2.30. Part 30
+### 2.30. 🎯 Part 30
 
 "You tried to buy it with eighty-four days at sea. They nearly sold it to you too." I must not think nonsense, he thought. Luck is a thing that comes in many forms and who can recognize her? I would take some thought in any form and pay what they asked. I wish I could see the glow from the lights, he thought. I wish too many things. But that is the thing I wish for now. He tried to settle more comfortably of steer and from his pain he knew he was not dead. He saw the reflected glare of the lights of the city at what must have been around ten o'clock at night.
 
@@ -1186,7 +1160,7 @@ Inside the shack he leaned the mast against the wall. In the dark he found a wat
 
 > 他把桅杆靠在小木屋里的墙上。黑暗中他摸索到一个水瓶，喝了一口水后便倒在床上。他拉起毯子盖在肩膀上、背上和腿上。他脸朝下趴在报纸上，手肩直直地伸着，掌心朝上。早晨当小男孩从门口往里望的时候，他正熟睡着。风强烈地吹着，那些随风飘荡的小船都不出海，因此男孩也就晚一点才起床，就如每天早晨一样，他来到老人的小木屋里察看。
 
-### 2.31. Part 31
+### 2.31. 🎯 Part 31
 
 The boy saw that the old man was breathing and then he saw the old man's hands and he started to cry. He went out very quietly to go to bring some coffee and all the way down the road he was crying. Many fishermen were around the skiff looking at what was lashed beside it and one was in the water, his trousers rolled up, measuring the skeleton with a length of line. The boy did not go down. He had been there before and one of the fishermen was looking after the skiff for him. "How is he?" one of the fishermen shouted.
 
