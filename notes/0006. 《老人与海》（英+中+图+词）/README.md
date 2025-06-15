@@ -1,7 +1,9 @@
-# [0015. 《老人与海》（英+中）](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0015.%20%E3%80%8A%E8%80%81%E4%BA%BA%E4%B8%8E%E6%B5%B7%E3%80%8B%EF%BC%88%E8%8B%B1%2B%E4%B8%AD%EF%BC%89)
+# [0006. 《老人与海》（英+中+图+词）](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0006.%20%E3%80%8A%E8%80%81%E4%BA%BA%E4%B8%8E%E6%B5%B7%E3%80%8B%EF%BC%88%E8%8B%B1%2B%E4%B8%AD%2B%E5%9B%BE%2B%E8%AF%8D%EF%BC%89)
 
 <!-- region:toc -->
 
+- [📂 TNotes.yuque](https://www.yuque.com/tdahuyou/tnotes.yuque/)
+  - [TNotes.yuque.en-notes.0006](https://www.yuque.com/tdahuyou/tnotes.yuque/en-notes.0006)
 - [1. 📝 概述](#1--概述)
 - [2. 📚 《老人与海》原文](#2--老人与海原文)
   - [2.1. 🎯 Part 1](#21--part-1)
@@ -40,7 +42,12 @@
 
 ## 1. 📝 概述
 
-- 记录了《老人与海》英文版原文 + 译文。
+- 记录了《老人与海》英文版原文 + 译文 + 词汇列表。
+- 音频资源已上传至 TNotes.yuque 中。
+- tts 工具
+  - https://ttsmaker.cn/
+- 数据来源
+  - https://gutenberg.ca/ebooks/hemingwaye-oldmanandthesea/hemingwaye-oldmanandthesea-00-h.html
 
 ## 2. 📚 《老人与海》原文
 
@@ -50,9 +57,13 @@ He was an old man who fished alone in a skiff in the Gulf Stream and he had gone
 
 > 他一个老人，划着小船独自在墨西哥湾中捕鱼；八十四天了还没有捕到过一条鱼。最初的四十天里，小男孩一直都跟着他，而四十天后，男孩的父母便告诉孩子说：这老人的运气肯定是跌到了谷底，简直就是倒霉透顶了。于是男孩在他父母亲的命令下，转到了另外一条船上去捕鱼，结果不出一个星期，就捕到了三条大鱼。
 
+![图 1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-15-08-49-19.png)
+
 It made the boy sad to see the old man come in each day with his skiff empty and he always went down to help him carry either the coiled lines or the gaff and harpoon and the sail that was furled around the mast. The sail was patched with flour sacks and, furled, it looked like the flag of permanent defeat.
 
 > 然而，男孩看着老人日复一日驾着那空空的小船回来，总是为他感到难过。因此总会在老人回来时，上前帮忙提绳索、鱼钩、鱼叉以及从船桅上卸下的船帆等。老人的船帆上满是用面粉袋做成的补钉，使得帆布卷起来时，好似一面象征无限败战的旗帜。
+
+![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-15-08-48-03.png)
 
 The old man was thin and gaunt with deep wrinkles in the back of his neck. The brown blotches of the benevolent skin cancer the sun brings from its reflection on the tropic sea were on his cheeks.
 
@@ -65,6 +76,8 @@ The blotches ran well down the sides of his face and his hands had the deep-crea
 Everything about him was old except his eyes and they were the same color as the sea and were cheerful and undefeated.
 
 > 老人是这么的苍老，但唯有双眼依旧有着像海水一样的颜色，既充满了欢愉，也好像是从来没有被打败过似的。
+
+![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-15-08-52-24.png)
 
 "Santiago," the boy said to him as they climbed the bank from where the skiff was hauled up. "I could go with you again. We've made some money."
 
@@ -98,15 +111,34 @@ The old man had taught the boy to fish and the boy loved him.
 
 > 「好啊，」老人说：「打渔的都是一家人嘛。」
 
+![图 1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-15-09-10-36.png)
+
 They sat on the Terrace and many of the fishermen made fun of the old man and he was not angry. Others, of the older fishermen, looked at him and were sad. But they did not show it and they spoke politely about the current and the depths they had drifted their lines at and the steady good weather and of what they had seen.
 
 > 当他们在露天酒店坐下时，许多先前就待在那儿的渔夫都在嘲笑老人，而他并没有因此生气；其它一些年纪较长的渔夫只是看着他，为他难过，不过他们并没有把这份同情表露出来，只是很礼貌地谈论着今天的水流情况、鱼线所垂钓的深度、稳定的好天气，以及海上的所见所闻。
+
+![图 2](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-15-09-13-17.png)
+
+<E needSort :words="[
+  'skiff', 'Gulf Stream', 'definitely', 'salao', 'form', 'order', 'catch',
+  'carry', 'coil', 'gaff', 'harpoon', 'sail', 'furl', 'mast', 'patch', 'flour', 'sack',
+  'thin', 'gaunt', 'wrinkle', 'neck', 'brown', 'benevolent', 'skin', 'cancer', 'reflect', 'tropical',
+  'hand', 'crease', 'handle', 'heavy', 'cord', 'erosion', 'fishless', 'desert',
+  'cheerful', 'undefeated',
+  'climb', 'haul',
+  'doubt',
+  'papa', 'obey',
+  'faith', 'offer', 'beer', 'terrace', 'stuff', 'fisherman',
+  'polite', 'current', 'drift', 'steady', 'weather'
+]" />
 
 ### 2.2. 🎯 Part 2
 
 The successful fishermen of that day were already in and had butchered their marlin out and carried them laid full length across two planks, with two men staggering at the end of each plank, to the fish house where they waited for the ice truck to carry them to the market in Havana. Those who had caught sharks had taken them to the shark factory on the other side of the cove where they were hoisted on a block and tackle, their livers removed, their fins cut off and their hides skinned out and their flesh cut into strips for salting.
 
 > 当天有鱼获的几个渔夫都已经回来了，他们将捕到的马林鱼剖腹处理后，摊平放在两块厚木板上，一头一个人抬着，两人抬着鱼摇摇晃晃地走进鱼屋，等着冷冻车来将他们载往哈瓦那的市场去。而那些捕到鲨鱼的渔夫，也已经把那些鲨鱼送到在小海湾另一边的鲨鱼工厂去了，在那儿鲨鱼被滑轮垂吊起来，然后被取下肝、割掉鳍、剥下皮，肉也被割成条状准备用盐来腌。
+
+![图 3](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-15-09-27-01.png)
 
 When the wind was in the east a smell came across the harbor from the shark factory; but today there was only the faint edge of the odor because the wind had backed into the north and then dropped off and it was pleasant and sunny on the Terrace.
 
@@ -140,7 +172,68 @@ When the wind was in the east a smell came across the harbor from the shark fact
 
 > 「谢谢你，」老人说。他实在太单纯了，也没有想到过他何时变得如此谦虚，但他知道已经学会了谦虚，他认为谦虚并不丢脸，何况这又无损于内心那份真正的骄傲。「从这样的水流看来，明天会是好天气。」他说。「你明天到什么地方去？」小孩子问道。
 
+![图 4](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-15-09-27-50.png)
+
+<E :words="[
+  'butcher',
+  'marlin',
+  'plank',
+  'truck',
+  'market',
+  'Havana',
+  'shark',
+  'factory',
+  'cove',
+  'hoist',
+  'tackle',
+  'liver',
+  'fin',
+  'hide',
+  'salt',
+  'smell',
+  'harbour',
+  'east',
+  'faint',
+  'odor',
+  'drop',
+  'pleasant',
+  'sunny',
+  'holding',
+  'sardine',
+  'glass',
+  'baseball',
+  'row',
+  'net',
+  'serve',
+  'tail',
+  'slap',
+  'bang',
+  'thwart',
+  'break',
+  'noise',
+  'club',
+  'bow',
+  'shiver',
+  'chop',
+  'blood',
+  'sweet',
+  'sunburn',
+  'confident',
+  'humility',
+  'attain',
+  'disgraceful',
+  'pride',
+  'bait',
+  'fresh',
+  'freshen',
+  'breeze',
+  'gamble',
+  'staggering',
+]" />
+
 ### 2.3. 🎯 Part 3
+
+![图 5](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-15-09-28-36.png)
 
 "Far out to come in when the wind shifts. I want to be out before it is light."
 
@@ -169,6 +262,14 @@ The old man leaned the mast with its wrapped sail against the wall and the boy p
 These were relics of his wife. Once there had been a tinted photograph of his wife on the wall but he had taken it down because it made him too lonely to see it and it was on the shelf in the corner under his clean shirt. "What do you have to eat?" the boy asked. "A pot of yellow rice with fish. Do you want some?" "No. I will eat at home. Do you want me to make the fire?" "No. I will make it later on. Or I may eat the rice cold." "May I take the cast net?" "Of course."
 
 > 这些都是他亡妻的遗物。墙上也曾经挂着一张他妻子的彩色照片，但每每触目，总使他感到无限凄凉，于是他便将它取下放在墙角的架子上，覆盖在一件干净的衬衫下。「你有什么东西吃呢？」男孩问。「一锅黄米饭和鱼。你要不要来一点？」「不，我要回家吃。你要不要我帮你升火？」「不用了，待会儿我自己会升。或许我就吃冷饭也行。」「我可以拿这鱼网吗？」「当然可以」
+
+<E :words="[
+  'turtle',
+  'gaff',
+  'harpoon',
+  'mast',
+  'relic'
+]" />
 
 ### 2.4. 🎯 Part 4
 
