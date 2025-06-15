@@ -233,11 +233,11 @@ When the wind was in the east a smell came across the harbor from the shark fact
 
 ### 2.3. 🎯 Part 3
 
-![图 5](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-15-09-28-36.png)
-
 "Far out to come in when the wind shifts. I want to be out before it is light."
 
 > 「能去多远的地方就去，只要风转向的时候能回得来就好。我想在天破晓之前就出发。」
+
+<!-- ![图 5](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-15-09-28-36.png) -->
 
 "I'll try to get him to work far out," the boy said. "Then if you hook something truly big we can come to your aid."
 
@@ -251,6 +251,8 @@ When the wind was in the east a smell came across the harbor from the shark fact
 
 > 「可是，你在蚊子海岸外捕海龟那么多年，你的眼力依然很好啊？」「我是一个奇怪的老头子。」「那你现在是不是还有足够的体力来应付一条大鱼呢？」「我相信没有问题，而且我还有很多诀窍。」「我们先把这些东西拿回家，」男孩说：「再顺便拿张网，捕些沙丁鱼去。」他们把鱼具从船上拿出来，老人把桅杆扛在他的肩膀上，小男孩抱着木箱子，里面装满了一卷卷结实的棕色绳索、鱼钩和带柄的鱼叉。
 
+![图 6](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-15-12-27-47.png)
+
 The box with the baits was under the stern of the skiff along with the club that was used to subdue the big fish when they were brought alongside. No one would steal from the old man but it was better to take the sail and the heavy lines home as the dew was bad for them and, though he was quite sure no local people would steal from him, the old man thought that a gaff and a harpoon were needless temptations to leave in a boat. They walked up the road together to the old man's shack and went in through its open door.
 
 > 装鱼饵的箱子和一根棍子一起被放在船尾的底部，这根棍子是用来制伏被拖上船的大鱼的。照理不会有人要偷老人的东西，不过因为露水会浸蚀这些东西，把帆和沉重的鱼线都拿回家去还是比较妥当些。老人虽然晓得当地没有人会偷他的东西，但他认为也不需要把鱼钩与鱼叉留在船上引诱别人。他们一同沿着路走上去，来到老人的小屋，通过敞开的门走进屋内。
@@ -259,16 +261,33 @@ The old man leaned the mast with its wrapped sail against the wall and the boy p
 
 > 老人将卷着帆的桅杆靠着墙立着，男孩把箱子和其它渔具就放在旁边。桅杆的长度几乎和整个屋内的空间同长。这茅屋是用棕榈树坚硬的嫩芽护壳所搭造成的，而屋里有一张床、一张桌子和一把椅子，另外，就在污泥地上，有一小块可以用煤炭煮饭的地方。茅屋的墙，是以有着坚韧纤维的棕榈叶压平后紧密相迭所构成的；棕色的墙上挂了一幅彩色的耶稣圣心像，和一张考伯圣女图。
 
+![图 7](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-15-12-34-45.png)
+
 These were relics of his wife. Once there had been a tinted photograph of his wife on the wall but he had taken it down because it made him too lonely to see it and it was on the shelf in the corner under his clean shirt. "What do you have to eat?" the boy asked. "A pot of yellow rice with fish. Do you want some?" "No. I will eat at home. Do you want me to make the fire?" "No. I will make it later on. Or I may eat the rice cold." "May I take the cast net?" "Of course."
 
 > 这些都是他亡妻的遗物。墙上也曾经挂着一张他妻子的彩色照片，但每每触目，总使他感到无限凄凉，于是他便将它取下放在墙角的架子上，覆盖在一件干净的衬衫下。「你有什么东西吃呢？」男孩问。「一锅黄米饭和鱼。你要不要来一点？」「不，我要回家吃。你要不要我帮你升火？」「不用了，待会儿我自己会升。或许我就吃冷饭也行。」「我可以拿这鱼网吗？」「当然可以」
 
-<E :words="[
+<E needSort :words="[
+  'shaft',
+  'wooden',
+  'shoulder',
+  'gear',
+  'relic',
+  'shift',
+  'light',
+  'far',
+  'aid',
+  'dolphin',
+  'blind',
   'turtle',
-  'gaff',
-  'harpoon',
-  'mast',
-  'relic'
+  'Mosquito Coast',
+  'trick',
+  'stuff',
+  'net',
+  'pick',
+  'gear',
+  'braid',
+  'subdue',
 ]" />
 
 ### 2.4. 🎯 Part 4
