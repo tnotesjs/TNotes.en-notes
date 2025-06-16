@@ -1,8 +1,54 @@
+# [0006. 《老人与海》（英+图+词）](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0006.%20%E3%80%8A%E8%80%81%E4%BA%BA%E4%B8%8E%E6%B5%B7%E3%80%8B%EF%BC%88%E8%8B%B1%2B%E5%9B%BE%2B%E8%AF%8D%EF%BC%89)
+
+<!-- region:toc -->
+
+- [📂 TNotes.yuque](https://www.yuque.com/tdahuyou/tnotes.yuque/)
+  - [TNotes.yuque.en-notes.0006](https://www.yuque.com/tdahuyou/tnotes.yuque/en-notes.0006)
+- [1. 📝 概述](#1--概述)
+- [2. 📚 《老人与海》原文](#2--老人与海原文)
+  - [2.1. 🎯 1-100](#21--1-100)
+  - [2.2. 🎯 101-200](#22--101-200)
+  - [2.3. 🎯 201-300](#23--201-300)
+  - [2.4. 🎯 301-400](#24--301-400)
+  - [2.5. 🎯 401-500](#25--401-500)
+  - [2.6. 🎯 501-600](#26--501-600)
+  - [2.7. 🎯 601-627](#27--601-627)
+
+<!-- endregion:toc -->
+
+## 1. 📝 概述
+
+- 记录了《老人与海》英文版原文 + 图片 + 词汇列表。
+- 译文：
+  - 译文在笔记中没有记录，因为有很多现成的工具可以直接使用，比如你可以利用【沉浸式翻译】插件来实现网页上英文内容的翻译。
+  - https://immersivetranslate.com/
+  - 以笔记中记录的【1】为例，翻译结果如下：
+  - ![图 10](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-15-20-23-16.png)
+- tts 工具
+  - https://ttsmaker.cn/
+  - 音频资源已上传至 TNotes.yuque 中，想要练习听力的话，可以结合 AI 生成的音频数据来练习。
+- 图像生成
+  - 笔记中的大部分图片是利用 gemini 生成的。
+    - https://gemini.google.com/
+- 数据来源
+  - https://gutenberg.ca/ebooks/hemingwaye-oldmanandthesea/hemingwaye-oldmanandthesea-00-h.html
+  - ![图 8](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-15-20-20-44.png)
+  - 你也可利用【沉浸式翻译】插件查看译文
+  - ![图 9](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-15-20-21-44.png)
+
+## 2. 📚 《老人与海》原文
+
+### 2.1. 🎯 1-100
+
 【1】He was an old man who fished alone in a skiff in the Gulf Stream and he had gone eighty-four days now without taking a fish. In the first forty days a boy had been with him. But after forty days without a fish the boy's parents had told him that the old man was now definitely and finally salao, which is the worst form of unlucky, and the boy had gone at their orders in another boat which caught three good fish the first week. It made the boy sad to see the old man come in each day with his skiff empty and he always went down to help him carry either the coiled lines or the gaff and harpoon and the sail that was furled around the mast. The sail was patched with flour sacks and, furled, it looked like the flag of permanent defeat.
+
+![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-15-08-48-03.png)
 
 【2】The old man was thin and gaunt with deep wrinkles in the back of his neck. The brown blotches of the benevolent skin cancer the sun brings from its reflection on the tropic sea were on his cheeks. The blotches ran well down the sides of his face and his hands had the deep-creased scars from handling heavy fish on the cords. But none of these scars were fresh. They were as old as erosions in a fishless desert.
 
 【3】Everything about him was old except his eyes and they were the same color as the sea and were cheerful and undefeated.
+
+![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-15-08-52-24.png)
 
 【4】"Santiago," the boy said to him as they climbed the bank from where the skiff was hauled up. "I could go with you again. We've made some money."
 
@@ -26,9 +72,17 @@
 
 【14】"Why not?" the old man said. "Between fishermen."
 
+![图 1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-15-09-10-36.png)
+
 【15】They sat on the Terrace and many of the fishermen made fun of the old man and he was not angry. Others, of the older fishermen, looked at him and were sad. But they did not show it and they spoke politely about the current and the depths they had drifted their lines at and the steady good weather and of what they had seen. The successful fishermen of that day were already in and had butchered their marlin out and carried them laid full length across two planks, with two men staggering at the end of each plank, to the fish house where they waited for the ice truck to carry them to the market in Havana. Those who had caught sharks had taken them to the shark factory on the other side of the cove where they were hoisted on a block and tackle, their livers removed, their fins cut off and their hides skinned out and their flesh cut into strips for salting.
 
+![图 2](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-15-09-13-17.png)
+
+![图 3](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-15-09-27-01.png)
+
 【16】When the wind was in the east a smell came across the harbour from the shark factory; but today there was only the faint edge of the odour because the wind had backed into the north and then dropped off and it was pleasant and sunny on the Terrace.
+
+![图 11](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-16-08-18-34.png)
 
 【17】"Santiago," the boy said.
 
@@ -72,11 +126,15 @@
 
 【37】"Thank you," the old man said. He was too simple to wonder when he had attained humility. But he knew he had attained it and he knew it was not disgraceful and it carried no loss of true pride.
 
+![图 4](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-15-09-27-50.png)
+
 【38】"Tomorrow is going to be a good day with this current," he said.
 
 【39】"Where are you going?" the boy asked.
 
 【40】"Far out to come in when the wind shifts. I want to be out before it is light."
+
+![图 5](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-15-09-28-36.png)
 
 【41】"I'll try to get him to work far out," the boy said. "Then if you hook something truly big we can come to your aid."
 
@@ -102,7 +160,11 @@
 
 【52】They picked up the gear from the boat. The old man carried the mast on his shoulder and the boy carried the wooden box with the coiled, hard-braided brown lines, the gaff and the harpoon with its shaft. The box with the baits was under the stern of the skiff along with the club that was used to subdue the big fish when they were brought alongside. No one would steal from the old man but it was better to take the sail and the heavy lines home as the dew was bad for them and, though he was quite sure no local people would steal from him, the old man thought that a gaff and a harpoon were needless temptations to leave in a boat.
 
+![图 6](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-15-12-27-47.png)
+
 【53】They walked up the road together to the old man's shack and went in through its open door. The old man leaned the mast with its wrapped sail against the wall and the boy put the box and the other gear beside it. The mast was nearly as long as the one room of the shack. The shack was made of the tough bud-shields of the royal palm which are called guano and in it there was a bed, a table, one chair, and a place on the dirt floor to cook with charcoal. On the brown walls of the flattened, overlapping leaves of the sturdy fibered guano there was a picture in color of the Sacred Heart of Jesus and another of the Virgin of Cobre. These were relics of his wife. Once there had been a tinted photograph of his wife on the wall but he had taken it down because it made him too lonely to see it and it was on the shelf in the corner under his clean shirt.
+
+![图 7](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-15-12-34-45.png)
 
 【54】"What do you have to eat?" the boy asked.
 
@@ -197,6 +259,162 @@
 【99】"I thanked him already," the boy said. "You don't need to thank him."
 
 【100】"I'll give him the belly meat of a big fish," the old man said. "Has he done this for us more than once?"
+
+<E
+  needSort
+  :words="[
+    'aid',
+    'attain',
+    'bait',
+    'bang',
+    'baseball',
+    'beer',
+    'benevolent',
+    'blind',
+    'blood',
+    'bought',
+    'bow',
+    'braid',
+    'break',
+    'breeze',
+    'brown',
+    'burn',
+    'butcher',
+    'cancer',
+    'carry',
+    'catch',
+    'cheerful',
+    'chop',
+    'climb',
+    'club',
+    'coil',
+    'confident',
+    'cord',
+    'cove',
+    'crease',
+    'current',
+    'definitely',
+    'desert',
+    'disgraceful',
+    'dolphin',
+    'doubt',
+    'drift',
+    'drop',
+    'east',
+    'edge',
+    'erosion',
+    'factory',
+    'faint',
+    'faith',
+    'far',
+    'fin',
+    'fisherman',
+    'fishermen',
+    'fishless',
+    'flesh',
+    'flour',
+    'form',
+    'fresh',
+    'freshen',
+    'furl',
+    'gaff',
+    'gamble',
+    'gaunt',
+    'gear',
+    'gear',
+    'glass',
+    'Gulf Stream',
+    'hand',
+    'handle',
+    'harbour',
+    'harpoon',
+    'haul',
+    'Havana',
+    'heavy',
+    'hide',
+    'hides',
+    'hoist',
+    'holding',
+    'hook',
+    'humility',
+    'light',
+    'liver',
+    'loving',
+    'market',
+    'marlin',
+    'mast',
+    'mine',
+    'Mosquito Coast',
+    'mosquito',
+    'neck',
+    'net',
+    'noise',
+    'obey',
+    'odor',
+    'offer',
+    'order',
+    'papa',
+    'patch',
+    'pick',
+    'plank',
+    'pleasant',
+    'polite',
+    'pride',
+    'reflect',
+    'relic',
+    'remember',
+    'rise',
+    'row',
+    'sack',
+    'sail',
+    'salao',
+    'salt',
+    'salting',
+    'sardine',
+    'serve',
+    'shaft',
+    'shark',
+    'shift',
+    'shiver',
+    'shoulder',
+    'skiff',
+    'skin',
+    'slap',
+    'smell',
+    'staggering',
+    'stange',
+    'steady',
+    'steal',
+    'strip',
+    'stuff',
+    'stuff',
+    'subdue',
+    'sunburn',
+    'sunny',
+    'sweet',
+    'tackle',
+    'tail',
+    'tear',
+    'terrace',
+    'thin',
+    'throw',
+    'thwart',
+    'tore',
+    'trick',
+    'tropical',
+    'truck',
+    'truly',
+    'turtle',
+    'undefeated',
+    'weather',
+    'wind',
+    'wonder',
+    'wooden',
+    'wrinkle',
+  ]"
+/>
+
+### 2.2. 🎯 101-200
 
 【101】"I think so."
 
@@ -398,6 +616,8 @@
 
 【200】He did not remember when he had first started to talk aloud when he was by himself. He had sung when he was by himself in the old days and he had sung at night sometimes when he was alone steering on his watch in the smacks or in the turtle boats. He had probably started to talk aloud, when alone, when the boy had left. But he did not remember. When he and the boy fished together they usually spoke only when it was necessary. They talked at night or when they were storm-bound by bad weather. It was considered a virtue not to talk unnecessarily at sea and the old man had always considered it so and respected it. But now he said his thoughts aloud many times since there was no one that they could annoy.
 
+### 2.3. 🎯 201-300
+
 【201】"If the others heard me talking out loud they would think that I am crazy," he said aloud. "But since I am not crazy, I do not care. And the rich have radios to talk to them in their boats and to bring them the baseball."
 
 【202】Now is no time to think of baseball, he thought. Now is the time to think of only one thing. That which I was born for. There might be a big one around that school, he thought. I picked up only a straggler from the albacore that were feeding. But they are working far out and fast. Everything that shows on the surface today travels very fast and to the north-east. Can that be the time of day? Or is it some sign of weather that I do not know?
@@ -597,6 +817,8 @@
 【299】He straightened up, wiping his hand on his trousers.
 
 【300】"Now," he said. "You can let the cord go, hand, and I will handle him with the right arm alone until you stop that nonsense." He put his left foot on the heavy line that the left hand had held and lay back against the pull against his back.
+
+### 2.4. 🎯 301-400
 
 【301】"God help me to have the cramp go," he said. "Because I do not know what the fish is going to do."
 
@@ -798,6 +1020,8 @@
 
 【400】"You did not do so badly for something worthless," he said to his left hand. "But there was a moment when I could not find you."
 
+### 2.5. 🎯 401-500
+
 【401】Why was I not born with two good hands? he thought. Perhaps it was my fault in not training that one properly. But God knows he has had enough chances to learn. He did not do so badly in the night, though, and he has only cramped once. If he cramps again let the line cut him off.
 
 【402】When he thought that he knew that he was not being clear-headed and he thought he should chew some more of the dolphin. But I can't, he told himself. It is better to be light-headed than to lose your strength from nausea. And I know I cannot keep it if I eat it since my face was in it. I will keep it for an emergency until it goes bad. But it is too late to try for strength now through nourishment. You're stupid, he told himself. Eat the other flying fish.
@@ -998,6 +1222,8 @@
 
 【500】He leaned over the side and pulled loose a piece of the meat of the fish where the shark had cut him. He chewed it and noted its quality and its good taste. It was firm and juicy, like meat, but it was not red. There was no stringiness in it and he knew that it would bring the highest price in the market. But there was no way to keep its scent out of the water and the old man knew that a very bad time was coming.
 
+### 2.6. 🎯 501-600
+
 【501】The breeze was steady. It had backed a little further into the north-east and he knew that meant that it would not fall off. The old man looked ahead of him but he could see no sails nor could he see the hull nor the smoke of any ship. There were only the flying fish that went up from his bow sailing away to either side and the yellow patches of gulf-weed. He could not even see a bird.
 
 【502】He had sailed for two hours, resting in the stern and sometimes chewing a bit of the meat from the marlin, trying to rest and to be strong, when he saw the first of the two sharks.
@@ -1197,6 +1423,8 @@
 【599】"Did they search for me?"
 
 【600】"Of course. With coast guard and with planes."
+
+### 2.7. 🎯 601-627
 
 【601】"The ocean is very big and a skiff is small and hard to see," the old man said. He noticed how pleasant it was to have someone to talk to instead of speaking only to himself and to the sea. "I missed you," he said. "What did you catch?"
 
