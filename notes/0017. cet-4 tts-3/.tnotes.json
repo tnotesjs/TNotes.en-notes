@@ -1,6 +1,8 @@
 {
   "bilibili": [],
-  "yuque": ["en-words.0017"],
+  "yuque": [
+    "en-words.0017"
+  ],
   "done": true,
   "enableDiscussions": true,
   "id": "74f142be-df10-43cc-8f59-e4780e112d01"

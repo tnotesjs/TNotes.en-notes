@@ -21,9 +21,9 @@
     "icon": {
       "src": "https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/assets/icon--en-notes.svg"
     },
-    "title": "英语学习笔记",
-    "completed_notes_count": 13,
-    "details": "记单词工具、后续也可以将学口语、练听力的功能也加上。",
+    "title": "en-notes",
+    "completed_notes_count": 14,
+    "details": "英语学习笔记",
     "link": "https://tdahuyou.github.io/TNotes.en-notes/"
   },
   "port": 9379,
