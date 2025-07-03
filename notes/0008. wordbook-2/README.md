@@ -25,6 +25,7 @@
 'cabbage',
 'Cascade',
 'cave',
+'caveat',
 'clash',
 'cleaner',
 'compose',
