@@ -16,15 +16,18 @@
     "demos",
     "assets"
   ],
-  "rootDocsSrcDir": "../_/docs/src",
-  "home.features.item": {
+  "rootSidebarDir": "../_/sidebars",
+  "root_item": {
     "icon": {
       "src": "https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/assets/icon--en-notes.svg"
     },
     "title": "en-notes",
     "completed_notes_count": 14,
     "details": "英语学习笔记",
-    "link": "https://tdahuyou.github.io/TNotes.en-notes/"
+    "link": "https://tdahuyou.github.io/TNotes.en-notes/",
+    "created_at": 1740846170000,
+    "updated_at": 1753580637000,
+    "days_since_birth": 9379
   },
   "port": 9379,
   "menuItems": [
