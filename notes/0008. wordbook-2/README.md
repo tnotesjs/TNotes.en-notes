@@ -79,4 +79,8 @@
 'vector',
 'vertical',
 'WHATWG',
+'trap',
+'desired',
+'precedence',
+'scrub',
 ]"></EnWordList>
