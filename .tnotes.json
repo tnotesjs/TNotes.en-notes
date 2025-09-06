@@ -16,7 +16,7 @@
     "demos",
     "assets"
   ],
-  "rootSidebarDir": "../_/sidebars",
+  "rootSidebarDir": "../TNotes/sidebars",
   "root_item": {
     "icon": {
       "src": "https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/assets/icon--en-notes.svg"
@@ -26,7 +26,7 @@
     "details": "英语学习笔记",
     "link": "https://tdahuyou.github.io/TNotes.en-notes/",
     "created_at": 1740846170000,
-    "updated_at": 1754494968170,
+    "updated_at": 1757163546548,
     "days_since_birth": 9379
   },
   "port": 9379,
@@ -65,7 +65,7 @@
     },
     {
       "ariaLabel": "TNotes.en-notes github 仓库链接",
-      "link": "https://github.com/Tdahuyou/TNotes.en-notes",
+      "link": "https://github.com/tnotesjs/TNotes.en-notes",
       "icon": "github"
     }
   ],
