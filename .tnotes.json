@@ -1,5 +1,5 @@
 {
-  "author": "Tdahuyou",
+  "author": "tnotesjs",
   "repoName": "TNotes.en-notes",
   "keywords": ["TNotes.en-notes", "TNotes en-notes", "Tdahuyou en-notes notes"],
   "sidebar_isCollapsed": true,
@@ -20,7 +20,7 @@
     "title": "en-notes",
     "completed_notes_count": 14,
     "details": "英语学习笔记",
-    "link": "https://tdahuyou.github.io/TNotes.en-notes/",
+    "link": "https://tnotesjs.github.io/TNotes.en-notes/",
     "created_at": 1740846170000,
     "updated_at": 1757163546548,
     "days_since_birth": 9379
@@ -37,7 +37,7 @@
     },
     {
       "text": "📒 TNotes",
-      "link": "https://tdahuyou.github.io/notes"
+      "link": "https://tnotesjs.github.io/notes"
     },
     {
       "text": "📂 TNotes.yuque",
