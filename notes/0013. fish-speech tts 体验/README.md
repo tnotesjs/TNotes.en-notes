@@ -39,11 +39,11 @@
   - 安装依赖
   - 上 Hugging Face 下载 mini 模型相关的文件丢到项目根目录下的 `checkpoints/openaudio-s1-mini` 下。
     - https://huggingface.co/fishaudio/openaudio-s1-mini/tree/main
-    - ![图 2](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-08-19-18-36.png)
+    - ![图 2](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-06-08-19-18-36.png)
   - 启动 webui `python tools/run_webui.py`
 - 环境：
   - 环境用的是阿里云主机，显卡是 `2080 Ti`。
-  - ![图 1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-08-19-07-09.png)
+  - ![图 1](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-06-08-19-07-09.png)
   - 这已经是当前能选择的个人云主机最高配了。
 - 速度：
   - 转换速度测试下来是 500 字符，3min 左右。
@@ -54,13 +54,13 @@
 - `TNotes.yuque`
   - 输出的一些测试音频啥的记录在了 `TNotes.yuque` 上。
   - 如有需要，可以去预览一下当时上传的克隆测试音频，以及使用 `mini` 模型转换文本后得到的识别结果。
-  - ![图 3](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-08-19-22-19.png)
+  - ![图 3](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-06-08-19-22-19.png)
 
 ## 3. 📒 收费方案评价
 
 - 以字节的 tts 服务为例：（因为从听感上来看，感觉豆包的语音更好一些）
 - https://www.volcengine.com/product/tts
-- ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-08-18-57-33.png)
+- ![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-06-08-18-57-33.png)
 - 最便宜的 10w 字符需要 36 元，就 en-notes.0012 中要转换的字符就 20w↑ 了，单是 QWERTY Learner 的 CET-4 的识别需求估计就得破百了。
 - 果断放弃……
 - 其他厂家的收费标准也就没必要去细看了，估计都差不太多，要么就是费用接受不了，要么就是音质接受不了。

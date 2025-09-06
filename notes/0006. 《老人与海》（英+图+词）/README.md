@@ -24,7 +24,7 @@
   - 译文在笔记中没有记录，因为有很多现成的工具可以直接使用，比如你可以利用【沉浸式翻译】插件来实现网页上英文内容的翻译。
   - https://immersivetranslate.com/
   - 以笔记中记录的【1】为例，翻译结果如下：
-  - ![图 10](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-15-20-23-16.png)
+  - ![图 10](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-06-15-20-23-16.png)
 - tts 工具
   - https://ttsmaker.cn/
   - 音频资源已上传至 TNotes.yuque 中，想要练习听力的话，可以结合 AI 生成的音频数据来练习。
@@ -33,9 +33,9 @@
     - https://gemini.google.com/
 - 数据来源
   - https://gutenberg.ca/ebooks/hemingwaye-oldmanandthesea/hemingwaye-oldmanandthesea-00-h.html
-  - ![图 8](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-15-20-20-44.png)
+  - ![图 8](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-06-15-20-20-44.png)
   - 你也可利用【沉浸式翻译】插件查看译文
-  - ![图 9](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-15-20-21-44.png)
+  - ![图 9](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-06-15-20-21-44.png)
 
 ## 2. 📚 《老人与海》原文
 
@@ -43,13 +43,13 @@
 
 【1】He was an old man who fished alone in a skiff in the Gulf Stream and he had gone eighty-four days now without taking a fish. In the first forty days a boy had been with him. But after forty days without a fish the boy's parents had told him that the old man was now definitely and finally salao, which is the worst form of unlucky, and the boy had gone at their orders in another boat which caught three good fish the first week. It made the boy sad to see the old man come in each day with his skiff empty and he always went down to help him carry either the coiled lines or the gaff and harpoon and the sail that was furled around the mast. The sail was patched with flour sacks and, furled, it looked like the flag of permanent defeat.
 
-![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-15-08-48-03.png)
+![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-06-15-08-48-03.png)
 
 【2】The old man was thin and gaunt with deep wrinkles in the back of his neck. The brown blotches of the benevolent skin cancer the sun brings from its reflection on the tropic sea were on his cheeks. The blotches ran well down the sides of his face and his hands had the deep-creased scars from handling heavy fish on the cords. But none of these scars were fresh. They were as old as erosions in a fishless desert.
 
 【3】Everything about him was old except his eyes and they were the same color as the sea and were cheerful and undefeated.
 
-![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-15-08-52-24.png)
+![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-06-15-08-52-24.png)
 
 【4】"Santiago," the boy said to him as they climbed the bank from where the skiff was hauled up. "I could go with you again. We've made some money."
 
@@ -73,17 +73,17 @@
 
 【14】"Why not?" the old man said. "Between fishermen."
 
-![图 1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-15-09-10-36.png)
+![图 1](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-06-15-09-10-36.png)
 
 【15】They sat on the Terrace and many of the fishermen made fun of the old man and he was not angry. Others, of the older fishermen, looked at him and were sad. But they did not show it and they spoke politely about the current and the depths they had drifted their lines at and the steady good weather and of what they had seen. The successful fishermen of that day were already in and had butchered their marlin out and carried them laid full length across two planks, with two men staggering at the end of each plank, to the fish house where they waited for the ice truck to carry them to the market in Havana. Those who had caught sharks had taken them to the shark factory on the other side of the cove where they were hoisted on a block and tackle, their livers removed, their fins cut off and their hides skinned out and their flesh cut into strips for salting.
 
-![图 2](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-15-09-13-17.png)
+![图 2](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-06-15-09-13-17.png)
 
-![图 3](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-15-09-27-01.png)
+![图 3](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-06-15-09-27-01.png)
 
 【16】When the wind was in the east a smell came across the harbour from the shark factory; but today there was only the faint edge of the odour because the wind had backed into the north and then dropped off and it was pleasant and sunny on the Terrace.
 
-![图 11](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-16-08-18-34.png)
+![图 11](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-06-16-08-18-34.png)
 
 【17】"Santiago," the boy said.
 
@@ -127,7 +127,7 @@
 
 【37】"Thank you," the old man said. He was too simple to wonder when he had attained humility. But he knew he had attained it and he knew it was not disgraceful and it carried no loss of true pride.
 
-![图 4](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-15-09-27-50.png)
+![图 4](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-06-15-09-27-50.png)
 
 【38】"Tomorrow is going to be a good day with this current," he said.
 
@@ -135,7 +135,7 @@
 
 【40】"Far out to come in when the wind shifts. I want to be out before it is light."
 
-![图 5](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-15-09-28-36.png)
+![图 5](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-06-15-09-28-36.png)
 
 【41】"I'll try to get him to work far out," the boy said. "Then if you hook something truly big we can come to your aid."
 
@@ -161,11 +161,11 @@
 
 【52】They picked up the gear from the boat. The old man carried the mast on his shoulder and the boy carried the wooden box with the coiled, hard-braided brown lines, the gaff and the harpoon with its shaft. The box with the baits was under the stern of the skiff along with the club that was used to subdue the big fish when they were brought alongside. No one would steal from the old man but it was better to take the sail and the heavy lines home as the dew was bad for them and, though he was quite sure no local people would steal from him, the old man thought that a gaff and a harpoon were needless temptations to leave in a boat.
 
-![图 6](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-15-12-27-47.png)
+![图 6](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-06-15-12-27-47.png)
 
 【53】They walked up the road together to the old man's shack and went in through its open door. The old man leaned the mast with its wrapped sail against the wall and the boy put the box and the other gear beside it. The mast was nearly as long as the one room of the shack. The shack was made of the tough bud-shields of the royal palm which are called guano and in it there was a bed, a table, one chair, and a place on the dirt floor to cook with charcoal. On the brown walls of the flattened, overlapping leaves of the sturdy fibered guano there was a picture in color of the Sacred Heart of Jesus and another of the Virgin of Cobre. These were relics of his wife. Once there had been a tinted photograph of his wife on the wall but he had taken it down because it made him too lonely to see it and it was on the shelf in the corner under his clean shirt.
 
-![图 7](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-15-12-34-45.png)
+![图 7](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-06-15-12-34-45.png)
 
 【54】"What do you have to eat?" the boy asked.
 

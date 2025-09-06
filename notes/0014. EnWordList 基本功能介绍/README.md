@@ -15,7 +15,7 @@
 ## 2. 📒 单词本组件 `EnWordList.vue` 功能介绍
 
 - 右键词汇展示组件 `EnWordList.vue` 更多功能：
-  - ![图 1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-07-10-48-40.png)
+  - ![图 1](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-06-07-10-48-40.png)
 - 单词卡片：
   - 单词卡片预加载。
   - Pin 单词卡片。
