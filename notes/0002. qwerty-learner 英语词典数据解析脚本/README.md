@@ -1,4 +1,4 @@
-# [0002. qwerty-learner 英语词典数据解析脚本](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0002.%20qwerty-learner%20%E8%8B%B1%E8%AF%AD%E8%AF%8D%E5%85%B8%E6%95%B0%E6%8D%AE%E8%A7%A3%E6%9E%90%E8%84%9A%E6%9C%AC)
+# [0002. qwerty-learner 英语词典数据解析脚本](https://github.com/tnotesjs/TNotes.en-notes/tree/main/notes/0002.%20qwerty-learner%20%E8%8B%B1%E8%AF%AD%E8%AF%8D%E5%85%B8%E6%95%B0%E6%8D%AE%E8%A7%A3%E6%9E%90%E8%84%9A%E6%9C%AC)
 
 <!-- region:toc -->
 

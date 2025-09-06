@@ -1,4 +1,4 @@
-# [0008. wordbook-2](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0008.%20wordbook-2)
+# [0008. wordbook-2](https://github.com/tnotesjs/TNotes.en-notes/tree/main/notes/0008.%20wordbook-2)
 
 <!-- region:toc -->
 

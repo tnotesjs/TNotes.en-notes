@@ -1,4 +1,4 @@
-# [0009. 单词本概述](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0009.%20%E5%8D%95%E8%AF%8D%E6%9C%AC%E6%A6%82%E8%BF%B0)
+# [0009. 单词本概述](https://github.com/tnotesjs/TNotes.en-notes/tree/main/notes/0009.%20%E5%8D%95%E8%AF%8D%E6%9C%AC%E6%A6%82%E8%BF%B0)
 
 <!-- region:toc -->
 

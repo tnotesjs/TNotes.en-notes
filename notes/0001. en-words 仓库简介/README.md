@@ -1,4 +1,4 @@
-# [0001. en-words 仓库简介](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0001.%20en-words%20%E4%BB%93%E5%BA%93%E7%AE%80%E4%BB%8B)
+# [0001. en-words 仓库简介](https://github.com/tnotesjs/TNotes.en-notes/tree/main/notes/0001.%20en-words%20%E4%BB%93%E5%BA%93%E7%AE%80%E4%BB%8B)
 
 <!-- region:toc -->
 

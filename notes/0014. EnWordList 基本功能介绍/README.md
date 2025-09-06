@@ -1,4 +1,4 @@
-# [0014. EnWordList 基本功能介绍](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0014.%20EnWordList%20%E5%9F%BA%E6%9C%AC%E5%8A%9F%E8%83%BD%E4%BB%8B%E7%BB%8D)
+# [0014. EnWordList 基本功能介绍](https://github.com/tnotesjs/TNotes.en-notes/tree/main/notes/0014.%20EnWordList%20%E5%9F%BA%E6%9C%AC%E5%8A%9F%E8%83%BD%E4%BB%8B%E7%BB%8D)
 
 <!-- region:toc -->
 

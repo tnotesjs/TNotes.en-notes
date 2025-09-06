@@ -1,4 +1,4 @@
-# [0010. cet-4 checklist](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0010.%20cet-4%20checklist)
+# [0010. cet-4 checklist](https://github.com/tnotesjs/TNotes.en-notes/tree/main/notes/0010.%20cet-4%20checklist)
 
 <!-- region:toc -->
 

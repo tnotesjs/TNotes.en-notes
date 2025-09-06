@@ -1,4 +1,4 @@
-# [0006. 《老人与海》（英+图+词）](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0006.%20%E3%80%8A%E8%80%81%E4%BA%BA%E4%B8%8E%E6%B5%B7%E3%80%8B%EF%BC%88%E8%8B%B1%2B%E5%9B%BE%2B%E8%AF%8D%EF%BC%89)
+# [0006. 《老人与海》（英+图+词）](https://github.com/tnotesjs/TNotes.en-notes/tree/main/notes/0006.%20%E3%80%8A%E8%80%81%E4%BA%BA%E4%B8%8E%E6%B5%B7%E3%80%8B%EF%BC%88%E8%8B%B1%2B%E5%9B%BE%2B%E8%AF%8D%EF%BC%89)
 
 <!-- region:toc -->
 

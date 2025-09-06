@@ -1,4 +1,4 @@
-# [0003. qwerty-learner 英文单词数据源](https://github.com/Tdahuyou/TNotes.en-notes/tree/main/notes/0003.%20qwerty-learner%20%E8%8B%B1%E6%96%87%E5%8D%95%E8%AF%8D%E6%95%B0%E6%8D%AE%E6%BA%90)
+# [0003. qwerty-learner 英文单词数据源](https://github.com/tnotesjs/TNotes.en-notes/tree/main/notes/0003.%20qwerty-learner%20%E8%8B%B1%E6%96%87%E5%8D%95%E8%AF%8D%E6%95%B0%E6%8D%AE%E6%BA%90)
 
 <!-- region:toc -->
 
