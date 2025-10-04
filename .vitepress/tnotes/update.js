@@ -569,10 +569,12 @@ class ReadmeUpdater {
       if (notesConfig.tnotes.length > 0) {
         tnotesTOCItems = notesConfig.tnotes.map(
           ([tnotesName, notesID, notesName], i) =>
-            `  - [TNotes.${tnotesName} - ${notesID}](${
+            `  - [TNotes.${tnotesName} - ${
+              notesID + (notesName ? `. ${notesName}/README` : '')
+            }](${
               `https://tnotesjs.github.io/TNotes.${tnotesName}/notes/` +
               notesID +
-              (notesName ? `%20.${encodeURIComponent(notesName)}/README` : '')
+              (notesName ? `.%20${encodeURIComponent(notesName)}/README` : '')
             })`
         )
       }

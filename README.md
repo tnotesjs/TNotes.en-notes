@@ -20,12 +20,10 @@
 
 - [x] [0018. 英语学习工具、学习资料](https://github.com/tnotesjs/TNotes.en-notes/tree/main/notes/0018.%20%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0%E5%B7%A5%E5%85%B7%E3%80%81%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/README.md)
   - [📒 TNotes](https://tnotesjs.github.io/TNotes/)
-    - [TNotes.git-notes - 0027](https://tnotesjs.github.io/TNotes.git-notes/notes/0027 .everyone-can-use-english/README)
-    - [TNotes.git-notes - 0027](https://tnotesjs.github.io/TNotes.git-notes/notes/0027)
-  - [1. 🎯 本节内容](https://github.com/tnotesjs/TNotes.en-notes/tree/main/notes/0018.%20%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0%E5%B7%A5%E5%85%B7%E3%80%81%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/README.md#1--本节内容)
-  - [2. 🫧 评价](https://github.com/tnotesjs/TNotes.en-notes/tree/main/notes/0018.%20%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0%E5%B7%A5%E5%85%B7%E3%80%81%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/README.md#2--评价)
-  - [3. 📒 工具列表](https://github.com/tnotesjs/TNotes.en-notes/tree/main/notes/0018.%20%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0%E5%B7%A5%E5%85%B7%E3%80%81%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/README.md#3--工具列表)
-  - [4. 🔗 引用](https://github.com/tnotesjs/TNotes.en-notes/tree/main/notes/0018.%20%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0%E5%B7%A5%E5%85%B7%E3%80%81%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/README.md#4--引用)
+    - [TNotes.git-notes - 0027. everyone-can-use-english/README](https://tnotesjs.github.io/TNotes.git-notes/notes/0027.%20everyone-can-use-english/README)
+  - [1. 🫧 评价](https://github.com/tnotesjs/TNotes.en-notes/tree/main/notes/0018.%20%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0%E5%B7%A5%E5%85%B7%E3%80%81%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/README.md#1--评价)
+  - [2. 📒 工具列表](https://github.com/tnotesjs/TNotes.en-notes/tree/main/notes/0018.%20%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0%E5%B7%A5%E5%85%B7%E3%80%81%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/README.md#2--工具列表)
+  - [3. 🔗 引用](https://github.com/tnotesjs/TNotes.en-notes/tree/main/notes/0018.%20%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0%E5%B7%A5%E5%85%B7%E3%80%81%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/README.md#3--引用)
 
 ## 2. 名著
 

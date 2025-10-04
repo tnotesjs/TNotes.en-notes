@@ -3,30 +3,25 @@
 <!-- region:toc -->
 
 - [📒 TNotes](https://tnotesjs.github.io/TNotes/)
-  - [TNotes.git-notes - 0027](https://tnotesjs.github.io/TNotes.git-notes/notes/0027%20.everyone-can-use-english/README)
-  - [TNotes.git-notes - 0027](https://tnotesjs.github.io/TNotes.git-notes/notes/0027)
-- [1. 🎯 本节内容](#1--本节内容)
-- [2. 🫧 评价](#2--评价)
-- [3. 📒 工具列表](#3--工具列表)
-- [4. 🔗 引用](#4--引用)
+  - [TNotes.git-notes - 0027. everyone-can-use-english/README](https://tnotesjs.github.io/TNotes.git-notes/notes/0027.%20everyone-can-use-english/README)
+- [1. 🫧 评价](#1--评价)
+- [2. 📒 工具列表](#2--工具列表)
+- [3. 🔗 引用](#3--引用)
 
 <!-- endregion:toc -->
 
-## 1. 🎯 本节内容
+## 1. 🫧 评价
 
-- 记录英语学习工具和资料
+- 这篇笔记用于记录英语学习工具和资料；
+- 先将所有工具汇总记录到一个文档中，如果内容太多，再考虑分笔记；
 
-## 2. 🫧 评价
-
-- 先将所有工具汇总记录到一个文档中，如果内容太多，再考虑分笔记。
-
-## 3. 📒 工具列表
+## 2. 📒 工具列表
 
 | 工具 | 描述 | TNotes |
 | --- | --- | --- |
-| `everyone-can-use-english` | [github][1]、[官网][2]，一款用于学习英语的开源项目。 | `TNotes.git-notes 0027. everyone-can-use-english` |
+| `everyone-can-use-english` | [github][1]、[官网][2]，一款用于学习英语的开源项目。 | `git-notes - 0027` |
 
-## 4. 🔗 引用
+## 3. 🔗 引用
 
 - [github - everyone-can-use-english][1]
 - [网页版 - everyone-can-use-english][2]
