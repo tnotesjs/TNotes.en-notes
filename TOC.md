@@ -1,11 +1,20 @@
 # en-notes
 
 
-## 1. 名著
+## 1. 学习工具&学习资料
+
+- [x] [0018. 英语学习工具、学习资料](https://tnotesjs.github.io/TNotes.en-notes/notes/0018.%20%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0%E5%B7%A5%E5%85%B7%E3%80%81%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/README)
+  - [📒 TNotes](https://tnotesjs.github.io/TNotes/)
+    - [TNotes.git-notes - 0027](https://tnotesjs.github.io/TNotes.git-notes/notes/0027 .everyone-can-use-english/README)
+    - [TNotes.git-notes - 0027](https://tnotesjs.github.io/TNotes.git-notes/notes/0027)
+  - [1. 🎯 本节内容](https://tnotesjs.github.io/TNotes.en-notes/notes/0018.%20%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0%E5%B7%A5%E5%85%B7%E3%80%81%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/README#1--本节内容)
+  - [2. 🫧 评价](https://tnotesjs.github.io/TNotes.en-notes/notes/0018.%20%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0%E5%B7%A5%E5%85%B7%E3%80%81%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/README#2--评价)
+  - [3. 📒 工具列表](https://tnotesjs.github.io/TNotes.en-notes/notes/0018.%20%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0%E5%B7%A5%E5%85%B7%E3%80%81%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/README#3--工具列表)
+  - [4. 🔗 引用](https://tnotesjs.github.io/TNotes.en-notes/notes/0018.%20%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0%E5%B7%A5%E5%85%B7%E3%80%81%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/README#4--引用)
+
+## 2. 名著
 
 - [x] [0006. 《老人与海》（英+图+词）](https://tnotesjs.github.io/TNotes.en-notes/notes/0006.%20%E3%80%8A%E8%80%81%E4%BA%BA%E4%B8%8E%E6%B5%B7%E3%80%8B%EF%BC%88%E8%8B%B1%2B%E5%9B%BE%2B%E8%AF%8D%EF%BC%89/README)
-  - [📂 TNotes.yuque](https://www.yuque.com/tdahuyou/tnotes.yuque/)
-    - [TNotes.yuque.en-notes.0006](https://www.yuque.com/tdahuyou/tnotes.yuque/en-notes.0006)
   - [1. 📝 概述](https://tnotesjs.github.io/TNotes.en-notes/notes/0006.%20%E3%80%8A%E8%80%81%E4%BA%BA%E4%B8%8E%E6%B5%B7%E3%80%8B%EF%BC%88%E8%8B%B1%2B%E5%9B%BE%2B%E8%AF%8D%EF%BC%89/README#1--概述)
   - [2. 📚 《老人与海》原文](https://tnotesjs.github.io/TNotes.en-notes/notes/0006.%20%E3%80%8A%E8%80%81%E4%BA%BA%E4%B8%8E%E6%B5%B7%E3%80%8B%EF%BC%88%E8%8B%B1%2B%E5%9B%BE%2B%E8%AF%8D%EF%BC%89/README#2--老人与海原文)
     - [2.1. 🎯 1-100](https://tnotesjs.github.io/TNotes.en-notes/notes/0006.%20%E3%80%8A%E8%80%81%E4%BA%BA%E4%B8%8E%E6%B5%B7%E3%80%8B%EF%BC%88%E8%8B%B1%2B%E5%9B%BE%2B%E8%AF%8D%EF%BC%89/README#21--1-100)
@@ -27,11 +36,9 @@
     - [2.6. 🎯 501-600](https://tnotesjs.github.io/TNotes.en-notes/notes/0016.%20%E3%80%8A%E8%80%81%E4%BA%BA%E4%B8%8E%E6%B5%B7%E3%80%8B%EF%BC%88%E8%8B%B1%2B%E4%B8%AD%EF%BC%89/README#26--501-600)
     - [2.7. 🎯 601-627](https://tnotesjs.github.io/TNotes.en-notes/notes/0016.%20%E3%80%8A%E8%80%81%E4%BA%BA%E4%B8%8E%E6%B5%B7%E3%80%8B%EF%BC%88%E8%8B%B1%2B%E4%B8%AD%EF%BC%89/README#27--601-627)
 
-## 2. CET-4
+## 3. CET-4
 
 - [x] [0010. cet-4 checklist](https://tnotesjs.github.io/TNotes.en-notes/notes/0010.%20cet-4%20checklist/README)
-  - [📂 TNotes.yuque](https://www.yuque.com/tdahuyou/tnotes.yuque/)
-    - [TNotes.yuque.en-notes.0010](https://www.yuque.com/tdahuyou/tnotes.yuque/en-notes.0010)
   - [1. 📝 概述](https://tnotesjs.github.io/TNotes.en-notes/notes/0010.%20cet-4%20checklist/README#1--概述)
   - [2. 🎯 词汇列表](https://tnotesjs.github.io/TNotes.en-notes/notes/0010.%20cet-4%20checklist/README#2--词汇列表)
     - [2.1. 🎯 Chapter 1](https://tnotesjs.github.io/TNotes.en-notes/notes/0010.%20cet-4%20checklist/README#21--chapter-1)
@@ -166,8 +173,6 @@
     - [2.130. 🎯 Chapter 130](https://tnotesjs.github.io/TNotes.en-notes/notes/0010.%20cet-4%20checklist/README#2130--chapter-130)
     - [2.131. 🎯 Chapter 131](https://tnotesjs.github.io/TNotes.en-notes/notes/0010.%20cet-4%20checklist/README#2131--chapter-131)
 - [x] [0011. cet-4 tts-1](https://tnotesjs.github.io/TNotes.en-notes/notes/0011.%20cet-4%20tts-1/README)
-  - [📂 TNotes.yuque](https://www.yuque.com/tdahuyou/tnotes.yuque/)
-    - [TNotes.yuque.en-notes.0011](https://www.yuque.com/tdahuyou/tnotes.yuque/en-notes.0011)
   - [1. 📝 概述](https://tnotesjs.github.io/TNotes.en-notes/notes/0011.%20cet-4%20tts-1/README#1--概述)
   - [2. 🤖 AI 提示词](https://tnotesjs.github.io/TNotes.en-notes/notes/0011.%20cet-4%20tts-1/README#2--ai-提示词)
   - [3. 🤖 AI 生成的文案](https://tnotesjs.github.io/TNotes.en-notes/notes/0011.%20cet-4%20tts-1/README#3--ai-生成的文案)
@@ -303,8 +308,6 @@
     - [3.130. 🎯 Chapter 130](https://tnotesjs.github.io/TNotes.en-notes/notes/0011.%20cet-4%20tts-1/README#3130--chapter-130)
     - [3.131. 🎯 Chapter 131](https://tnotesjs.github.io/TNotes.en-notes/notes/0011.%20cet-4%20tts-1/README#3131--chapter-131)
 - [x] [0012. cet-4 tts-2](https://tnotesjs.github.io/TNotes.en-notes/notes/0012.%20cet-4%20tts-2/README)
-  - [📂 TNotes.yuque](https://www.yuque.com/tdahuyou/tnotes.yuque/)
-    - [TNotes.yuque.en-notes.0012](https://www.yuque.com/tdahuyou/tnotes.yuque/en-notes.0012)
   - [1. 📝 概述](https://tnotesjs.github.io/TNotes.en-notes/notes/0012.%20cet-4%20tts-2/README#1--概述)
   - [2. 🤖 AI 提示词](https://tnotesjs.github.io/TNotes.en-notes/notes/0012.%20cet-4%20tts-2/README#2--ai-提示词)
   - [3. 🤖 AI 生成的文案](https://tnotesjs.github.io/TNotes.en-notes/notes/0012.%20cet-4%20tts-2/README#3--ai-生成的文案)
@@ -440,8 +443,6 @@
     - [3.130. 🎯 Chapter 130](https://tnotesjs.github.io/TNotes.en-notes/notes/0012.%20cet-4%20tts-2/README#3130--chapter-130)
     - [3.131. 🎯 Chapter 131](https://tnotesjs.github.io/TNotes.en-notes/notes/0012.%20cet-4%20tts-2/README#3131--chapter-131)
 - [x] [0017. cet-4 tts-3](https://tnotesjs.github.io/TNotes.en-notes/notes/0017.%20cet-4%20tts-3/README)
-  - [📂 TNotes.yuque](https://www.yuque.com/tdahuyou/tnotes.yuque/)
-    - [TNotes.yuque.en-notes.0017](https://www.yuque.com/tdahuyou/tnotes.yuque/en-notes.0017)
   - [1. 📝 概述](https://tnotesjs.github.io/TNotes.en-notes/notes/0017.%20cet-4%20tts-3/README#1--概述)
   - [2. 🎯 Chapter 1-10](https://tnotesjs.github.io/TNotes.en-notes/notes/0017.%20cet-4%20tts-3/README#2--chapter-1-10)
   - [3. 🎯 Chapter 11-20](https://tnotesjs.github.io/TNotes.en-notes/notes/0017.%20cet-4%20tts-3/README#3--chapter-11-20)
@@ -458,8 +459,6 @@
   - [14. 🎯 Chapter 121-130](https://tnotesjs.github.io/TNotes.en-notes/notes/0017.%20cet-4%20tts-3/README#14--chapter-121-130)
   - [15. 🎯 Chapter 131](https://tnotesjs.github.io/TNotes.en-notes/notes/0017.%20cet-4%20tts-3/README#15--chapter-131)
 - [x] [0015. cet-4 video chapter words preview](https://tnotesjs.github.io/TNotes.en-notes/notes/0015.%20cet-4%20video%20chapter%20words%20preview/README)
-  - [📂 TNotes.yuque](https://www.yuque.com/tdahuyou/tnotes.yuque/)
-    - [TNotes.yuque.en-notes.0015](https://www.yuque.com/tdahuyou/tnotes.yuque/en-notes.0015)
   - [1. 📝 概述](https://tnotesjs.github.io/TNotes.en-notes/notes/0015.%20cet-4%20video%20chapter%20words%20preview/README#1--概述)
   - [2. 📺 Chapter words preview](https://tnotesjs.github.io/TNotes.en-notes/notes/0015.%20cet-4%20video%20chapter%20words%20preview/README#2--chapter-words-preview)
     - [2.1. 🎯 Chapter 1 ～ 10](https://tnotesjs.github.io/TNotes.en-notes/notes/0015.%20cet-4%20video%20chapter%20words%20preview/README#21--chapter-1--10)
@@ -477,7 +476,7 @@
     - [2.13. 🎯 Chapter 121 ～ 130](https://tnotesjs.github.io/TNotes.en-notes/notes/0015.%20cet-4%20video%20chapter%20words%20preview/README#213--chapter-121--130)
     - [2.14. 🎯 Chapter 131](https://tnotesjs.github.io/TNotes.en-notes/notes/0015.%20cet-4%20video%20chapter%20words%20preview/README#214--chapter-131)
 
-## 3. 单词本
+## 4. 单词本
 
 - [ ] [0009. 单词本概述](https://tnotesjs.github.io/TNotes.en-notes/notes/0009.%20%E5%8D%95%E8%AF%8D%E6%9C%AC%E6%A6%82%E8%BF%B0/README)
   - [1. 📝 概述](https://tnotesjs.github.io/TNotes.en-notes/notes/0009.%20%E5%8D%95%E8%AF%8D%E6%9C%AC%E6%A6%82%E8%BF%B0/README#1--概述)
@@ -488,7 +487,7 @@
   - [1. 📝 概述](https://tnotesjs.github.io/TNotes.en-notes/notes/0008.%20wordbook-2/README#1--概述)
   - [2. 📒 词汇列表](https://tnotesjs.github.io/TNotes.en-notes/notes/0008.%20wordbook-2/README#2--词汇列表)
 
-## 4. 词库
+## 5. 词库
 
 - [x] [0001. en-words 仓库简介](https://tnotesjs.github.io/TNotes.en-notes/notes/0001.%20en-words%20%E4%BB%93%E5%BA%93%E7%AE%80%E4%BB%8B/README)
   - [1. 🔗 github 开源仓库 - 英语字典 - kajweb/dict](https://tnotesjs.github.io/TNotes.en-notes/notes/0001.%20en-words%20%E4%BB%93%E5%BA%93%E7%AE%80%E4%BB%8B/README#1--github-开源仓库---英语字典---kajwebdict)
@@ -498,27 +497,25 @@
   - [5. 🤔 如何往 en-words 中新增词汇？](https://tnotesjs.github.io/TNotes.en-notes/notes/0001.%20en-words%20%E4%BB%93%E5%BA%93%E7%AE%80%E4%BB%8B/README#5--如何往-en-words-中新增词汇)
   - [6. 💻 demos.1 - 提取所有词汇的脚本](https://tnotesjs.github.io/TNotes.en-notes/notes/0001.%20en-words%20%E4%BB%93%E5%BA%93%E7%AE%80%E4%BB%8B/README#6--demos1---提取所有词汇的脚本)
 
-## 5. 自定义组件
+## 6. 自定义组件
 
 - [x] [0014. EnWordList 基本功能介绍](https://tnotesjs.github.io/TNotes.en-notes/notes/0014.%20EnWordList%20%E5%9F%BA%E6%9C%AC%E5%8A%9F%E8%83%BD%E4%BB%8B%E7%BB%8D/README)
   - [1. 📝 概述](https://tnotesjs.github.io/TNotes.en-notes/notes/0014.%20EnWordList%20%E5%9F%BA%E6%9C%AC%E5%8A%9F%E8%83%BD%E4%BB%8B%E7%BB%8D/README#1--概述)
   - [2. 📒 单词本组件 `EnWordList.vue` 功能介绍](https://tnotesjs.github.io/TNotes.en-notes/notes/0014.%20EnWordList%20%E5%9F%BA%E6%9C%AC%E5%8A%9F%E8%83%BD%E4%BB%8B%E7%BB%8D/README#2--单词本组件-enwordlistvue-功能介绍)
 
-## 6. tts
+## 7. tts
 
 - [x] [0013. fish-speech tts 体验](https://tnotesjs.github.io/TNotes.en-notes/notes/0013.%20fish-speech%20tts%20%E4%BD%93%E9%AA%8C/README)
-  - [📂 TNotes.yuque](https://www.yuque.com/tdahuyou/tnotes.yuque/)
-    - [TNotes.yuque.en-notes.0013](https://www.yuque.com/tdahuyou/tnotes.yuque/en-notes.0013)
   - [1. 📝 概述](https://tnotesjs.github.io/TNotes.en-notes/notes/0013.%20fish-speech%20tts%20%E4%BD%93%E9%AA%8C/README#1--概述)
   - [2. 💻 免费方案 - fish-speech tts 体验](https://tnotesjs.github.io/TNotes.en-notes/notes/0013.%20fish-speech%20tts%20%E4%BD%93%E9%AA%8C/README#2--免费方案---fish-speech-tts-体验)
   - [3. 📒 收费方案评价](https://tnotesjs.github.io/TNotes.en-notes/notes/0013.%20fish-speech%20tts%20%E4%BD%93%E9%AA%8C/README#3--收费方案评价)
 
-## 7. 语雀 SDK
+## 8. 语雀 SDK
 
 - [ ] [0004. 批量上传单词到 yuque 知识库中](https://tnotesjs.github.io/TNotes.en-notes/notes/0004.%20%E6%89%B9%E9%87%8F%E4%B8%8A%E4%BC%A0%E5%8D%95%E8%AF%8D%E5%88%B0%20yuque%20%E7%9F%A5%E8%AF%86%E5%BA%93%E4%B8%AD/README)
   - [1. 📝 概述](https://tnotesjs.github.io/TNotes.en-notes/notes/0004.%20%E6%89%B9%E9%87%8F%E4%B8%8A%E4%BC%A0%E5%8D%95%E8%AF%8D%E5%88%B0%20yuque%20%E7%9F%A5%E8%AF%86%E5%BA%93%E4%B8%AD/README#1--概述)
 
-## 8. QWERTY-LEARNER 数据源
+## 9. QWERTY-LEARNER 数据源
 
 ::: danger
 
@@ -545,7 +542,7 @@ TODO：
     - [3.2. 脚本使用说明](https://tnotesjs.github.io/TNotes.en-notes/notes/0002.%20qwerty-learner%20%E8%8B%B1%E8%AF%AD%E8%AF%8D%E5%85%B8%E6%95%B0%E6%8D%AE%E8%A7%A3%E6%9E%90%E8%84%9A%E6%9C%AC/README#32-脚本使用说明)
     - [3.3. 词典目录](https://tnotesjs.github.io/TNotes.en-notes/notes/0002.%20qwerty-learner%20%E8%8B%B1%E8%AF%AD%E8%AF%8D%E5%85%B8%E6%95%B0%E6%8D%AE%E8%A7%A3%E6%9E%90%E8%84%9A%E6%9C%AC/README#33-词典目录)
 
-## 9. 幕布
+## 10. 幕布
 
 - [x] [0005. 结合幕布将单词转为思维导图的形式来呈现](https://tnotesjs.github.io/TNotes.en-notes/notes/0005.%20%E7%BB%93%E5%90%88%E5%B9%95%E5%B8%83%E5%B0%86%E5%8D%95%E8%AF%8D%E8%BD%AC%E4%B8%BA%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%E7%9A%84%E5%BD%A2%E5%BC%8F%E6%9D%A5%E5%91%88%E7%8E%B0/README)
   - [1. ❌ Deprecated](https://tnotesjs.github.io/TNotes.en-notes/notes/0005.%20%E7%BB%93%E5%90%88%E5%B9%95%E5%B8%83%E5%B0%86%E5%8D%95%E8%AF%8D%E8%BD%AC%E4%B8%BA%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%E7%9A%84%E5%BD%A2%E5%BC%8F%E6%9D%A5%E5%91%88%E7%8E%B0/README#1--deprecated)

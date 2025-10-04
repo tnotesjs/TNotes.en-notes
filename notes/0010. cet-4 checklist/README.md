@@ -2,8 +2,6 @@
 
 <!-- region:toc -->
 
-- [📂 TNotes.yuque](https://www.yuque.com/tdahuyou/tnotes.yuque/)
-  - [TNotes.yuque.en-notes.0010](https://www.yuque.com/tdahuyou/tnotes.yuque/en-notes.0010)
 - [1. 📝 概述](#1--概述)
 - [2. 🎯 词汇列表](#2--词汇列表)
   - [2.1. 🎯 Chapter 1](#21--chapter-1)

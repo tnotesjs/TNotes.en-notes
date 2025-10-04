@@ -2,8 +2,6 @@
 
 <!-- region:toc -->
 
-- [📂 TNotes.yuque](https://www.yuque.com/tdahuyou/tnotes.yuque/)
-  - [TNotes.yuque.en-notes.0011](https://www.yuque.com/tdahuyou/tnotes.yuque/en-notes.0011)
 - [1. 📝 概述](#1--概述)
 - [2. 🤖 AI 提示词](#2--ai-提示词)
 - [3. 🤖 AI 生成的文案](#3--ai-生成的文案)
