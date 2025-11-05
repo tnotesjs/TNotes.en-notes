@@ -2,6 +2,13 @@
 
 <!-- region:toc -->
 
+::: details 📚 相关资源
+
+- [📂 TNotes.yuque（笔记附件资源）](https://www.yuque.com/tdahuyou/tnotes.yuque/)
+  - [TNotes.yuque.en-notes.0015](https://www.yuque.com/tdahuyou/tnotes.yuque/en-notes.0015)
+
+:::
+
 - [1. 📝 概述](#1--概述)
 - [2. 📺 Chapter words preview](#2--chapter-words-preview)
   - [2.1. 🎯 Chapter 1 ～ 10](#21--chapter-1--10)

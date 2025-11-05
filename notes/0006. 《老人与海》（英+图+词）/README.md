@@ -2,6 +2,13 @@
 
 <!-- region:toc -->
 
+::: details 📚 相关资源
+
+- [📂 TNotes.yuque（笔记附件资源）](https://www.yuque.com/tdahuyou/tnotes.yuque/)
+  - [TNotes.yuque.en-notes.0006](https://www.yuque.com/tdahuyou/tnotes.yuque/en-notes.0006)
+
+:::
+
 - [1. 📝 概述](#1--概述)
 - [2. 📚 《老人与海》原文](#2--老人与海原文)
   - [2.1. 🎯 1-100](#21--1-100)

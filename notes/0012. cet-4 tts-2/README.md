@@ -2,6 +2,13 @@
 
 <!-- region:toc -->
 
+::: details 📚 相关资源
+
+- [📂 TNotes.yuque（笔记附件资源）](https://www.yuque.com/tdahuyou/tnotes.yuque/)
+  - [TNotes.yuque.en-notes.0012](https://www.yuque.com/tdahuyou/tnotes.yuque/en-notes.0012)
+
+:::
+
 - [1. 📝 概述](#1--概述)
 - [2. 🤖 AI 提示词](#2--ai-提示词)
 - [3. 🤖 AI 生成的文案](#3--ai-生成的文案)

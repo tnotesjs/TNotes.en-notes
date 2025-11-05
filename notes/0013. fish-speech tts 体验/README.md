@@ -2,6 +2,13 @@
 
 <!-- region:toc -->
 
+::: details 📚 相关资源
+
+- [📂 TNotes.yuque（笔记附件资源）](https://www.yuque.com/tdahuyou/tnotes.yuque/)
+  - [TNotes.yuque.en-notes.0013](https://www.yuque.com/tdahuyou/tnotes.yuque/en-notes.0013)
+
+:::
+
 - [1. 📝 概述](#1--概述)
 - [2. 💻 免费方案 - fish-speech tts 体验](#2--免费方案---fish-speech-tts-体验)
 - [3. 📒 收费方案评价](#3--收费方案评价)

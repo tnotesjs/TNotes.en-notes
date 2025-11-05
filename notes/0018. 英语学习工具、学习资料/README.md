@@ -2,8 +2,13 @@
 
 <!-- region:toc -->
 
-- [📒 TNotes](https://tnotesjs.github.io/TNotes/)
-  - [TNotes.git-notes - 0027. everyone-can-use-english/README](https://tnotesjs.github.io/TNotes.git-notes/notes/0027.%20everyone-can-use-english/README)
+::: details 📚 相关资源
+
+- [📒 TNotes（相关知识库）](https://tnotesjs.github.io/TNotes/)
+  - [TNotes.git-notes,0027,everyone-can-use-english](https://tnotesjs.github.io/TNotes.git-notes,0027,everyone-can-use-english/)
+
+:::
+
 - [1. 🫧 评价](#1--评价)
 - [2. 📒 工具列表](#2--工具列表)
 - [3. 🔗 引用](#3--引用)
