@@ -23,6 +23,8 @@
     },
     "title": "en-notes",
     "completed_notes_count": {
+      "25.01": 0,
+      "25.02": 0,
       "25.03": 5,
       "25.04": 5,
       "25.05": 5,
@@ -37,7 +39,7 @@
     "details": "英语学习笔记",
     "link": "https://tnotesjs.github.io/TNotes.en-notes/",
     "created_at": 1740846170000,
-    "updated_at": 1764578456874,
+    "updated_at": 1765719217800,
     "days_since_birth": 9379
   },
   "port": 9379,
