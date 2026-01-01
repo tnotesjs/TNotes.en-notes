@@ -34,12 +34,13 @@
       "25.09": 14,
       "25.10": 15,
       "25.11": 14,
-      "25.12": 14
+      "25.12": 14,
+      "26.01": 14
     },
     "details": "英语学习笔记",
     "link": "https://tnotesjs.github.io/TNotes.en-notes/",
     "created_at": 1740846170000,
-    "updated_at": 1765719217800,
+    "updated_at": 1767227721533,
     "days_since_birth": 9379
   },
   "port": 9379,
