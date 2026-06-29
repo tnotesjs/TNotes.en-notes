@@ -9,13 +9,13 @@
 
 :::
 
-- [1. 📝 概述](#1--概述)
-- [2. 💻 免费方案 - fish-speech tts 体验](#2--免费方案---fish-speech-tts-体验)
-- [3. 📒 收费方案评价](#3--收费方案评价)
+- [1. 概述](#1-概述)
+- [2. 免费方案 - fish-speech tts 体验](#2-免费方案---fish-speech-tts-体验)
+- [3. 收费方案评价](#3-收费方案评价)
 
 <!-- endregion:toc -->
 
-## 1. 📝 概述
+## 1. 概述
 
 - `25.06` 在找 tts 解决方案，了解了一些免费和付费的方案。
 - 免费方案：
@@ -33,7 +33,7 @@
   - 阿里的阿里云 tts 服务
     - https://ai.aliyun.com/nls/tts
 
-## 2. 💻 免费方案 - fish-speech tts 体验
+## 2. 免费方案 - fish-speech tts 体验
 
 - fish-speech - https://github.com/fishaudio/fish-speech
   - 在本地成功部署了，并体验了 `openaudio-s1-mini` 模型的效果，上传了个人的音频作为克隆样本，就 `mini` 模型而言，感觉克隆效果还是蛮不错的。
@@ -61,7 +61,7 @@
   - 如有需要，可以去预览一下当时上传的克隆测试音频，以及使用 `mini` 模型转换文本后得到的识别结果。
   - ![图 3](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-06-08-19-22-19.png)
 
-## 3. 📒 收费方案评价
+## 3. 收费方案评价
 
 - 以字节的 tts 服务为例：（因为从听感上来看，感觉豆包的语音更好一些）
 - https://www.volcengine.com/product/tts

@@ -9,8 +9,8 @@
 
 :::
 
-- [1. 📝 概述](#1--概述)
-- [2. 📺 Chapter words preview](#2--chapter-words-preview)
+- [1. 概述](#1-概述)
+- [2. Chapter words preview](#2-chapter-words-preview)
   - [2.1. 🎯 Chapter 1 ～ 10](#21--chapter-1--10)
   - [2.2. 🎯 Chapter 11 ～ 20](#22--chapter-11--20)
   - [2.3. 🎯 Chapter 21 ～ 30](#23--chapter-21--30)
@@ -28,11 +28,11 @@
 
 <!-- endregion:toc -->
 
-## 1. 📝 概述
+## 1. 概述
 
 - 视频中单词的词汇预览，适配横屏观看，一屏装 2 个 Chapter，共计 40 个词汇差不多。
 
-## 2. 📺 Chapter words preview
+## 2. Chapter words preview
 
 ### 2.1. 🎯 Chapter 1 ～ 10
 

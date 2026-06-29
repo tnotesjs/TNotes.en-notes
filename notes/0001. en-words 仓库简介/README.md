@@ -2,16 +2,16 @@
 
 <!-- region:toc -->
 
-- [1. 🔗 github 开源仓库 - 英语字典 - kajweb/dict](#1--github-开源仓库---英语字典---kajwebdict)
-- [2. 🔗 en-words - 个人的英语词汇仓库](#2--en-words---个人的英语词汇仓库)
-- [3. 📒 en-words 简介](#3--en-words-简介)
-- [4. 🤔 为什么要新建一个 en-words 仓库？直接将生成的单词放在当前的 en-notes 仓库中不行吗？](#4--为什么要新建一个-en-words-仓库直接将生成的单词放在当前的-en-notes-仓库中不行吗)
-- [5. 🤔 如何往 en-words 中新增词汇？](#5--如何往-en-words-中新增词汇)
-- [6. 💻 demos.1 - 提取所有词汇的脚本](#6--demos1---提取所有词汇的脚本)
+- [1. github 开源仓库 - 英语字典 - kajweb/dict](#1-github-开源仓库---英语字典---kajwebdict)
+- [2. en-words - 个人的英语词汇仓库](#2-en-words---个人的英语词汇仓库)
+- [3. en-words 简介](#3-en-words-简介)
+- [4. 为什么要新建一个 en-words 仓库？直接将生成的单词放在当前的 en-notes 仓库中不行吗？](#4-为什么要新建一个-en-words-仓库直接将生成的单词放在当前的-en-notes-仓库中不行吗)
+- [5. 如何往 en-words 中新增词汇？](#5-如何往-en-words-中新增词汇)
+- [6. demos.1 - 提取所有词汇的脚本](#6-demos1---提取所有词汇的脚本)
 
 <!-- endregion:toc -->
 
-## 1. 🔗 github 开源仓库 - 英语字典 - kajweb/dict
+## 1. github 开源仓库 - 英语字典 - kajweb/dict
 
 - https://github.com/kajweb/dict
 - sources 中的数据来源于这个仓库。
@@ -21,12 +21,12 @@
   - ![](assets/2025-02-05-20-37-20.png)
 - dict 也是 [qwerty-learner](https://qwerty.kaiyi.cool/) 英文单词数据的来源。
 
-## 2. 🔗 en-words - 个人的英语词汇仓库
+## 2. en-words - 个人的英语词汇仓库
 
 - https://github.com/Tdahuyou/en-words
   - ![](assets/2025-02-05-20-44-47.png)
 
-## 3. 📒 en-words 简介
+## 3. en-words 简介
 
 - en-words 目录下存放了解析后的所有单词数据。
 - 单词按照统一的格式存储在一个个 .md 文件中，可以进行二次编辑，也可以扩展其它词汇，注意格式保持统一即可。
@@ -74,17 +74,17 @@
 - 单词的格式是参照数据源中的结构来定义的。
 - 保持后续插入的新词汇格式的统一，这样后续编写统一的批处理脚本会比较方便，可以对所有词汇统一整理。
 
-## 4. 🤔 为什么要新建一个 en-words 仓库？直接将生成的单词放在当前的 en-notes 仓库中不行吗？
+## 4. 为什么要新建一个 en-words 仓库？直接将生成的单词放在当前的 en-notes 仓库中不行吗？
 
 - en-notes.0001 中生成的单词数量很多（解析后默认有 2w 多个，后续学习过程中还会不断新增），体积有 150 多 MB，如果将单词放在 en-ntoes 中，由于单词数据和笔记数据混合在一起，会导致单词的查询成本变高。
 - 将笔记和单词数据分离开，让 en-words 仓库中仅存放单词文件，这样可以减少单词的查询成本、减少单词的维护成本。单词直接丢到根目录下，同时还有助于 url 的构建和复用。
 
-## 5. 🤔 如何往 en-words 中新增词汇？
+## 5. 如何往 en-words 中新增词汇？
 
 - 可以随便在 en-words 中找一些单词，丢给 AI 去学习，让它们按照同样的单词树结构返回结果。
 - 再将 AI 返回的结果在线插入到 github 仓库中。
 
-## 6. 💻 demos.1 - 提取所有词汇的脚本
+## 6. demos.1 - 提取所有词汇的脚本
 
 ```js
 /**
@@ -95,7 +95,7 @@
 const fs = require('fs')
 const path = require('path')
 
-const SPACE_2 = '  ';
+const SPACE_2 = '  '
 /**
  * 源目录名
  */
@@ -117,17 +117,18 @@ const SUB_TITLE = {
   trans: '词义',
 }
 
-let sourcesFolderPath = path.join(__dirname, SOURCE_FOLDER_NAME); // sources 目录的绝对路径
-let resultsFolderPath = path.join(__dirname, RESULT_FOLDER_NAME); // results 目录的绝对路径
+let sourcesFolderPath = path.join(__dirname, SOURCE_FOLDER_NAME) // sources 目录的绝对路径
+let resultsFolderPath = path.join(__dirname, RESULT_FOLDER_NAME) // results 目录的绝对路径
 
 // 创建 results 目录（如果不存在）
 if (!fs.existsSync(resultsFolderPath)) {
-  fs.mkdirSync(resultsFolderPath, { recursive: true });
+  fs.mkdirSync(resultsFolderPath, { recursive: true })
 }
 
-const JSON_FileList = fs.readdirSync(sourcesFolderPath)
-  .filter(p => p.includes('.json'))
-  .map(p => path.join(sourcesFolderPath, p)) // sources 目录下所有 json 文件的绝对路径
+const JSON_FileList = fs
+  .readdirSync(sourcesFolderPath)
+  .filter((p) => p.includes('.json'))
+  .map((p) => path.join(sourcesFolderPath, p)) // sources 目录下所有 json 文件的绝对路径
 
 for (let i = 0; i < JSON_FileList.length; i++) {
   writeFile(JSON_FileList[i])
@@ -138,30 +139,34 @@ function writeFile(file_path) {
   // JSON parse
   let data = JSON.parse(
     `[${fs.readFileSync(file_path, 'utf-8')}]`
-    .replaceAll(/}\r\n/g, '},')
-    .replaceAll(/},]/g, '}]')
+      .replaceAll(/}\r\n/g, '},')
+      .replaceAll(/},]/g, '}]'),
   )
 
   data.forEach((it, i) => {
-
     // if (i > 1000) return;
 
-    if (/[\s-=?()0123456789]/.test(it.headWord)) return;
+    if (/[\s-=?()0123456789]/.test(it.headWord)) return
 
     const word = it.content.word.content
 
     let wordStr =
-        `- ${it.headWord}\n` +
-        parsePhone(word) +
-        parseTrans(word) +
-        parseRemMethod(word) +
-        parseRelWord(word) +
-        parseSyno(word) +
-        parsePhrase(word) +
-        parseSentence(word) +
-        `${SPACE_2}- 补充`
+      `- ${it.headWord}\n` +
+      parsePhone(word) +
+      parseTrans(word) +
+      parseRemMethod(word) +
+      parseRelWord(word) +
+      parseSyno(word) +
+      parsePhrase(word) +
+      parseSentence(word) +
+      `${SPACE_2}- 补充`
 
-    fs.writeFileSync(path.normalize(path.join(resultsFolderPath, `./${it.headWord.replace(/\//g, '-')}.md`)), wordStr)
+    fs.writeFileSync(
+      path.normalize(
+        path.join(resultsFolderPath, `./${it.headWord.replace(/\//g, '-')}.md`),
+      ),
+      wordStr,
+    )
   })
 }
 
@@ -182,8 +187,10 @@ function parseTrans(word) {
     const trans = word.trans
     for (let i = 0; i < trans.length; i++) {
       const t = trans[i]
-      if (t.pos && t.tranCn) text += `${SPACE_2}${SPACE_2}- ${t.pos}. ${t.tranCn.replace(/\s/g, '')}\n`
-      if (t.tranOther) text += `${SPACE_2}${SPACE_2}${SPACE_2}- ${t.tranOther}\n`
+      if (t.pos && t.tranCn)
+        text += `${SPACE_2}${SPACE_2}- ${t.pos}. ${t.tranCn.replace(/\s/g, '')}\n`
+      if (t.tranOther)
+        text += `${SPACE_2}${SPACE_2}${SPACE_2}- ${t.tranOther}\n`
     }
   }
 
@@ -193,9 +200,11 @@ ${text}`
 
 /* -- 记忆部分 -- */
 function parseRemMethod(word) {
-  return (word.remMethod && word.remMethod.val) ? `${SPACE_2}- ${SUB_TITLE.remMethod}
+  return word.remMethod && word.remMethod.val
+    ? `${SPACE_2}- ${SUB_TITLE.remMethod}
 ${SPACE_2}${SPACE_2}- ${word.remMethod.val.trim()}
-` : ''
+`
+    : ''
 }
 
 /* -- 同根词部分 -- */
@@ -205,13 +214,20 @@ function parseRelWord(word) {
   if (word.relWord && word.relWord.rels && word.relWord.rels.length > 0) {
     const rels = word.relWord.rels
     for (let i = 0; i < rels.length; i++) {
-      const r = rels[i];
-      text += r.words.map(w => `${SPACE_2}${SPACE_2}- ${r.pos}. ${w.hwd} ${w.tran.trim()}`).join('\n') + '\n'
+      const r = rels[i]
+      text +=
+        r.words
+          .map(
+            (w) => `${SPACE_2}${SPACE_2}- ${r.pos}. ${w.hwd} ${w.tran.trim()}`,
+          )
+          .join('\n') + '\n'
     }
   }
 
-  return text ? `${SPACE_2}- ${SUB_TITLE.relWord}
-${text}` : ''
+  return text
+    ? `${SPACE_2}- ${SUB_TITLE.relWord}
+${text}`
+    : ''
 }
 
 /* -- 同近词部分 -- */
@@ -221,14 +237,18 @@ function parseSyno(word) {
   if (word.syno && word.syno.synos && word.syno.synos.length > 0) {
     const synos = word.syno.synos
     for (let i = 0; i < synos.length; i++) {
-      const s = synos[i];
+      const s = synos[i]
       text += `${SPACE_2}${SPACE_2}- ${s.pos}. ${s.tran}\n`
-      text += s.hwds.map(h => `${SPACE_2}${SPACE_2}${SPACE_2}- ${h.w}`).join('\n') + '\n'
+      text +=
+        s.hwds.map((h) => `${SPACE_2}${SPACE_2}${SPACE_2}- ${h.w}`).join('\n') +
+        '\n'
     }
   }
 
-  return text ? `${SPACE_2}- ${SUB_TITLE.syno}
-${text}` : ''
+  return text
+    ? `${SPACE_2}- ${SUB_TITLE.syno}
+${text}`
+    : ''
 }
 
 /* -- 短语部分 -- */
@@ -238,13 +258,15 @@ function parsePhrase(word) {
   if (word.phrase && word.phrase.phrases) {
     const phrase = word.phrase
     const phrases = phrase.phrases
-    phrases.forEach(p => {
+    phrases.forEach((p) => {
       text += `${SPACE_2}${SPACE_2}- ${p.pContent} ${p.pCn}\n`
     })
   }
 
-  return text ? `${SPACE_2}- ${SUB_TITLE.phrase}
-${text}` : ''
+  return text
+    ? `${SPACE_2}- ${SUB_TITLE.phrase}
+${text}`
+    : ''
 }
 
 /* -- 例句部分 -- */
@@ -254,12 +276,14 @@ function parseSentence(word) {
   if (word.sentence && word.sentence.sentences) {
     const sentence = word.sentence
     const sentences = sentence.sentences
-    sentences.forEach(s => {
+    sentences.forEach((s) => {
       text += `${SPACE_2}${SPACE_2}- ${s.sContent} ${s.sCn}\n`
     })
   }
 
-  return text ? `${SPACE_2}- ${SUB_TITLE.sentence}
-${text}` : ''
+  return text
+    ? `${SPACE_2}- ${SUB_TITLE.sentence}
+${text}`
+    : ''
 }
 ```

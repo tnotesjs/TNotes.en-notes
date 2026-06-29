@@ -9,31 +9,31 @@
 
 :::
 
-- [1. 📝 概述](#1--概述)
-- [2. 🎯 Chapter 1-10](#2--chapter-1-10)
-- [3. 🎯 Chapter 11-20](#3--chapter-11-20)
-- [4. 🎯 Chapter 21-30](#4--chapter-21-30)
-- [5. 🎯 Chapter 31-40](#5--chapter-31-40)
-- [6. 🎯 Chapter 41-50](#6--chapter-41-50)
-- [7. 🎯 Chapter 51-60](#7--chapter-51-60)
-- [8. 🎯 Chapter 61-70](#8--chapter-61-70)
-- [9. 🎯 Chapter 71-80](#9--chapter-71-80)
-- [10. 🎯 Chapter 81-90](#10--chapter-81-90)
-- [11. 🎯 Chapter 91-100](#11--chapter-91-100)
-- [12. 🎯 Chapter 101-110](#12--chapter-101-110)
-- [13. 🎯 Chapter 111-120](#13--chapter-111-120)
-- [14. 🎯 Chapter 121-130](#14--chapter-121-130)
-- [15. 🎯 Chapter 131](#15--chapter-131)
+- [1. 概述](#1-概述)
+- [2. Chapter 1-10](#2-chapter-1-10)
+- [3. Chapter 11-20](#3-chapter-11-20)
+- [4. Chapter 21-30](#4-chapter-21-30)
+- [5. Chapter 31-40](#5-chapter-31-40)
+- [6. Chapter 41-50](#6-chapter-41-50)
+- [7. Chapter 51-60](#7-chapter-51-60)
+- [8. Chapter 61-70](#8-chapter-61-70)
+- [9. Chapter 71-80](#9-chapter-71-80)
+- [10. Chapter 81-90](#10-chapter-81-90)
+- [11. Chapter 91-100](#11-chapter-91-100)
+- [12. Chapter 101-110](#12-chapter-101-110)
+- [13. Chapter 111-120](#13-chapter-111-120)
+- [14. Chapter 121-130](#14-chapter-121-130)
+- [15. Chapter 131](#15-chapter-131)
 
 <!-- endregion:toc -->
 
-## 1. 📝 概述
+## 1. 概述
 
 - 数据来源于 `cet-4 tts-2`，提取了其中的每一个词汇的例句的英文和中文，一句英文对应一条音频数据。
 - 利用免费在线的 tts 工具，将每一句话转为音频数据，反复听。
   - ![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-06-25-23-49-36.png)
 
-## 2. 🎯 Chapter 1-10
+## 2. Chapter 1-10
 
 【1】The conference was canceled due to the pandemic.
 
@@ -835,7 +835,7 @@ LED 灯泡比传统灯泡更节能。
 
 金、银、铜牌分别由中国、日本和韩国获得。
 
-## 3. 🎯 Chapter 11-20
+## 3. Chapter 11-20
 
 【201】Wearing masks provides protection against viruses.
 
@@ -1637,7 +1637,7 @@ LED 灯泡比传统灯泡更节能。
 
 新内阁成员昨日宣誓就职。
 
-## 4. 🎯 Chapter 21-30
+## 4. Chapter 21-30
 
 【401】The weather chart shows a storm approaching the coast.
 
@@ -2439,7 +2439,7 @@ X 射线能穿透软组织但无法穿透骨骼。
 
 物理治疗帮助患者受伤后恢复行动能力。
 
-## 5. 🎯 Chapter 31-40
+## 5. Chapter 31-40
 
 【601】Solar energy is a viable alternative to fossil fuels.
 
@@ -3241,7 +3241,7 @@ DNA 证据证明被定罪者是无辜的。
 
 企业高管参加了全球战略会议。
 
-## 6. 🎯 Chapter 41-50
+## 6. Chapter 41-50
 
 【801】Modern car navigation systems provide real-time traffic updates.
 
@@ -4043,7 +4043,7 @@ MRI 设备用强磁场成像。
 
 男性参与者占研究的 60%。
 
-## 7. 🎯 Chapter 51-60
+## 7. Chapter 51-60
 
 【1001】The Ministry of Education announced new curriculum standards.
 
@@ -4845,7 +4845,7 @@ MRI 设备用强磁场成像。
 
 旅游套餐包含住宿与机场接送。
 
-## 8. 🎯 Chapter 61-70
+## 8. Chapter 61-70
 
 【1201】Doctors should learn to sympathize with patients' suffering.
 
@@ -5647,7 +5647,7 @@ CEO 将在会议后不久公布季度业绩。
 
 迅速应急响应在地震中挽救许多生命。
 
-## 9. 🎯 Chapter 71-80
+## 9. Chapter 71-80
 
 【1401】The enemy troops surrendered after being surrounded for three days.
 
@@ -6449,7 +6449,7 @@ CEO 向助理口述紧急备忘录。
 
 该理论的实际应用需进一步测试。
 
-## 10. 🎯 Chapter 81-90
+## 10. Chapter 81-90
 
 【1601】Researchers engage in fieldwork to collect ecological data.
 
@@ -7251,7 +7251,7 @@ CEO 向助理口述紧急备忘录。
 
 科学家利用卫星数据监测气候变化。
 
-## 11. 🎯 Chapter 91-100
+## 11. Chapter 91-100
 
 【1801】The sticky tape securely sealed the package.
 
@@ -8053,7 +8053,7 @@ DNA 检测帮助人们追溯远古祖先。
 
 求职者需经过严格筛选流程。
 
-## 12. 🎯 Chapter 101-110
+## 12. Chapter 101-110
 
 【2001】Tropical rainforests are vital for maintaining global biodiversity.
 
@@ -8855,7 +8855,7 @@ DNA 检测帮助人们追溯远古祖先。
 
 游客敬畏地凝视大峡谷的壮丽。
 
-## 13. 🎯 Chapter 111-120
+## 13. Chapter 111-120
 
 【2201】Students must submit a 1000-word essay by next Monday.
 
@@ -9657,7 +9657,7 @@ SpaceX 昨日成功发射可回收火箭。
 
 那头驴驮着沉重的货物。
 
-## 14. 🎯 Chapter 121-130
+## 14. Chapter 121-130
 
 【2401】The final destination of our journey is Paris.
 
@@ -10459,7 +10459,7 @@ SpaceX 昨日成功发射可回收火箭。
 
 新网站设计在移动设备上响应更快。
 
-## 15. 🎯 Chapter 131
+## 15. Chapter 131
 
 【2601】The recipe calls for two ounces of chocolate.
 

@@ -2,12 +2,12 @@
 
 <!-- region:toc -->
 
-- [1. 🔗 github dict](#1--github-dict)
-- [2. 📒 TNotes.en-words 数据来源说明](#2--tnotesen-words-数据来源说明)
+- [1. github dict](#1-github-dict)
+- [2. TNotes.en-words 数据来源说明](#2-tnotesen-words-数据来源说明)
 
 <!-- endregion:toc -->
 
-## 1. 🔗 github dict
+## 1. github dict
 
 - https://github.com/kajweb/dict
   - github dict
@@ -100,7 +100,7 @@
 └── WaiYanSheChuZhong_6.json
 ```
 
-## 2. 📒 TNotes.en-words 数据来源说明
+## 2. TNotes.en-words 数据来源说明
 
 - [TNotes.en-words](https://github.com/Tdahuyou/TNotes.en-words) 中的单词数据也是基于 [dict](https://github.com/kajweb/dict) 来初始化的。
 - 后续若有新增的词汇，再利用 AI 来生成同样结构的单词树数据，然后丢到 [TNotes.en-words](https://github.com/Tdahuyou/TNotes.en-words) 中即可。

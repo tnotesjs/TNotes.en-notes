@@ -2,16 +2,16 @@
 
 <!-- region:toc -->
 
-- [1. 📝 概述](#1--概述)
-- [2. 🔗 links](#2--links)
-- [3. 📒 notes - qwerty-learner 脚本](#3--notes---qwerty-learner-脚本)
+- [1. 概述](#1-概述)
+- [2. links](#2-links)
+- [3. notes - qwerty-learner 脚本](#3-notes---qwerty-learner-脚本)
   - [3.1. qwerty learner 词典目录](#31-qwerty-learner-词典目录)
   - [3.2. 脚本使用说明](#32-脚本使用说明)
   - [3.3. 词典目录](#33-词典目录)
 
 <!-- endregion:toc -->
 
-## 1. 📝 概述
+## 1. 概述
 
 - 这是早期编写的脚本，主要作用是解析数据源中的词典数据。
 - 执行 index{1~5}.js 即可生成对应的一些解析后的数据，大致逻辑是读取【qwerty-learner 英文单词数据源】即位于 sources 目录中的数据，然后将解析后的数据输出到 results 目录中。
@@ -22,12 +22,12 @@
   - 不同脚本之间有很多冗余的代码，后续如果有需求的话，可以找时间处理一下这些脚本。
  -->
 
-## 2. 🔗 links
+## 2. links
 
 - https://qwerty.kaiyi.cool/
   - qwerty learner 在线练习站点。
 
-## 3. 📒 notes - qwerty-learner 脚本
+## 3. notes - qwerty-learner 脚本
 
 当前笔记中存放了 [qwerty-learner](https://qwerty.kaiyi.cool/) 中的英文词典数据解析脚本。
 
