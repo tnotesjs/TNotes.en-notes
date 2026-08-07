@@ -36,13 +36,12 @@
       "26.03": 15,
       "26.04": 15,
       "26.05": 15,
-      "26.06": 15
+      "26.06": 15,
+      "26.07": 15,
+      "26.08": 15
     },
     "details": "英语学习笔记",
-    "link": "https://tnotesjs.github.io/TNotes.en-notes/",
-    "created_at": 1740846170000,
-    "updated_at": 1782715193000,
-    "days_since_birth": 9863
+    "link": "https://tnotesjs.github.io/TNotes.en-notes/"
   },
   "port": 9379,
   "menuItems": [
