@@ -13,7 +13,7 @@
 - 文中记录的将笔记转为思维导图的方式来记单词，体验下来效率并不高。
 - 有点儿中看不中用的感觉。
 - 并且现在主要记录笔记的工具是：TNotes + yuque，幕布基本不会使用，将数据分散在多个地方管理起来也很麻烦。
-- 如果你主要记录笔记的工具是幕布，那么可以尝试一下笔记中提到的做法，毕竟 TNotes.en-words 词库中的词汇都是 markdown 无序列表的形式来呈现，和幕布的节点还挺契合的。
+- 如果你主要记录笔记的工具是幕布，那么可以尝试一下笔记中提到的做法，毕竟 en-words 词库中的词汇都是 markdown 无序列表的形式来呈现，和幕布的节点还挺契合的。
 
 ## 2. 基本使用流程说明
 
@@ -23,13 +23,13 @@
   - 按照时间：
     - 比如在某一周（比如 `24 年的第 43 周 10.21～10.27`）需要学习单词 `serial`、`patrol` 等，那么只需要：
     - 1️⃣ 在幕布中新建一个节点，比如“第 43 周”；
-    - 2️⃣ 在 [TNotes.en-words](https://github.com/Tdahuyou/TNotes.en-words) 中搜索单词；
+    - 2️⃣ 在 [en-words](https://github.com/tnotesjs/en-words) 中搜索单词；
     - 3️⃣ 复制单词内容，然后一键粘贴到幕布中即可；
     - ![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-06-08-19-30-45.png)
   - 具体如何分类，全凭个人喜好，也可以简单粗暴一些，比如按照数量 100 个词汇一组，遇到的陌生词汇或者是感觉比较重要的词汇都丢进去，估计要达到能看懂大部分外文技术文档的水平，十来组也就差不多了。如果有个几十组的积累，应该可以做到外文文档无障碍阅读了。
 - 示例：
-  - [abandon](https://github.com/Tdahuyou/TNotes.en-words/blob/main/abandon.md)
-  - [Analytics](https://github.com/Tdahuyou/TNotes.en-words/blob/main/Analytics.md)
+  - [abandon](https://github.com/tnotesjs/en-words/blob/main/abandon.md)
+  - [Analytics](https://github.com/tnotesjs/en-words/blob/main/Analytics.md)
 
 ::: code-group
 

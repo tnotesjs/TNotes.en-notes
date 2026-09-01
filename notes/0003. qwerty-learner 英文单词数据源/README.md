@@ -3,7 +3,7 @@
 <!-- region:toc -->
 
 - [1. github dict](#1-github-dict)
-- [2. TNotes.en-words 数据来源说明](#2-tnotesen-words-数据来源说明)
+- [2. en-words 数据来源说明](#2-en-words-数据来源说明)
 
 <!-- endregion:toc -->
 
@@ -100,10 +100,10 @@
 └── WaiYanSheChuZhong_6.json
 ```
 
-## 2. TNotes.en-words 数据来源说明
+## 2. en-words 数据来源说明
 
-- [TNotes.en-words](https://github.com/Tdahuyou/TNotes.en-words) 中的单词数据也是基于 [dict](https://github.com/kajweb/dict) 来初始化的。
-- 后续若有新增的词汇，再利用 AI 来生成同样结构的单词树数据，然后丢到 [TNotes.en-words](https://github.com/Tdahuyou/TNotes.en-words) 中即可。
+- [en-words](https://github.com/tnotesjs/en-words) 中的单词数据也是基于 [dict](https://github.com/kajweb/dict) 来初始化的。
+- 后续若有新增的词汇，再利用 AI 来生成同样结构的单词树数据，然后丢到 [en-words](https://github.com/tnotesjs/en-words) 中即可。
 
 ```bash
 git clone https://github.com/kajweb/dict
@@ -111,7 +111,7 @@ git clone https://github.com/kajweb/dict
 # 1. 把这个单词仓库数据全部 clone 下来
 # 2. 自行编写一个简单的解析脚本提取单词卡片数据【解析脚本在当前笔记仓库中有记录】
 
-# 示例 TNotes.en-words 中的词汇：
+# 示例 en-words 中的词汇：
 # - abandon
 #   - 发音
 #     - 英 /ə'bændən/
