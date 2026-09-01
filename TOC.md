@@ -16,7 +16,7 @@
 - 词库
   - [x] 0001. en-words 仓库简介
 - 自定义组件
-  - [x] 0014. EnWordList 基本功能介绍
+  - [x] 0014. WordList 基本功能介绍
 - tts
   - [x] 0013. fish-speech tts 体验
 - 语雀 SDK

@@ -1,20 +1,20 @@
-# [0014. EnWordList 基本功能介绍](https://github.com/tnotesjs/TNotes.en-notes/tree/main/notes/0014.%20EnWordList%20%E5%9F%BA%E6%9C%AC%E5%8A%9F%E8%83%BD%E4%BB%8B%E7%BB%8D)
+# [0014. WordList 基本功能介绍](https://github.com/tnotesjs/TNotes.en-notes/tree/main/notes/0014.%20WordList%20%E5%9F%BA%E6%9C%AC%E5%8A%9F%E8%83%BD%E4%BB%8B%E7%BB%8D)
 
 <!-- region:toc -->
 
 - [1. 概述](#1-概述)
-- [2. 单词本组件 `EnWordList.vue` 功能介绍](#2-单词本组件-enwordlistvue-功能介绍)
+- [2. 单词本组件 `WordList.vue` 功能介绍](#2-单词本组件-wordlistvue-功能介绍)
 
 <!-- endregion:toc -->
 
 ## 1. 概述
 
-- 介绍自定义组件 `EnWordList.vue` 的一些基本功能。
+- 介绍自定义组件 `WordList.vue` 的一些基本功能。
 - 笔记中的很多展示单词列表的部分，使用的都是这个自定义组件来实现的。
 
-## 2. 单词本组件 `EnWordList.vue` 功能介绍
+## 2. 单词本组件 `WordList.vue` 功能介绍
 
-- 右键词汇展示组件 `EnWordList.vue` 更多功能：
+- 右键词汇展示组件 `WordList.vue` 更多功能：
   - ![图 1](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-06-07-10-48-40.png)
 - 单词卡片：
   - 单词卡片预加载。

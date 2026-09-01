@@ -14,7 +14,7 @@
 
 ## 2. 词汇列表
 
-<EnWordList needSort :words="[
+<WordList needSort :words="[
 'abandon',
 'abate',
 'adopt',
@@ -117,4 +117,4 @@
 'voltage',
 'warning',
 'whistle',
-]"></EnWordList>
+]"></WordList>

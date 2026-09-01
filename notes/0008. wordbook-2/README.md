@@ -14,7 +14,7 @@
 
 ## 2. 词汇列表
 
-<EnWordList needSort :words="[
+<WordList needSort :words="[
 'accord',
 'analytical',
 'archive',
@@ -83,4 +83,4 @@
 'desired',
 'precedence',
 'scrub',
-]"></EnWordList>
+]"></WordList>

@@ -150,7 +150,7 @@
 - 记录了 https://qwerty.kaiyi.cool/ 中的 CET-4 词汇列表，共计 2607 个词汇。
   - ![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-06-07-10-43-53.png)
 - 在通过打字记单词的过程中，可以结合着笔记来辅助学习。
-  - 每一个 Chapter 的内容都由自定义的 `EnWordList` 组件包裹，该组件扩展了词汇列表的右键菜单的功能。
+  - 每一个 Chapter 的内容都由自定义的 `WordList` 组件包裹，该组件扩展了词汇列表的右键菜单的功能。
   - ![图 1](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-06-07-10-48-40.png)
     - 对于已掌握的词汇可以打勾 ✅。
     - 如果想要查看词汇的详情：
@@ -170,7 +170,7 @@
 
 ### 2.1. 🎯 Chapter 1
 
-<EnWordList :words="[
+<WordList :words="[
 'cancel',
 'explosive',
 'numerous',
@@ -194,7 +194,7 @@
 
 ### 2.2. 🎯 Chapter 2
 
-<EnWordList :words="[
+<WordList :words="[
 'possess',
 'competent',
 'investment',
@@ -218,7 +218,7 @@
 
 ### 2.3. 🎯 Chapter 3
 
-<EnWordList :words="[
+<WordList :words="[
 'humble',
 'chapter',
 'harbour',
@@ -242,7 +242,7 @@
 
 ### 2.4. 🎯 Chapter 4
 
-<EnWordList :words="[
+<WordList :words="[
 'resume',
 'rebuild',
 'committee',
@@ -266,7 +266,7 @@
 
 ### 2.5. 🎯 Chapter 5
 
-<EnWordList :words="[
+<WordList :words="[
 'chill',
 'confront',
 'dominate',
@@ -290,7 +290,7 @@
 
 ### 2.6. 🎯 Chapter 6
 
-<EnWordList :words="[
+<WordList :words="[
 'fantasy',
 'horsepower',
 'visibility',
@@ -314,7 +314,7 @@
 
 ### 2.7. 🎯 Chapter 7
 
-<EnWordList :words="[
+<WordList :words="[
 'gasoline',
 'indispensable',
 'medium',
@@ -338,7 +338,7 @@
 
 ### 2.8. 🎯 Chapter 8
 
-<EnWordList :words="[
+<WordList :words="[
 'peak',
 'evolution',
 'portrait',
@@ -362,7 +362,7 @@
 
 ### 2.9. 🎯 Chapter 9
 
-<EnWordList :words="[
+<WordList :words="[
 'channel',
 'focus',
 'invisible',
@@ -386,7 +386,7 @@
 
 ### 2.10. 🎯 Chapter 10
 
-<EnWordList :words="[
+<WordList :words="[
 'bulb',
 'dismiss',
 'propose',
@@ -410,7 +410,7 @@
 
 ### 2.11. 🎯 Chapter 11
 
-<EnWordList :words="[
+<WordList :words="[
 'protection',
 'pint',
 'restrict',
@@ -434,7 +434,7 @@
 
 ### 2.12. 🎯 Chapter 12
 
-<EnWordList :words="[
+<WordList :words="[
 'cheat',
 'framework',
 'undoubtedly',
@@ -458,7 +458,7 @@
 
 ### 2.13. 🎯 Chapter 13
 
-<EnWordList :words="[
+<WordList :words="[
 'lag',
 'towel',
 'charity',
@@ -482,7 +482,7 @@
 
 ### 2.14. 🎯 Chapter 14
 
-<EnWordList :words="[
+<WordList :words="[
 'sway',
 'basis',
 'tutor',
@@ -506,7 +506,7 @@
 
 ### 2.15. 🎯 Chapter 15
 
-<EnWordList :words="[
+<WordList :words="[
 'technique',
 'combat',
 'troop',
@@ -530,7 +530,7 @@
 
 ### 2.16. 🎯 Chapter 16
 
-<EnWordList :words="[
+<WordList :words="[
 'automatic',
 'doubtful',
 'despite',
@@ -554,7 +554,7 @@
 
 ### 2.17. 🎯 Chapter 17
 
-<EnWordList :words="[
+<WordList :words="[
 'supply',
 'concern',
 'circulate',
@@ -578,7 +578,7 @@
 
 ### 2.18. 🎯 Chapter 18
 
-<EnWordList :words="[
+<WordList :words="[
 'input',
 'cue',
 'volt',
@@ -602,7 +602,7 @@
 
 ### 2.19. 🎯 Chapter 19
 
-<EnWordList :words="[
+<WordList :words="[
 'clay',
 'anyway',
 'promote',
@@ -626,7 +626,7 @@
 
 ### 2.20. 🎯 Chapter 20
 
-<EnWordList :words="[
+<WordList :words="[
 'refresh',
 'librarian',
 'intimate',
@@ -650,7 +650,7 @@
 
 ### 2.21. 🎯 Chapter 21
 
-<EnWordList :words="[
+<WordList :words="[
 'chart',
 'optical',
 'fashion',
@@ -674,7 +674,7 @@
 
 ### 2.22. 🎯 Chapter 22
 
-<EnWordList :words="[
+<WordList :words="[
 'tension',
 'definite',
 'reflection',
@@ -698,7 +698,7 @@
 
 ### 2.23. 🎯 Chapter 23
 
-<EnWordList :words="[
+<WordList :words="[
 'effort',
 'video',
 'disaster',
@@ -722,7 +722,7 @@
 
 ### 2.24. 🎯 Chapter 24
 
-<EnWordList :words="[
+<WordList :words="[
 'genius',
 'alike',
 'fund',
@@ -746,7 +746,7 @@
 
 ### 2.25. 🎯 Chapter 25
 
-<EnWordList :words="[
+<WordList :words="[
 'specifically',
 'controversial',
 'attain',
@@ -770,7 +770,7 @@
 
 ### 2.26. 🎯 Chapter 26
 
-<EnWordList :words="[
+<WordList :words="[
 'lawn',
 'primary',
 'log',
@@ -794,7 +794,7 @@
 
 ### 2.27. 🎯 Chapter 27
 
-<EnWordList :words="[
+<WordList :words="[
 'desire',
 'survive',
 'efficient',
@@ -818,7 +818,7 @@
 
 ### 2.28. 🎯 Chapter 28
 
-<EnWordList :words="[
+<WordList :words="[
 'appointment',
 'hip',
 'merry',
@@ -842,7 +842,7 @@
 
 ### 2.29. 🎯 Chapter 29
 
-<EnWordList :words="[
+<WordList :words="[
 'curiosity',
 'gross',
 'workshop',
@@ -866,7 +866,7 @@
 
 ### 2.30. 🎯 Chapter 30
 
-<EnWordList :words="[
+<WordList :words="[
 'classify',
 'ease',
 'critical',
@@ -890,7 +890,7 @@
 
 ### 2.31. 🎯 Chapter 31
 
-<EnWordList :words="[
+<WordList :words="[
 'alternative',
 'banner',
 'concentration',
@@ -914,7 +914,7 @@
 
 ### 2.32. 🎯 Chapter 32
 
-<EnWordList :words="[
+<WordList :words="[
 'alphabet',
 'parliament',
 'evaluation',
@@ -938,7 +938,7 @@
 
 ### 2.33. 🎯 Chapter 33
 
-<EnWordList :words="[
+<WordList :words="[
 'impact',
 'opportunity',
 'active',
@@ -962,7 +962,7 @@
 
 ### 2.34. 🎯 Chapter 34
 
-<EnWordList :words="[
+<WordList :words="[
 'compare',
 'pluralism',
 'influential',
@@ -986,7 +986,7 @@
 
 ### 2.35. 🎯 Chapter 35
 
-<EnWordList :words="[
+<WordList :words="[
 'rigid',
 'deadline',
 'so-called',
@@ -1010,7 +1010,7 @@
 
 ### 2.36. 🎯 Chapter 36
 
-<EnWordList :words="[
+<WordList :words="[
 'compete',
 'dialect',
 'accountant',
@@ -1034,7 +1034,7 @@
 
 ### 2.37. 🎯 Chapter 37
 
-<EnWordList :words="[
+<WordList :words="[
 'parcel',
 'static',
 'journey',
@@ -1058,7 +1058,7 @@
 
 ### 2.38. 🎯 Chapter 38
 
-<EnWordList :words="[
+<WordList :words="[
 'tackle',
 'reckon',
 'confusion',
@@ -1082,7 +1082,7 @@
 
 ### 2.39. 🎯 Chapter 39
 
-<EnWordList :words="[
+<WordList :words="[
 'loaf',
 'nuclear',
 'reception',
@@ -1106,7 +1106,7 @@
 
 ### 2.40. 🎯 Chapter 40
 
-<EnWordList :words="[
+<WordList :words="[
 'material',
 'universe',
 'interpret',
@@ -1130,7 +1130,7 @@
 
 ### 2.41. 🎯 Chapter 41
 
-<EnWordList :words="[
+<WordList :words="[
 'navigation',
 'melt',
 'hook',
@@ -1154,7 +1154,7 @@
 
 ### 2.42. 🎯 Chapter 42
 
-<EnWordList :words="[
+<WordList :words="[
 'physicist',
 'afford',
 'underground',
@@ -1178,7 +1178,7 @@
 
 ### 2.43. 🎯 Chapter 43
 
-<EnWordList :words="[
+<WordList :words="[
 'laundry',
 'accumulate',
 'crime',
@@ -1202,7 +1202,7 @@
 
 ### 2.44. 🎯 Chapter 44
 
-<EnWordList :words="[
+<WordList :words="[
 'instance',
 'opera',
 'presumably',
@@ -1226,7 +1226,7 @@
 
 ### 2.45. 🎯 Chapter 45
 
-<EnWordList :words="[
+<WordList :words="[
 'credit',
 'regardless',
 'oxygen',
@@ -1250,7 +1250,7 @@
 
 ### 2.46. 🎯 Chapter 46
 
-<EnWordList :words="[
+<WordList :words="[
 'infer',
 'compass',
 'background',
@@ -1274,7 +1274,7 @@
 
 ### 2.47. 🎯 Chapter 47
 
-<EnWordList :words="[
+<WordList :words="[
 'physical',
 'fulfil',
 'wicked',
@@ -1298,7 +1298,7 @@
 
 ### 2.48. 🎯 Chapter 48
 
-<EnWordList :words="[
+<WordList :words="[
 'mere',
 'accommodation',
 'evident',
@@ -1322,7 +1322,7 @@
 
 ### 2.49. 🎯 Chapter 49
 
-<EnWordList :words="[
+<WordList :words="[
 'patch',
 'observer',
 'character',
@@ -1346,7 +1346,7 @@
 
 ### 2.50. 🎯 Chapter 50
 
-<EnWordList :words="[
+<WordList :words="[
 'outer',
 'invent',
 'fluent',
@@ -1370,7 +1370,7 @@
 
 ### 2.51. 🎯 Chapter 51
 
-<EnWordList :words="[
+<WordList :words="[
 'ministry',
 'religious',
 'nevertheless',
@@ -1394,7 +1394,7 @@
 
 ### 2.52. 🎯 Chapter 52
 
-<EnWordList :words="[
+<WordList :words="[
 'relationship',
 'equality',
 'destruction',
@@ -1418,7 +1418,7 @@
 
 ### 2.53. 🎯 Chapter 53
 
-<EnWordList :words="[
+<WordList :words="[
 'definitely',
 'inspire',
 'marvelous',
@@ -1442,7 +1442,7 @@
 
 ### 2.54. 🎯 Chapter 54
 
-<EnWordList :words="[
+<WordList :words="[
 'diameter',
 'barn',
 'bark',
@@ -1466,7 +1466,7 @@
 
 ### 2.55. 🎯 Chapter 55
 
-<EnWordList :words="[
+<WordList :words="[
 'laboratory',
 'inspect',
 'campaign',
@@ -1490,7 +1490,7 @@
 
 ### 2.56. 🎯 Chapter 56
 
-<EnWordList :words="[
+<WordList :words="[
 'poem',
 'interest',
 'gulf',
@@ -1514,7 +1514,7 @@
 
 ### 2.57. 🎯 Chapter 57
 
-<EnWordList :words="[
+<WordList :words="[
 'artificial',
 'imaginary',
 'removal',
@@ -1538,7 +1538,7 @@
 
 ### 2.58. 🎯 Chapter 58
 
-<EnWordList :words="[
+<WordList :words="[
 'grammar',
 'enable',
 'preliminary',
@@ -1562,7 +1562,7 @@
 
 ### 2.59. 🎯 Chapter 59
 
-<EnWordList :words="[
+<WordList :words="[
 'mate',
 'convince',
 'emperor',
@@ -1586,7 +1586,7 @@
 
 ### 2.60. 🎯 Chapter 60
 
-<EnWordList :words="[
+<WordList :words="[
 'punch',
 'naturally',
 'flexibility',
@@ -1610,7 +1610,7 @@
 
 ### 2.61. 🎯 Chapter 61
 
-<EnWordList :words="[
+<WordList :words="[
 'sympathize',
 'alongside',
 'swallow',
@@ -1634,7 +1634,7 @@
 
 ### 2.62. 🎯 Chapter 62
 
-<EnWordList :words="[
+<WordList :words="[
 'span',
 'insult',
 'existence',
@@ -1658,7 +1658,7 @@
 
 ### 2.63. 🎯 Chapter 63
 
-<EnWordList :words="[
+<WordList :words="[
 'depart',
 'exaggerate',
 'imply',
@@ -1682,7 +1682,7 @@
 
 ### 2.64. 🎯 Chapter 64
 
-<EnWordList :words="[
+<WordList :words="[
 'frequent',
 'according',
 'insure',
@@ -1706,7 +1706,7 @@
 
 ### 2.65. 🎯 Chapter 65
 
-<EnWordList :words="[
+<WordList :words="[
 'command',
 'newsstand',
 'worthless',
@@ -1730,7 +1730,7 @@
 
 ### 2.66. 🎯 Chapter 66
 
-<EnWordList :words="[
+<WordList :words="[
 'awful',
 'accuracy',
 'handy',
@@ -1754,7 +1754,7 @@
 
 ### 2.67. 🎯 Chapter 67
 
-<EnWordList :words="[
+<WordList :words="[
 'instruct',
 'rat',
 'mayor',
@@ -1778,7 +1778,7 @@
 
 ### 2.68. 🎯 Chapter 68
 
-<EnWordList :words="[
+<WordList :words="[
 'detail',
 'shortly',
 'hobby',
@@ -1802,7 +1802,7 @@
 
 ### 2.69. 🎯 Chapter 69
 
-<EnWordList :words="[
+<WordList :words="[
 'descend',
 'saint',
 'density',
@@ -1826,7 +1826,7 @@
 
 ### 2.70. 🎯 Chapter 70
 
-<EnWordList :words="[
+<WordList :words="[
 'anniversary',
 'register',
 'restless',
@@ -1850,7 +1850,7 @@
 
 ### 2.71. 🎯 Chapter 71
 
-<EnWordList :words="[
+<WordList :words="[
 'surrender',
 'faint',
 'world-wide',
@@ -1874,7 +1874,7 @@
 
 ### 2.72. 🎯 Chapter 72
 
-<EnWordList :words="[
+<WordList :words="[
 'exchange',
 'hesitate',
 'rifle',
@@ -1898,7 +1898,7 @@
 
 ### 2.73. 🎯 Chapter 73
 
-<EnWordList :words="[
+<WordList :words="[
 'democratic',
 'medal',
 'satellite',
@@ -1922,7 +1922,7 @@
 
 ### 2.74. 🎯 Chapter 74
 
-<EnWordList :words="[
+<WordList :words="[
 'reservoir',
 'deliberate',
 'swear',
@@ -1946,7 +1946,7 @@
 
 ### 2.75. 🎯 Chapter 75
 
-<EnWordList :words="[
+<WordList :words="[
 'defect',
 'reinforce',
 'explode',
@@ -1970,7 +1970,7 @@
 
 ### 2.76. 🎯 Chapter 76
 
-<EnWordList :words="[
+<WordList :words="[
 'compose',
 'spot',
 'roller',
@@ -1994,7 +1994,7 @@
 
 ### 2.77. 🎯 Chapter 77
 
-<EnWordList :words="[
+<WordList :words="[
 'bubble',
 'era',
 'yield',
@@ -2018,7 +2018,7 @@
 
 ### 2.78. 🎯 Chapter 78
 
-<EnWordList :words="[
+<WordList :words="[
 'shed',
 'eyesight',
 'precision',
@@ -2042,7 +2042,7 @@
 
 ### 2.79. 🎯 Chapter 79
 
-<EnWordList :words="[
+<WordList :words="[
 'border',
 'estate',
 'applicable',
@@ -2066,7 +2066,7 @@
 
 ### 2.80. 🎯 Chapter 80
 
-<EnWordList :words="[
+<WordList :words="[
 'eve',
 'pronoun',
 'define',
@@ -2090,7 +2090,7 @@
 
 ### 2.81. 🎯 Chapter 81
 
-<EnWordList :words="[
+<WordList :words="[
 'engage',
 'acre',
 'whisper',
@@ -2114,7 +2114,7 @@
 
 ### 2.82. 🎯 Chapter 82
 
-<EnWordList :words="[
+<WordList :words="[
 'protein',
 'annual',
 'exclusive',
@@ -2138,7 +2138,7 @@
 
 ### 2.83. 🎯 Chapter 83
 
-<EnWordList :words="[
+<WordList :words="[
 'rotten',
 'skillful',
 'flash',
@@ -2162,7 +2162,7 @@
 
 ### 2.84. 🎯 Chapter 84
 
-<EnWordList :words="[
+<WordList :words="[
 'mechanism',
 'detection',
 'triumph',
@@ -2186,7 +2186,7 @@
 
 ### 2.85. 🎯 Chapter 85
 
-<EnWordList :words="[
+<WordList :words="[
 'describe',
 'suck',
 'grab',
@@ -2210,7 +2210,7 @@
 
 ### 2.86. 🎯 Chapter 86
 
-<EnWordList :words="[
+<WordList :words="[
 'statistic',
 'attractive',
 'superb',
@@ -2234,7 +2234,7 @@
 
 ### 2.87. 🎯 Chapter 87
 
-<EnWordList :words="[
+<WordList :words="[
 'occupy',
 'submit',
 'mood',
@@ -2258,7 +2258,7 @@
 
 ### 2.88. 🎯 Chapter 88
 
-<EnWordList :words="[
+<WordList :words="[
 'memorial',
 'factor',
 'boot',
@@ -2282,7 +2282,7 @@
 
 ### 2.89. 🎯 Chapter 89
 
-<EnWordList :words="[
+<WordList :words="[
 'container',
 'leader',
 'delicate',
@@ -2306,7 +2306,7 @@
 
 ### 2.90. 🎯 Chapter 90
 
-<EnWordList :words="[
+<WordList :words="[
 'largely',
 'slice',
 'frost',
@@ -2330,7 +2330,7 @@
 
 ### 2.91. 🎯 Chapter 91
 
-<EnWordList :words="[
+<WordList :words="[
 'sticky',
 'prevail',
 'waist',
@@ -2354,7 +2354,7 @@
 
 ### 2.92. 🎯 Chapter 92
 
-<EnWordList :words="[
+<WordList :words="[
 'architecture',
 'stress',
 'grip',
@@ -2378,7 +2378,7 @@
 
 ### 2.93. 🎯 Chapter 93
 
-<EnWordList :words="[
+<WordList :words="[
 'widow',
 'distinction',
 'mature',
@@ -2402,7 +2402,7 @@
 
 ### 2.94. 🎯 Chapter 94
 
-<EnWordList :words="[
+<WordList :words="[
 'visible',
 'crisis',
 'rail',
@@ -2426,7 +2426,7 @@
 
 ### 2.95. 🎯 Chapter 95
 
-<EnWordList :words="[
+<WordList :words="[
 'topic',
 'solemn',
 'perceive',
@@ -2450,7 +2450,7 @@
 
 ### 2.96. 🎯 Chapter 96
 
-<EnWordList :words="[
+<WordList :words="[
 'forbid',
 'microscope',
 'necessarily',
@@ -2474,7 +2474,7 @@
 
 ### 2.97. 🎯 Chapter 97
 
-<EnWordList :words="[
+<WordList :words="[
 'terminal',
 'kingdom',
 'differ',
@@ -2498,7 +2498,7 @@
 
 ### 2.98. 🎯 Chapter 98
 
-<EnWordList :words="[
+<WordList :words="[
 'rank',
 'assumption',
 'pension',
@@ -2522,7 +2522,7 @@
 
 ### 2.99. 🎯 Chapter 99
 
-<EnWordList :words="[
+<WordList :words="[
 'interpretation',
 'ax',
 'intermediate',
@@ -2546,7 +2546,7 @@
 
 ### 2.100. 🎯 Chapter 100
 
-<EnWordList :words="[
+<WordList :words="[
 'amuse',
 'inward',
 'responsibility',
@@ -2570,7 +2570,7 @@
 
 ### 2.101. 🎯 Chapter 101
 
-<EnWordList :words="[
+<WordList :words="[
 'tropical',
 'partner',
 'plunge',
@@ -2594,7 +2594,7 @@
 
 ### 2.102. 🎯 Chapter 102
 
-<EnWordList :words="[
+<WordList :words="[
 'rare',
 'discharge',
 'exclude',
@@ -2618,7 +2618,7 @@
 
 ### 2.103. 🎯 Chapter 103
 
-<EnWordList :words="[
+<WordList :words="[
 'refrigerator',
 'necessity',
 'fog',
@@ -2642,7 +2642,7 @@
 
 ### 2.104. 🎯 Chapter 104
 
-<EnWordList :words="[
+<WordList :words="[
 'await',
 'sin',
 'client',
@@ -2666,7 +2666,7 @@
 
 ### 2.105. 🎯 Chapter 105
 
-<EnWordList :words="[
+<WordList :words="[
 'avoid',
 'renew',
 'bid',
@@ -2690,7 +2690,7 @@
 
 ### 2.106. 🎯 Chapter 106
 
-<EnWordList :words="[
+<WordList :words="[
 'recommendation',
 'welfare',
 'flourish',
@@ -2714,7 +2714,7 @@
 
 ### 2.107. 🎯 Chapter 107
 
-<EnWordList :words="[
+<WordList :words="[
 'lung',
 'conservation',
 'distraction',
@@ -2738,7 +2738,7 @@
 
 ### 2.108. 🎯 Chapter 108
 
-<EnWordList :words="[
+<WordList :words="[
 'prejudice',
 'dissolve',
 'digest',
@@ -2762,7 +2762,7 @@
 
 ### 2.109. 🎯 Chapter 109
 
-<EnWordList :words="[
+<WordList :words="[
 'married',
 'transaction',
 'conscious',
@@ -2786,7 +2786,7 @@
 
 ### 2.110. 🎯 Chapter 110
 
-<EnWordList :words="[
+<WordList :words="[
 'tolerance',
 'kneel',
 'porter',
@@ -2810,7 +2810,7 @@
 
 ### 2.111. 🎯 Chapter 111
 
-<EnWordList :words="[
+<WordList :words="[
 'essay',
 'survey',
 'plug',
@@ -2834,7 +2834,7 @@
 
 ### 2.112. 🎯 Chapter 112
 
-<EnWordList :words="[
+<WordList :words="[
 'auxiliary',
 'heal',
 'reserve',
@@ -2858,7 +2858,7 @@
 
 ### 2.113. 🎯 Chapter 113
 
-<EnWordList :words="[
+<WordList :words="[
 'drill',
 'intelligent',
 'whilst',
@@ -2882,7 +2882,7 @@
 
 ### 2.114. 🎯 Chapter 114
 
-<EnWordList :words="[
+<WordList :words="[
 'stoop',
 'upper',
 'rocket',
@@ -2906,7 +2906,7 @@
 
 ### 2.115. 🎯 Chapter 115
 
-<EnWordList :words="[
+<WordList :words="[
 'strengthen',
 'drip',
 'injury',
@@ -2930,7 +2930,7 @@
 
 ### 2.116. 🎯 Chapter 116
 
-<EnWordList :words="[
+<WordList :words="[
 'attorney',
 'wander',
 'adopt',
@@ -2954,7 +2954,7 @@
 
 ### 2.117. 🎯 Chapter 117
 
-<EnWordList :words="[
+<WordList :words="[
 'current',
 'heel',
 'variety',
@@ -2978,7 +2978,7 @@
 
 ### 2.118. 🎯 Chapter 118
 
-<EnWordList :words="[
+<WordList :words="[
 'confirm',
 'cement',
 'subway',
@@ -3002,7 +3002,7 @@
 
 ### 2.119. 🎯 Chapter 119
 
-<EnWordList :words="[
+<WordList :words="[
 'luggage',
 'lick',
 'missile',
@@ -3026,7 +3026,7 @@
 
 ### 2.120. 🎯 Chapter 120
 
-<EnWordList :words="[
+<WordList :words="[
 'remarkable',
 'brake',
 'tube',
@@ -3050,7 +3050,7 @@
 
 ### 2.121. 🎯 Chapter 121
 
-<EnWordList :words="[
+<WordList :words="[
 'destination',
 'vertical',
 'learning',
@@ -3074,7 +3074,7 @@
 
 ### 2.122. 🎯 Chapter 122
 
-<EnWordList :words="[
+<WordList :words="[
 'transmit',
 'socialism',
 'consumption',
@@ -3098,7 +3098,7 @@
 
 ### 2.123. 🎯 Chapter 123
 
-<EnWordList :words="[
+<WordList :words="[
 'fruitful',
 'react',
 'dragon',
@@ -3122,7 +3122,7 @@
 
 ### 2.124. 🎯 Chapter 124
 
-<EnWordList :words="[
+<WordList :words="[
 'conclude',
 'comprehension',
 'beggar',
@@ -3146,7 +3146,7 @@
 
 ### 2.125. 🎯 Chapter 125
 
-<EnWordList :words="[
+<WordList :words="[
 'derive',
 'capacity',
 'cope',
@@ -3170,7 +3170,7 @@
 
 ### 2.126. 🎯 Chapter 126
 
-<EnWordList :words="[
+<WordList :words="[
 'observation',
 'tremble',
 'suspect',
@@ -3194,7 +3194,7 @@
 
 ### 2.127. 🎯 Chapter 127
 
-<EnWordList :words="[
+<WordList :words="[
 'magic',
 'argument',
 'reveal',
@@ -3218,7 +3218,7 @@
 
 ### 2.128. 🎯 Chapter 128
 
-<EnWordList :words="[
+<WordList :words="[
 'notebook',
 'curious',
 'indirect',
@@ -3242,7 +3242,7 @@
 
 ### 2.129. 🎯 Chapter 129
 
-<EnWordList :words="[
+<WordList :words="[
 'penalty',
 'sociology',
 'link',
@@ -3266,7 +3266,7 @@
 
 ### 2.130. 🎯 Chapter 130
 
-<EnWordList :words="[
+<WordList :words="[
 'continual',
 'herd',
 'limb',
@@ -3290,7 +3290,7 @@
 
 ### 2.131. 🎯 Chapter 131
 
-<EnWordList :words="[
+<WordList :words="[
 'ounce',
 'challenge',
 'emit',
