@@ -3,7 +3,7 @@
   "name": "TNotes.en-notes",
   "description": "英语学习笔记",
   "icon": {
-    "src": "https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/assets/icon--en-notes.svg"
+    "src": "../assets/kb-icon.svg"
   },
   "repositoryUrl": "https://github.com/tnotesjs/TNotes.en-notes",
   "port": 9379,
